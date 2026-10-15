@@ -1,0 +1,439 @@
+{
+  "exported_at": "2026-10-12T23:49:35.531Z",
+  "total_rounds": 150,
+  "manual_override": false,
+  "ranking": [
+    {
+      "rank": 1,
+      "id": "cathedral-caverns-state-park",
+      "name": "Cathedral Caverns State Park",
+      "region": "Ridge and Valley",
+      "elo": 1653,
+      "times_seen": 7
+    },
+    {
+      "rank": 2,
+      "id": "dismals-canyon-conservatory",
+      "name": "Dismals Canyon Conservatory",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1632,
+      "times_seen": 9
+    },
+    {
+      "rank": 3,
+      "id": "steven-c-minkin-trackway-site",
+      "name": "Steven C. Minkin Paleozoic Trackway Site",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1631,
+      "times_seen": 8
+    },
+    {
+      "rank": 4,
+      "id": "walls-of-jericho",
+      "name": "Walls of Jericho",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1603,
+      "times_seen": 9
+    },
+    {
+      "rank": 5,
+      "id": "coldwater-mountain-spring",
+      "name": "Coldwater Mountain Tract & Coldwater Spring",
+      "region": "Ridge and Valley",
+      "elo": 1599,
+      "times_seen": 8
+    },
+    {
+      "rank": 6,
+      "id": "monte-sano-state-park",
+      "name": "Monte Sano State Park",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1595,
+      "times_seen": 8
+    },
+    {
+      "rank": 7,
+      "id": "mississippi-sandhill-crane-nwr",
+      "name": "Mississippi Sandhill Crane National Wildlife Refuge (brief mention)",
+      "region": "Interior Plateau & Tennessee River Valley (Highland Rim)",
+      "elo": 1589,
+      "times_seen": 9
+    },
+    {
+      "rank": 8,
+      "id": "desoto-state-park",
+      "name": "DeSoto State Park",
+      "region": "Ridge and Valley",
+      "elo": 1586,
+      "times_seen": 9
+    },
+    {
+      "rank": 9,
+      "id": "bankhead-nf-sipsey-wilderness",
+      "name": "William B. Bankhead National Forest & Sipsey Wilderness",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1584,
+      "times_seen": 9
+    },
+    {
+      "rank": 10,
+      "id": "cahaba-river-nwr",
+      "name": "Cahaba River National Wildlife Refuge",
+      "region": "Ridge and Valley",
+      "elo": 1582,
+      "times_seen": 8
+    },
+    {
+      "rank": 11,
+      "id": "little-river-canyon-national-preserve",
+      "name": "Little River Canyon National Preserve",
+      "region": "Ridge and Valley",
+      "elo": 1574,
+      "times_seen": 8
+    },
+    {
+      "rank": 12,
+      "id": "wheeler-nwr",
+      "name": "Wheeler National Wildlife Refuge",
+      "region": "Interior Plateau & Tennessee River Valley (Highland Rim)",
+      "elo": 1572,
+      "times_seen": 8
+    },
+    {
+      "rank": 13,
+      "id": "bucks-pocket-state-park",
+      "name": "Buck's Pocket State Park",
+      "region": "Ridge and Valley",
+      "elo": 1571,
+      "times_seen": 8
+    },
+    {
+      "rank": 14,
+      "id": "weeks-bay-reserve",
+      "name": "Weeks Bay Reserve",
+      "region": "Coastal Alabama (Barrier Islands, Bays & Gulf Coast)",
+      "elo": 1565,
+      "times_seen": 7
+    },
+    {
+      "rank": 15,
+      "id": "gulf-state-park",
+      "name": "Gulf State Park",
+      "region": "Coastal Alabama (Barrier Islands, Bays & Gulf Coast)",
+      "elo": 1561,
+      "times_seen": 7
+    },
+    {
+      "rank": 16,
+      "id": "cane-creek-canyon-nature-preserve",
+      "name": "Cane Creek Canyon Nature Preserve",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1555,
+      "times_seen": 8
+    },
+    {
+      "rank": 17,
+      "id": "roy-b-whittacker-paint-rock-river-preserve",
+      "name": "Roy B. Whittacker Paint Rock River Preserve",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1540,
+      "times_seen": 9
+    },
+    {
+      "rank": 18,
+      "id": "dugger-mountain-wilderness-area",
+      "name": "Dugger Mountain Wilderness Area",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1540,
+      "times_seen": 8
+    },
+    {
+      "rank": 19,
+      "id": "dauphin-island",
+      "name": "Dauphin Island & Dauphin Island Sea Lab",
+      "region": "Coastal Alabama (Barrier Islands, Bays & Gulf Coast)",
+      "elo": 1540,
+      "times_seen": 9
+    },
+    {
+      "rank": 20,
+      "id": "keel-sharp-bingham-mountain-preserves",
+      "name": "Keel Mountain Preserve, Sharp Mountain Preserve & Bingham Mountain Preserve",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1538,
+      "times_seen": 8
+    },
+    {
+      "rank": 21,
+      "id": "splinter-hill-bog-preserve",
+      "name": "Splinter Hill Bog Preserve",
+      "region": "Coastal Alabama (Barrier Islands, Bays & Gulf Coast)",
+      "elo": 1534,
+      "times_seen": 8
+    },
+    {
+      "rank": 22,
+      "id": "cheaha-sp-wilderness-talladega-nf",
+      "name": "Cheaha State Park, Cheaha Wilderness Area & Talladega National Forest",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1532,
+      "times_seen": 9
+    },
+    {
+      "rank": 23,
+      "id": "shoal-creek-preserve",
+      "name": "Shoal Creek Preserve",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1525,
+      "times_seen": 9
+    },
+    {
+      "rank": 24,
+      "id": "sauta-cave-nwr",
+      "name": "Sauta Cave National Wildlife Refuge",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1525,
+      "times_seen": 8
+    },
+    {
+      "rank": 25,
+      "id": "cahaba-river-wma",
+      "name": "Cahaba River Wildlife Management Area",
+      "region": "Ridge and Valley",
+      "elo": 1520,
+      "times_seen": 8
+    },
+    {
+      "rank": 26,
+      "id": "old-cahawba-prairie-tract",
+      "name": "Old Cahawba Prairie Tract",
+      "region": "Southeastern Plains, Red Hills & Black Belt Prairie",
+      "elo": 1507,
+      "times_seen": 9
+    },
+    {
+      "rank": 27,
+      "id": "lake-guntersville-state-park",
+      "name": "Lake Guntersville State Park / Guntersville State Park & Guntersville Lake",
+      "region": "Ridge and Valley",
+      "elo": 1504,
+      "times_seen": 8
+    },
+    {
+      "rank": 28,
+      "id": "chewacla-state-park",
+      "name": "Chewacla State Park",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1501,
+      "times_seen": 9
+    },
+    {
+      "rank": 29,
+      "id": "perdido-key-johnson-beach",
+      "name": "Perdido Key State Park / Gulf Islands National Seashore (Johnson Beach)",
+      "region": "Coastal Alabama (Barrier Islands, Bays & Gulf Coast)",
+      "elo": 1501,
+      "times_seen": 8
+    },
+    {
+      "rank": 30,
+      "id": "turkey-creek-nature-preserve",
+      "name": "Turkey Creek Nature Preserve (Forever Wild Tract)",
+      "region": "Ridge and Valley",
+      "elo": 1499,
+      "times_seen": 9
+    },
+    {
+      "rank": 31,
+      "id": "chitwood-barrens-preserve",
+      "name": "Chitwood Barrens Preserve",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1496,
+      "times_seen": 8
+    },
+    {
+      "rank": 32,
+      "id": "tuskegee-national-forest",
+      "name": "Tuskegee National Forest",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1483,
+      "times_seen": 9
+    },
+    {
+      "rank": 33,
+      "id": "coosa-wma-longleaf-hills-tract",
+      "name": "Coosa Wildlife Management Area & Coosa River Longleaf Hills Tract",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1476,
+      "times_seen": 9
+    },
+    {
+      "rank": 34,
+      "id": "little-river-canyon-center",
+      "name": "Little River Canyon Center",
+      "region": "Ridge and Valley",
+      "elo": 1464,
+      "times_seen": 9
+    },
+    {
+      "rank": 35,
+      "id": "mountain-longleaf-nwr",
+      "name": "Mountain Longleaf National Wildlife Refuge",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1460,
+      "times_seen": 8
+    },
+    {
+      "rank": 36,
+      "id": "skyline-wma",
+      "name": "Skyline Wildlife Management Area",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1460,
+      "times_seen": 9
+    },
+    {
+      "rank": 37,
+      "id": "bon-secour-nwr",
+      "name": "Bon Secour National Wildlife Refuge",
+      "region": "Coastal Alabama (Barrier Islands, Bays & Gulf Coast)",
+      "elo": 1457,
+      "times_seen": 9
+    },
+    {
+      "rank": 38,
+      "id": "solon-dixon-blue-pond",
+      "name": "Solon Dixon Forestry Education Center & Blue Pond",
+      "region": "Southeastern Plains, Red Hills & Black Belt Prairie",
+      "elo": 1454,
+      "times_seen": 8
+    },
+    {
+      "rank": 39,
+      "id": "conecuh-nf-blue-spring-wma",
+      "name": "Conecuh National Forest & Blue Spring Wildlife Management Area",
+      "region": "Southeastern Plains, Red Hills & Black Belt Prairie",
+      "elo": 1453,
+      "times_seen": 8
+    },
+    {
+      "rank": 40,
+      "id": "horseshoe-bend-national-military-park",
+      "name": "Horseshoe Bend National Military Park",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1452,
+      "times_seen": 9
+    },
+    {
+      "rank": 41,
+      "id": "indian-mountain-tract",
+      "name": "Indian Mountain Tract",
+      "region": "Ridge and Valley",
+      "elo": 1441,
+      "times_seen": 8
+    },
+    {
+      "rank": 42,
+      "id": "ruffner-mountain-nature-preserve",
+      "name": "Ruffner Mountain Nature Preserve",
+      "region": "Ridge and Valley",
+      "elo": 1439,
+      "times_seen": 8
+    },
+    {
+      "rank": 43,
+      "id": "haines-island-park-red-hills-tract",
+      "name": "Haines Island Park & the Forever Wild Red Hills Tract",
+      "region": "Southeastern Plains, Red Hills & Black Belt Prairie",
+      "elo": 1427,
+      "times_seen": 8
+    },
+    {
+      "rank": 44,
+      "id": "oak-mountain-state-park",
+      "name": "Oak Mountain State Park",
+      "region": "Ridge and Valley",
+      "elo": 1423,
+      "times_seen": 8
+    },
+    {
+      "rank": 45,
+      "id": "tannehill-ironworks-state-park",
+      "name": "Tannehill Ironworks Historic State Park",
+      "region": "Ridge and Valley",
+      "elo": 1420,
+      "times_seen": 8
+    },
+    {
+      "rank": 46,
+      "id": "prairie-grove-glades-preserve",
+      "name": "Prairie Grove Glades Preserve",
+      "region": "Southwestern Appalachians (Jackson County Mountains, Sand Mountain, Cumberland/Dissected Plateau)",
+      "elo": 1419,
+      "times_seen": 8
+    },
+    {
+      "rank": 47,
+      "id": "choccolocco-hollins-wma",
+      "name": "Choccolocco & Hollins Wildlife Management Areas",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1408,
+      "times_seen": 8
+    },
+    {
+      "rank": 48,
+      "id": "wind-creek-state-park",
+      "name": "Wind Creek State Park",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1406,
+      "times_seen": 8
+    },
+    {
+      "rank": 49,
+      "id": "fred-t-stimpson-wma",
+      "name": "Fred T. Stimpson Wildlife Management Area",
+      "region": "Southeastern Plains, Red Hills & Black Belt Prairie",
+      "elo": 1392,
+      "times_seen": 9
+    },
+    {
+      "rank": 50,
+      "id": "eufaula-nwr",
+      "name": "Eufaula National Wildlife Refuge (brief mention)",
+      "region": "Interior Plateau & Tennessee River Valley (Highland Rim)",
+      "elo": 1389,
+      "times_seen": 8
+    },
+    {
+      "rank": 51,
+      "id": "coon-creek-yates-lake-west-tract",
+      "name": "Coon Creek Tract & Yates Lake West Tract",
+      "region": "Piedmont & Talladega Mountains",
+      "elo": 1384,
+      "times_seen": 8
+    },
+    {
+      "rank": 52,
+      "id": "watercress-darter-nwr",
+      "name": "Watercress Darter National Wildlife Refuge",
+      "region": "Ridge and Valley",
+      "elo": 1384,
+      "times_seen": 8
+    },
+    {
+      "rank": 53,
+      "id": "moundville-archaeological-park",
+      "name": "Moundville Archaeological Park",
+      "region": "Southeastern Plains, Red Hills & Black Belt Prairie",
+      "elo": 1371,
+      "times_seen": 8
+    },
+    {
+      "rank": 54,
+      "id": "freedom-hills-lauderdale-transition-hills-wmas",
+      "name": "Freedom Hills, Lauderdale & Transition Hills WMAs (brief mentions)",
+      "region": "Interior Plateau & Tennessee River Valley (Highland Rim)",
+      "elo": 1356,
+      "times_seen": 7
+    }
+  ]
+}

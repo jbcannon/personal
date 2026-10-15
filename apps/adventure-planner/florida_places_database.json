@@ -1,0 +1,2300 @@
+[
+    {
+        "id":  "fl-florida-caverns-sp",
+        "name":  "Florida Caverns State Park",
+        "region":  "Panhandle",
+        "location":  "Marianna, Jackson County, Florida",
+        "lat":  30.8403,
+        "lon":  -85.2144,
+        "flora_fauna":  "Upland mixed hardwood forest over limestone karst; the cave itself hosts cave-adapted invertebrates and seasonal bat roosts (including gray bats nearby), while the Chipola River floodplain above supports bottomland hardwoods, Barbara\u0027s buttons, and a dense spring wildflower understory.",
+        "special_note":  "The only state park in Florida offering regularly scheduled tours through a dry, air-filled limestone cave with stalactites, stalagmites, flowstone, and soda straws -- essentially the only \u0027show cave\u0027 experience in a state almost entirely defined by water-filled karst. Formed over millions of years as rainwater dissolved the limestone bedrock.",
+        "best_time_of_year":  "Anytime for the cave tour itself (a constant ~65F year-round, the real draw here); spring (Mar-Apr) adds peak wildflowers and the highest Chipola River flow for paddling; some passages can close briefly during the gray bat maternity/pupping season (roughly May-Aug).",
+        "driving_distance_from_albany_ga":  "~95.1 mi / ~2h 23m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Cave tours are ranger-led, timed-entry, and ticketed (small fee); the cave can close temporarily after heavy rain if passages flood.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A 45-minute walking tour descends into illuminated cave rooms dripping with flowstone draperies, columns, and delicate soda-straw stalactites; above ground, the Blue Hole spring and the limestone bluffs along the Chipola River add a second layer of karst scenery.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/View_of_stalactites_inside_cave_at_the_Florida_Caverns_State_Park-_Marianna%2C_Florida_%283330998510%29.jpg/1280px-View_of_stalactites_inside_cave_at_the_Florida_Caverns_State_Park-_Marianna%2C_Florida_%283330998510%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-florida-caverns-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1580,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/florida-caverns-state-park",
+        "adventurer_review_link":  "https://secretfalls.com/hiking/florida-caverns-trail",
+        "notable_taxa":  [
+                             "Southeastern Myotis (cave bat)",
+                             "Chipola Slabshell (endemic freshwater mussel)",
+                             "American Alligator",
+                             "Barred Owl",
+                             "Pileated Woodpecker",
+                             "Nine-banded Armadillo"
+                         ],
+        "hike_rare_different_note":  "The only Florida state park with ranger-led tours through a public dry limestone cavern (stalactites, stalagmites, flowstone); also has the spring-fed Blue Hole and Chipola River paddling, a genuinely different experience from Florida\u0027s typical flatwoods/springs parks.",
+        "overnight_town":  "Marianna, FL — close enough for a day trip from Albany (~1.25 hrs) for this site alone, but a good overnight base if combining with Falling Waters, Torreya, and the Garden of Eden Trail.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Florida Caverns State Park Campground (near Blue Hole)",
+                        "notes":  "~32 water/electric sites with modern bathhouse; reserve via Florida State Parks/ReserveAmerica up to 11 months ahead, can fill on weekends."
+                    },
+        "must_see_trails":  "Ranger-led Cave Tour (~1 hour, tickets first-come first-served or limited online via FloridaCavernsGiftShop.com — can sell out, arrive early); Sinkhole Trail (1.1 mi loop) and Bumpnose Trail (6.8 mi multiuse, hike/bike/horse) from the Blue Hole day-use area; Chipola River canoe/kayak trail.",
+        "nearby_linkages":  [
+                                "Falling Waters State Park",
+                                "Torreya State Park",
+                                "Jackson Blue Springs / Merritt\u0027s Mill Pond"
+                            ],
+        "card_summary":  "Florida\u0027s only dry show cave -- a 45-minute tour past flowstone and stalactites.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Ranger-led Cave Tour (~1 hour, tickets first-come first-served or limited online via FloridaCavernsGiftShop.com — can sell out, arrive early); Sinkhole Trail (1.1 mi loop) and Bumpnose Trail (6.8 mi multiuse, hike/bike/horse) from the Blue Hole day-use area; Chipola River canoe/kayak trail."
+                     },
+        "drive_distance_mi":  95.1,
+        "drive_time_min":  143
+    },
+    {
+        "id":  "fl-falling-waters-sp",
+        "name":  "Falling Waters State Park",
+        "region":  "Panhandle",
+        "location":  "Chipley, Washington County, Florida",
+        "lat":  30.7326,
+        "lon":  -85.5316,
+        "flora_fauna":  "Longleaf pine/turkey oak sandhill surrounding a cypress-and-hardwood sink; the sinkhole microclimate supports ferns and shade-loving plants unusual for the surrounding dry uplands.",
+        "special_note":  "Home to the tallest waterfall in Florida (about 73 feet), a rare feature in a state with almost no topographic relief: a small creek plunges into a cylindrical sinkhole nearly 100 feet deep and simply disappears underground into the aquifer, its exact resurgence point unknown.",
+        "best_time_of_year":  "Anytime, but the waterfall itself is entirely rain-dependent -- visit within a day or two of a good rain for the strongest flow; late fall through spring tends to be more reliable than the driest summer stretches, when the falls can slow to a trickle or stop.",
+        "driving_distance_from_albany_ga":  "~117.6 mi / ~2h 54m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "A boardwalk and observation deck provide safe viewing directly into the sink; the waterfall can run low or dry during drought.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A boardwalk winds through a string of other, smaller sinkholes before reaching the main overlook, where the waterfall drops into a moss-draped, fern-lined pit that feels startlingly like a tiny slice of Appalachia dropped into the Florida sandhills.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Falling_Waters_State_Park_3.jpg/1280px-Falling_Waters_State_Park_3.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/fl-falling-waters-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/falling-waters",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/falling-waters-state-park-sinkhole-trail-falling-water-falls-wiregrass-trail-and-terrace-trail-chipley-florida",
+        "notable_taxa":  [
+                             "Gopher Tortoise",
+                             "Sherman\u0027s Fox Squirrel",
+                             "Pileated Woodpecker",
+                             "Eastern Towhee",
+                             "Five-lined Skink"
+                         ],
+        "hike_rare_different_note":  "Home to Florida\u0027s tallest waterfall (~73 ft), which drops into a 100-ft-deep sinkhole and vanishes underground to an unknown destination — a true geological oddity in an otherwise flat state. Flow is rain-dependent; best 1-2 days after a good rain.",
+        "overnight_town":  "Chipley, FL (or Marianna, FL, ~25 min away) — day-trip distance from Albany (~1.5-1.75 hrs); pairs naturally with Florida Caverns on the same day.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Falling Waters State Park Campground",
+                        "notes":  "24 sites with water/electric; reserve via Florida State Parks/ReserveAmerica, especially for weekends."
+                    },
+        "must_see_trails":  "Sink Hole Trail (~0.5-2 mi depending on route defined) boardwalk loop past multiple sinkholes to the Falling Waters Sink viewing platform; longer Wiregrass Trail and Terrace Trail loops through longleaf pine uplands for a fuller 2-3 mi hike.",
+        "nearby_linkages":  [
+                                "Florida Caverns State Park",
+                                "Torreya State Park"
+                            ],
+        "card_summary":  "Florida\u0027s tallest waterfall (73 ft) vanishes into a mysterious sinkhole whose exit has never been found.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  117.6,
+        "drive_time_min":  174
+    },
+    {
+        "id":  "fl-torreya-sp",
+        "name":  "Torreya State Park",
+        "region":  "Panhandle",
+        "location":  "Bristol, Liberty County, Florida",
+        "lat":  30.5625,
+        "lon":  -84.9513,
+        "flora_fauna":  "Namesake Florida Torreya (Torreya taxifolia), one of the most critically endangered conifers in North America, found in the wild only on these Apalachicola River bluffs; also Florida yew, mountain laurel, beech-magnolia ravine forest, and relict species left over from the last glacial period.",
+        "special_note":  "Sits atop 150-foot bluffs over the Apalachicola River -- the closest Florida gets to true canyon-and-overlook topography -- and is the entire natural range of the Florida Torreya, a species now nearly wiped out by an introduced fungal blight and surviving mainly through conservation planting.",
+        "best_time_of_year":  "Spring (Mar-Apr) for ravine wildflowers and the mildest hiking temperatures; fall (Oct-Nov) for hardwood color in the steephead ravines; winter for the clearest Apalachicola River bluff views once the canopy is bare.",
+        "driving_distance_from_albany_ga":  "~103.1 mi / ~2h 46m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The Gregory House overlook delivers one of the most dramatic river-bluff views in Florida, and the Rock Bluff and Torreya Challenge Trails wind through steep, ravine-cut hardwood forest that looks nothing like the rest of the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Torreya_State_Park_-_51916385092.jpg/1280px-Torreya_State_Park_-_51916385092.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-torreya-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1565,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Torreya",
+        "adventurer_review_link":  "https://eastcoasthiker.com/trails/torreyahikingtrail/",
+        "notable_taxa":  [
+                             "Florida Torreya (critically endangered conifer, \u0027stinking cedar\u0027)",
+                             "Florida Yew",
+                             "Bachman\u0027s Sparrow",
+                             "Barking Treefrog",
+                             "Eastern Indigo Snake (regional reintroduction)"
+                         ],
+        "hike_rare_different_note":  "One of the only places on Earth with wild Florida Torreya and Florida Yew, two critically endangered relict conifers found nowhere outside this stretch of the Apalachicola River bluffs; the steephead-ravine terrain is the closest thing to Appalachian-style elevation change in Florida.",
+        "overnight_town":  "Bristol, FL (closest, limited lodging) or Marianna, FL (fuller amenities, ~45 min away) — overnight recommended to allow time for the full trail system.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Torreya State Park Campground",
+                        "notes":  "Developed sites with water/electric plus backcountry/primitive camping along the trail system; one recent source noted a temporary maintenance closure of the main campground, so confirm current status on floridastateparks.org before visiting."
+                    },
+        "must_see_trails":  "Torreya Trail perimeter loop (~7 mi, moderate-hard, rolling ~150-300 ft elevation gain through repeated ravine descents/climbs) passing the Gregory House, CCC-era stonework, Civil War earthworks, and a Weeping Ridge waterfall spur; full connected trail system totals ~16 miles.",
+        "nearby_linkages":  [
+                                "Apalachicola Bluffs and Ravines Preserve (Garden of Eden Trail)",
+                                "Florida Caverns State Park",
+                                "Falling Waters State Park"
+                            ],
+        "card_summary":  "150-ft river bluffs -- Florida\u0027s closest thing to canyon scenery -- and the only home of the nearly extinct Florida Torreya tree.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  103.1,
+        "drive_time_min":  166
+    },
+    {
+        "id":  "fl-garden-of-eden-trail",
+        "name":  "Apalachicola Bluffs and Ravines Preserve (Garden of Eden Trail)",
+        "region":  "Panhandle",
+        "location":  "near Bristol, Liberty County, Florida",
+        "lat":  30.6000,
+        "lon":  -84.9800,
+        "flora_fauna":  "Steephead ravines -- a globally rare erosional landform where groundwater seeps undercut sandy bluffs, creating cool, spring-fed canyon microclimates; refuge for Florida Torreya, Florida yew, Ashe magnolia, Chapman\u0027s rhododendron, and numerous relict and endemic plants found nowhere else on Earth.",
+        "special_note":  "The Nature Conservancy preserve protecting the best remaining examples of steephead ravines, a geologic and ecological phenomenon almost unique to the Apalachicola River bluffs; so many rare and endemic species cluster here that early botanists nicknamed the area the \u0027Garden of Eden.\u0027",
+        "best_time_of_year":  "Spring (Mar-May) for peak bloom of the ravine\u0027s rare endemic wildflowers and relict plants (including Ashe magnolia); fall for the most comfortable temperatures on this strenuous, shadeless-in-spots trail.",
+        "driving_distance_from_albany_ga":  "~99.8 mi / ~2h 30m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Free, self-guided trail maintained by The Nature Conservancy; limited parking and no visitor center.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The Garden of Eden Trail drops abruptly off the flat uplands into a deep, cool, spring-fed ravine system with seepage streams and steep sandy walls -- the closest thing Florida has to a true canyon landscape, and strikingly different from the flatwoods just a few hundred yards away.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Taxus-floridana-2004-a.jpg/1280px-Taxus-floridana-2004-a.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0 (photo of Florida yew, a characteristic species of the preserve\u0027s steephead ravines)",
+                           "local_path":  "photos/fl-garden-of-eden-trail-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1575,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/apalachicola-bluffs-and-ravines-preserve/",
+        "adventurer_review_link":  "https://secretfalls.com/hiking/garden-of-eden-trail",
+        "notable_taxa":  [
+                             "Florida Torreya",
+                             "Florida Yew",
+                             "Eastern Indigo Snake (active reintroduction site)",
+                             "Gopher Tortoise",
+                             "Bald Eagle",
+                             "Mississippi Kite"
+                         ],
+        "hike_rare_different_note":  "A Nature Conservancy preserve protecting the best remaining stand of Florida Torreya and Florida Yew, plus an active 10-year eastern indigo snake reintroduction program; the strenuous 3.75-mi trail drops through a steephead ravine most visitors never expect to find in Florida, ending at 135-ft Alum Bluff over the Apalachicola River.",
+        "overnight_town":  "Bristol, FL or Marianna, FL — same overnight base as Torreya State Park, just a few miles away.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Day-use only, sunrise to sunset, no camping on the preserve. Nearest camping is at Torreya State Park (~15 min) or Florida Caverns State Park. Confirm the preserve is open before visiting (past hurricane-related closures have occurred); contact VisitABRP@tnc.org or 850-643-2756."
+                    },
+        "must_see_trails":  "Garden of Eden Trail — 3.75-mile round-trip, self-guided, orange-blazed loop (rated very strenuous) through longleaf uplands, a steephead ravine and seepage stream, ending at Alum Bluff. No bikes, horses, or pets allowed.",
+        "nearby_linkages":  [
+                                "Torreya State Park",
+                                "Florida Caverns State Park"
+                            ],
+        "card_summary":  "Rare \u0027steephead\u0027 ravines so biologically rich early botanists nicknamed it the Garden of Eden.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  99.8,
+        "drive_time_min":  150
+    },
+    {
+        "id":  "fl-blackwater-river-sp",
+        "name":  "Blackwater River State Park",
+        "region":  "Panhandle",
+        "location":  "Holt, Santa Rosa County, Florida",
+        "lat":  30.8103,
+        "lon":  -86.8502,
+        "flora_fauna":  "Tea-colored, tannin-stained river over brilliant white sand bars, bordered by Atlantic white cedar swamp and longleaf pine uplands; river otters, wood ducks, and the occasional black bear along undeveloped banks.",
+        "special_note":  "Widely considered one of the cleanest, least-disturbed sand-bottom rivers in the world, with almost no development along its banks -- a striking contrast between the dark, tannin-stained water and the brilliant white sand beneath it.",
+        "best_time_of_year":  "Spring through fall (Apr-Oct) for paddling/tubing, with water temperatures most comfortable May-Sept; the rare Pine Barrens Treefrog calls from the surrounding seepage bogs on warm, rainy nights in spring and summer.",
+        "driving_distance_from_albany_ga":  "~207.7 mi / ~4h 54m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Broad white sandbars curve along nearly every bend, offering natural beaches in the middle of deep forest; the contrast of black water, white sand, and overhanging cedar and tupelo is considered some of the most photogenic blackwater-river scenery in the Southeast.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/FL_Blackwater_River_SP_pano02.jpg/1280px-FL_Blackwater_River_SP_pano02.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-blackwater-river-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1510,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/blackwater-river",
+        "adventurer_review_link":  "https://www.hikingproject.com/trail/7110987/juniper-lake-trail-loop",
+        "notable_taxa":  [
+                             "Pine Barrens Treefrog (rare, regional seepage-bog specialist)",
+                             "Prothonotary Warbler",
+                             "Barred Owl",
+                             "Fox Squirrel",
+                             "American Alligator"
+                         ],
+        "hike_rare_different_note":  "Widely cited as one of the purest, cleanest sand-bottom rivers in the world — a tannic blackwater paddling trip unlike any spring run in the state — and the surrounding pitcherplant seepage bogs are one of the few Florida sites for the rare Pine Barrens Treefrog.",
+        "overnight_town":  "Milton, FL — closest town with services; this park is ~4.5-5 hrs from Albany (far west, near Pensacola) and isolated from the other 6 Panhandle sites here, so it\u0027s best planned as its own trip or combined with a Pensacola-area visit.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Blackwater River State Park Campground",
+                        "notes":  "30 water/electric sites; reserve via Florida State Parks/ReserveAmerica up to 11 months ahead, fills on weekends."
+                    },
+        "must_see_trails":  "Blackwater River Canoe Trail (multi-hour to multi-day paddle; canoe/kayak rentals via Blackwater Canoe Rental adjacent to the park, check water levels with the ranger station); Juniper Lake Trail (~0.5 mi easy loop around an oxbow lake) and Chain of Lakes Trail within the park; a segment of the Florida Trail also passes nearby.",
+        "nearby_linkages":  [
+
+                            ],
+        "card_summary":  "One of the cleanest sand-bottom rivers in the world -- black water over brilliant white sand.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Blackwater River Canoe Trail (multi-hour to multi-day paddle; canoe/kayak rentals via Blackwater Canoe Rental adjacent to the park, check water levels with the ranger station); Juniper Lake Trail (~0.5 mi easy loop around an oxbow lake) and Chain of Lakes Trail within the park; a segment of the Florida Trail also passes nearby."
+                     },
+        "drive_distance_mi":  207.7,
+        "drive_time_min":  294
+    },
+    {
+        "id":  "fl-st-joseph-peninsula-sp",
+        "name":  "St. Joseph Peninsula State Park",
+        "region":  "Panhandle",
+        "location":  "Port St. Joe, Gulf County, Florida",
+        "lat":  29.8300,
+        "lon":  -85.4200,
+        "flora_fauna":  "Towering dune fields (some of the tallest on the Gulf Coast), scrub habitat for the Choctawhatchee beach mouse, nesting loggerhead and green sea turtles, and a renowned fall raptor migration corridor along the peninsula\u0027s tip.",
+        "special_note":  "Consistently rated among the best beaches in the United States; the undeveloped barrier spit funnels one of the most concentrated fall hawk migrations on the Gulf Coast, with thousands of raptors passing the point in a single October day.",
+        "best_time_of_year":  "Fall hawk migration runs roughly late Sept through Oct, with the heaviest pushes 1-2 days after a cold front (hundreds of raptors/day possible at the peninsula tip); loggerheads nest May-Aug with hatchlings emerging Jul-Oct; the beach and dunes are worth a visit anytime.",
+        "driving_distance_from_albany_ga":  "~185.6 mi / ~4h 42m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Enormous, wind-sculpted dunes rise well over the heads of hikers along the Gulf-side trails, with views across St. Joseph Bay on one side and open Gulf on the other from the same narrow spit of sand.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/St_Joseph_Peninsula_FL_SP_beach_north01.jpg/1280px-St_Joseph_Peninsula_FL_SP_beach_north01.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-st-joseph-peninsula-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1565,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/t-h-stone-memorial-st-joseph-peninsula-state-park",
+        "adventurer_review_link":  "https://auntiebeak.com/st-joseph-peninsula-sp-wilderness-trail",
+        "notable_taxa":  [
+                             "Snowy Plover (nesting)",
+                             "Piping Plover (wintering)",
+                             "Florida Black Bear (Wilderness Preserve)",
+                             "American Oystercatcher",
+                             "Loggerhead Sea Turtle (nesting)",
+                             "Gopher Tortoise"
+                         ],
+        "hike_rare_different_note":  "Consistently ranked among America\u0027s best beaches for its pristine dune/scrub ecosystem, and one of the few places in Florida to do true backcountry beach backpacking — a multi-mile primitive trail through black bear habitat to pack-in/pack-out (some kayak-access-only) campsites at the peninsula\u0027s wild northern tip.",
+        "overnight_town":  "Port St. Joe or Cape San Blas, FL — roughly 3-3.5 hrs from Albany, overnight warranted; also a good base for visiting St. Vincent NWR.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Shady Pines Campground, cabins, plus Wilderness Preserve primitive sites",
+                        "notes":  "46 developed water/electric sites and 8 cabins near the entrance; 14 primitive sites in the Wilderness Preserve (pack-in/pack-out, no pets, permit required at the Ranger Station; sites #3, #11, #12, #14 are kayak-access only). Reserve developed sites via Florida State Parks/ReserveAmerica."
+                    },
+        "must_see_trails":  "Wilderness Preserve Trail (~6 mi one-way through the undeveloped northern peninsula to primitive camps, permit required, no pets); three shorter interpretive nature trails near the developed area; miles of Gulf-side beach for walking/shelling, regularly rated one of the top beaches in the US.",
+        "nearby_linkages":  [
+                                "St. Vincent National Wildlife Refuge",
+                                "St. George Island State Park"
+                            ],
+        "card_summary":  "A top-rated US beach that funnels thousands of migrating hawks past its tip each October.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  185.6,
+        "drive_time_min":  282
+    },
+    {
+        "id":  "fl-st-vincent-nwr",
+        "name":  "St. Vincent National Wildlife Refuge",
+        "region":  "Panhandle",
+        "location":  "Apalachicola, Franklin County, Florida",
+        "lat":  29.6700,
+        "lon":  -85.1200,
+        "flora_fauna":  "A roadless 12,350-acre barrier island used since the 1990s as a breeding sanctuary for the critically endangered red wolf (part of a captive-breeding and reintroduction effort), plus loggerhead sea turtle nesting, a reintroduced herd of Sambar deer, bald eagles, and shorebird flocks.",
+        "special_note":  "One of the few places in the world where red wolves have been bred for reintroduction in the wild; access is by boat only, making it one of the most undisturbed barrier islands on the Gulf Coast.",
+        "best_time_of_year":  "Spring and fall for migratory songbird/raptor passage and the most comfortable hiking weather; loggerheads nest May-Aug. The red wolves themselves are a closed-area propagation program, not a seasonal wildlife-viewing draw.",
+        "driving_distance_from_albany_ga":  "~179.7 mi / ~4h 17m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "No bridge or causeway -- reachable only by private boat or a paid passenger-ferry concession from Apalachicola; red wolves themselves are not guaranteed sightings and are managed in a separate propagation area.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Miles of utterly undeveloped Gulf beach and interior pine flatwoods and dune lakes, reachable only by boat -- one of the last truly wild, roadless barrier islands left on the northern Gulf Coast.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/St._Vincent_National_Wildlife_Refuge_Freshwater_Lake_-_DPLA_-_ad6ca276fce69d18910a9bb567707797.jpg/1280px-St._Vincent_National_Wildlife_Refuge_Freshwater_Lake_-_DPLA_-_ad6ca276fce69d18910a9bb567707797.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (U.S. Fish and Wildlife Service)",
+                           "local_path":  "photos/fl-st-vincent-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/st-vincent",
+        "adventurer_review_link":  "https://auntiebeak.com/st-vincent-national-wildlife-refuge",
+        "notable_taxa":  [
+                             "Red Wolf (island propagation/breeding site)",
+                             "Sambar Deer (introduced Asian deer, found wild nowhere else in North America)",
+                             "Florida Black Bear",
+                             "Bald Eagle",
+                             "Loggerhead Sea Turtle (nesting)",
+                             "American Alligator"
+                         ],
+        "hike_rare_different_note":  "A boat-access-only barrier island refuge that doubles as a Red Wolf Recovery Program propagation site and hosts a wild population of introduced Sambar deer (a large Asian deer species) — a wildlife combination found nowhere else in the country; exploring is by private boat/kayak only, with ~9 miles of paddleable northern coastline.",
+        "overnight_town":  "Apalachicola, FL — nearest town with lodging, dining, and boat access points, ~3 hrs from Albany.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No public camping except during the refuge\u0027s limited public hunts (Nov-Jan), when overnight stays are permitted; otherwise day-use only (daylight hours), no potable water, no visitor center on the island itself."
+                    },
+        "must_see_trails":  "No maintained trail network — hiking/biking follows old unimproved roads and firebreaks across the ~12,000-acre island; kayaking/paddling the ~9-mile northern coastline (past bayous and alligators) is the signature route. Access via private boat from the Indian Pass boat ramp or Apalachicola (CR 30-B ramp); refuge office is in Apalachicola.",
+        "nearby_linkages":  [
+                                "St. Joseph Peninsula State Park",
+                                "St. George Island State Park",
+                                "Apalachicola National Forest (Wet Prairies \u0026 Longleaf Savannas)"
+                            ],
+        "card_summary":  "A boat-only island where endangered red wolves are bred for reintroduction to the wild.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  179.7,
+        "drive_time_min":  257
+    },
+    {
+        "id":  "fl-st-marks-nwr",
+        "name":  "St. Marks National Wildlife Refuge",
+        "region":  "Panhandle",
+        "location":  "near Tallahassee, Wakulla County, Florida",
+        "lat":  30.0922,
+        "lon":  -84.1458,
+        "flora_fauna":  "Salt marsh, pine flatwoods, and coastal hammock along Apalachee Bay; one of the most important monarch butterfly staging areas in North America during fall migration, plus wintering bald eagles, alligators, and huge concentrations of waterfowl and shorebirds.",
+        "special_note":  "One of the oldest refuges in the National Wildlife Refuge System (established 1931) and a critical fall staging point where monarch butterflies pause by the thousands before crossing the Gulf of Mexico on their way to Mexico.",
+        "best_time_of_year":  "Mid-October through early November for the monarch migration spectacle, peaking around the refuge\u0027s late-October Monarch Butterfly Festival; winter for wintering waterfowl and bald eagles.",
+        "driving_distance_from_albany_ga":  "~124.8 mi / ~3h 20m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The historic 1831 St. Marks Lighthouse stands at the edge of open salt marsh stretching to Apalachee Bay, and the Lighthouse Pool and dike roads offer sweeping, open views of marsh, water, and wading birds rarely found so accessibly in the Panhandle.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/St_Marks_National_Wildlife_Refuge_Lighthouse_%2829284076091%29.jpg/1280px-St_Marks_National_Wildlife_Refuge_Lighthouse_%2829284076091%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-st-marks-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1540,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/st-marks",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/st-marks-national-wildlife-refuge-lighthouse-levee-nature-trail-newport-florida",
+        "notable_taxa":  [
+                             "American Alligator",
+                             "Bald Eagle",
+                             "Monarch Butterfly",
+                             "Wood Stork",
+                             "Red Knot",
+                             "Gopher Tortoise"
+                         ],
+        "hike_rare_different_note":  "One of the most important fall monarch butterfly staging/roosting sites in the Southeast (peak late Oct-early Nov along Lighthouse Road), capped by a walk out to the 1842 St. Marks Lighthouse - a genuinely different draw beyond the usual refuge drive-and-look.",
+        "overnight_town":  "Tallahassee or Crawfordville - about 1.5-2 hrs from Albany, GA; close enough to day-trip alone, but worth overnighting if combining with Wakulla Springs and the Apalachicola NF savannas.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No campground inside the refuge (day-use only); nearest public camping is at Newport Park (Wakulla County) or Ochlockonee River State Park."
+                    },
+        "must_see_trails":  "Lighthouse Levee Nature Trail (1.3 mi out-and-back, easy, flat, to the historic lighthouse and Gulf overlook) and the Cathedral of Palms segment of the Florida National Scenic Trail; the 7-mile Lighthouse Road wildlife drive ties the whole unit together. Refuge trail map: https://www.fws.gov/sites/default/files/documents/map-st-marks-unit-st-marks-nwr.pdf",
+        "nearby_linkages":  [
+                                "Wakulla Springs State Park",
+                                "Apalachicola National Forest (Wet Prairies \u0026 Longleaf Savannas)",
+                                "Lake Jackson (The Disappearing Lake)"
+                            ],
+        "card_summary":  "A historic 1831 lighthouse over salt marsh where monarch butterflies stage before crossing the Gulf.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  124.8,
+        "drive_time_min":  200
+    },
+    {
+        "id":  "fl-wakulla-springs-sp",
+        "name":  "Wakulla Springs State Park (Edward Ball Wakulla Springs)",
+        "region":  "Panhandle",
+        "location":  "Wakulla Springs, Wakulla County, Florida",
+        "lat":  30.2339,
+        "lon":  -84.3024,
+        "flora_fauna":  "One of the largest and deepest freshwater springs on Earth, discharging up to several hundred million gallons a day; resident alligators, abundant manatees in winter, limpkins, anhingas, and a cave system below the spring that has yielded Ice Age mastodon and giant sloth fossils.",
+        "special_note":  "The underwater cave beneath the spring run is so vast and deep (explored past 300 feet) that cave divers have recovered mastodon bones from it; the spring and jungle cruise were also used as filming locations for several Tarzan movies and parts of \u0027Creature from the Black Lagoon.\u0027",
+        "best_time_of_year":  "Nov-Mar for wintering manatees, with the largest concentrations during and right after Dec-Feb cold snaps; the glass-bottom and jungle boat tours run year-round.",
+        "driving_distance_from_albany_ga":  "~109.2 mi / ~2h 42m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Swimming is allowed only in a roped-off area of the spring basin; boat tours are the main way to see wildlife and the full spring run.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A glass-bottom boat ride over water so clear the sandy, cavernous spring vent is visible more than 100 feet down, framed by old-growth cypress draped in Spanish moss along the jungle-like spring run.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/WakullaSpgs_Jun03.jpg/1280px-WakullaSpgs_Jun03.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-wakulla-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1590,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/edward-ball-wakulla-springs-state-park",
+        "adventurer_review_link":  "https://twisttravelmag.com/manatees-wakulla-springs-state-park-florida/",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "American Alligator",
+                             "Anhinga",
+                             "Limpkin",
+                             "Osprey"
+                         ],
+        "hike_rare_different_note":  "One of the largest and deepest freshwater springs on earth, with a 45-minute river boat tour that reliably produces alligators, anhingas and wading birds and, in winter, West Indian manatees - a boat-based wildlife encounter rather than a hiking destination, and genuinely different from every spring-run park on this list.",
+        "overnight_town":  "Tallahassee (or stay right at the park\u0027s 1937 Wakulla Springs Lodge) - about 1.5 hrs from Albany, GA.",
+        "camping":  {
+                        "available":  false,
+                        "name":  "Wakulla Springs Lodge (historic 1937 lodge rooms, not a campground)",
+                        "notes":  "The park has no campground; overnight options are the on-site Lodge (book ahead, limited rooms) or lodging in Tallahassee/Crawfordville."
+                    },
+        "must_see_trails":  "The Historic River Boat Tour (2-3 mile, ~45-minute narrated cruise over the spring basin; glass-bottom version runs only when water clarity allows) is the must-do; supplement with the short nature trails near the lodge and Sally Ward Spring.",
+        "nearby_linkages":  [
+                                "St. Marks National Wildlife Refuge",
+                                "Lake Jackson (The Disappearing Lake)",
+                                "Apalachicola National Forest (Wet Prairies \u0026 Longleaf Savannas)"
+                            ],
+        "card_summary":  "One of the largest, deepest springs on Earth -- glass-bottom boats glide over mastodon-fossil caves and wintering manatees.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  109.2,
+        "drive_time_min":  162
+    },
+    {
+        "id":  "fl-st-george-island-sp",
+        "name":  "St. George Island State Park",
+        "region":  "Panhandle",
+        "location":  "St. George Island, Franklin County, Florida",
+        "lat":  29.6200,
+        "lon":  -84.8700,
+        "flora_fauna":  "Nine undeveloped miles of barrier-island dune, scrub, and salt marsh; nesting loggerhead sea turtles, snowy plovers, and one of the best remaining examples of unbroken dune ecosystem on the Florida Gulf Coast.",
+        "special_note":  "Consistently ranked among the top beaches in the United States for its unusually long, undeveloped stretch of barrier-island wilderness -- most of the park\u0027s nine miles have no buildings in sight in either direction.",
+        "best_time_of_year":  "Loggerheads nest May-Sept with hatchlings emerging through Oct; spring and fall migration bring the most varied birding and the most comfortable hiking temperatures.",
+        "driving_distance_from_albany_ga":  "~171.3 mi / ~4h 5m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Mile after mile of empty white dunes and sea oats back a beach so long and unbroken that a short hike across the island delivers views of both the Gulf of Mexico and the quiet, marsh-lined Apalachicola Bay side.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dr._Julian_G._Bruce_St._George_Island_State_Park_-_Beach.jpg/1280px-Dr._Julian_G._Bruce_St._George_Island_State_Park_-_Beach.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0/Public domain",
+                           "local_path":  "photos/fl-st-george-island-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1500,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/dr-julian-g-bruce-st-george-island-state-park",
+        "adventurer_review_link":  "https://www.islands.com/2159559/st-george-island-state-park-florida-gulf-coast-white-sand-beaches-camping-clear-water/",
+        "notable_taxa":  [
+                             "Loggerhead Sea Turtle",
+                             "Snowy Plover",
+                             "American Oystercatcher",
+                             "Diamondback Terrapin",
+                             "Black Skimmer"
+                         ],
+        "hike_rare_different_note":  "Nine miles of undeveloped barrier-island beach plus a bayside maritime-forest trail system (Gap Point) in one park - it\u0027s one of the few Panhandle beaches where loggerhead sea turtles still nest (May-Sept) and dark skies make it a genuine stargazing spot too.",
+        "overnight_town":  "Apalachicola or Eastpoint - about 3 hrs from Albany, GA, so this is an overnight trip, not a day trip.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "St. George Island State Park Campground (60 developed sites) and Gap Point primitive camping",
+                        "notes":  "Developed sites have water/electric, fire ring, picnic table; note the park has had periodic campground closures for renovation, so confirm current status/reservations on ReserveAmerica before the trip. Gap Point primitive sites are reached via a 2.5-mile trail or by paddle craft only."
+                    },
+        "must_see_trails":  "Gap Point Trail (~2.5 mi one-way through slash pine flatwoods to a bayside point - can be combined with primitive camping) and the 1-mile East Slough Overlook Trail (boardwalks/observation platforms); 3.5 miles of additional bike/nature trails.",
+        "nearby_linkages":  [
+                                "St. Vincent National Wildlife Refuge",
+                                "St. Joseph Peninsula State Park",
+                                "Apalachicola National Forest (Wet Prairies \u0026 Longleaf Savannas)"
+                            ],
+        "card_summary":  "Nine nearly empty, undeveloped miles of barrier-island beach -- consistently rated among the best in the US.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  171.3,
+        "drive_time_min":  245
+    },
+    {
+        "id":  "fl-apalachicola-nf-pitcher-prairie",
+        "name":  "Apalachicola National Forest (Wet Prairies \u0026 Longleaf Savannas)",
+        "region":  "Panhandle",
+        "location":  "Sumatra / Liberty-Franklin-Wakulla Counties, Florida",
+        "lat":  30.0000,
+        "lon":  -84.9800,
+        "flora_fauna":  "The largest national forest in Florida, protecting vast longleaf pine wiregrass savanna, Tate\u0027s Hell swamp, and some of the most spectacular carnivorous-plant wet prairies in the country -- multiple pitcher plant species, sundews, and orchids -- plus one of the largest remaining populations of the red-cockaded woodpecker and a sizeable black bear population.",
+        "special_note":  "Harbors globally significant wet-prairie wildflower displays rivaling the best pitcher-plant bogs in the Southeast, and protects more red-cockaded woodpecker habitat than almost anywhere else in Florida.",
+        "best_time_of_year":  "Peak pitcher-plant and wet-prairie wildflower bloom runs roughly late Mar through May, strongest in April; fall offers drier footing for hiking Tate\u0027s Hell.",
+        "driving_distance_from_albany_ga":  "~137.1 mi / ~3h 18m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Wet prairies and the best bloom sites are scattered and lightly marked; a map or local guide helps, and areas can flood seasonally.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Open, grassy wet prairies carpeted with white-topped pitcher plants and wildflowers stretch to the pine horizon, interrupted by cypress domes and blackwater creeks -- a rare, wide-open wildflower landscape in an otherwise densely forested state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sarracenia_flava_%28yellow_trumpet-leaf_pitcher_plant%29%2C_Apalachicola_National_Forest%2C_FL_%2834262036180%29.jpg/1280px-Sarracenia_flava_%28yellow_trumpet-leaf_pitcher_plant%29%2C_Apalachicola_National_Forest%2C_FL_%2834262036180%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-apalachicola-nf-pitcher-prairie-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1535,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/florida/recreation/apalachicola-national-forest-0",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/category/apalachicola-national-forest",
+        "notable_taxa":  [
+                             "Red-cockaded Woodpecker",
+                             "White-topped Pitcher Plant",
+                             "Gopher Tortoise",
+                             "Bachman\u0027s Sparrow",
+                             "Reticulated Flatwoods Salamander"
+                         ],
+        "hike_rare_different_note":  "One of the largest intact longleaf pine / wiregrass wet-savanna systems left in the Southeast; the Wright Lake Trail near Sumatra passes through seepage-slope pitcher plant bogs that bloom en masse in late March-early April, with active red-cockaded woodpecker cavity trees right along the path - a genuinely rare botanical spectacle most visitors never see.",
+        "overnight_town":  "Carrabelle or Apalachicola - about 2.5-3 hrs from Albany, GA, especially if combining with the coast.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Wright Lake Campground (18 sites, near Sumatra) and Camel Lake Campground (10 sites, near Bristol)",
+                        "notes":  "First-come, first-served developed national forest campgrounds (picnic table, grill, fire ring, tent pad); dispersed primitive camping is also allowed through most of the forest."
+                    },
+        "must_see_trails":  "Wright Lake Trail (4.6 mi interpretive loop through floodplain forest and pitcher plant bogs, near Sumatra - the best bet for the wet-prairie/savanna experience this record is named for); Camel Lake Trail (1 mi loop) and the longer 9-mile Trail of Lakes loop further north near Bristol, both tying into the Florida National Scenic Trail.",
+        "nearby_linkages":  [
+                                "St. George Island State Park",
+                                "St. Marks National Wildlife Refuge",
+                                "Torreya State Park"
+                            ],
+        "card_summary":  "Open wet prairies carpeted in blooming pitcher plants, with some of Florida\u0027s best red-cockaded woodpecker habitat.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  137.1,
+        "drive_time_min":  198
+    },
+    {
+        "id":  "fl-jackson-blue-springs",
+        "name":  "Jackson Blue Springs / Merritt\u0027s Mill Pond",
+        "region":  "Panhandle",
+        "location":  "Marianna, Jackson County, Florida",
+        "lat":  30.8167,
+        "lon":  -85.1667,
+        "flora_fauna":  "A large second-magnitude spring feeding Merritt\u0027s Mill Pond; abundant turtles, fish, and wintering waterfowl on the pond above one of the most studied underwater cave systems in the United States.",
+        "special_note":  "One of the most popular cave-diving training and exploration sites in the country -- the Jackson Blue cave system extends thousands of feet underwater and has long been a proving ground for American cave-diving technique and safety protocols.",
+        "best_time_of_year":  "Anytime for certified cave diving (advance planning/permits required); summer is most comfortable for swimming the open spring pool and paddling the pond.",
+        "driving_distance_from_albany_ga":  "~93.8 mi / ~2h 16m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Open swimming area at the spring head; the cave system itself is restricted to certified cave divers with proper permits.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A broad, startlingly blue spring pool opens into the long, cypress-lined Merritt\u0027s Mill Pond, with the spring\u0027s clarity offering a glimpse toward the cave entrance that has drawn divers from around the world.",
+        "photos":  [
+
+                   ],
+        "elo_seed":  1460,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.jacksoncountyfl.gov/?p=346",
+        "adventurer_review_link":  "https://www.tallahasseemagazine.com/?p=24189",
+        "notable_taxa":  [
+                             "Georgia Blind Salamander",
+                             "Dougherty Plain Cave Crayfish",
+                             "Limpkin",
+                             "Alligator Snapping Turtle",
+                             "Florida Gar"
+                         ],
+        "hike_rare_different_note":  "A nearly 5,000-ft underwater cave system beneath the spring harbors two true cave-obligate endemics - the Georgia blind salamander and Dougherty Plain cave crayfish - found almost nowhere else on earth, drawing certified cave divers worldwide; the surface spring and 202-acre Merritt\u0027s Mill Pond are a completely separate, family-friendly swim/paddle/fish experience, and the pond holds Florida\u0027s state record shellcracker.",
+        "overnight_town":  "n/a - day trip distance (Marianna is roughly 60-70 miles / about 1 hour from Albany, GA).",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "The county recreation area itself has no campground; private campgrounds (e.g., Arrowhead Campsites) operate nearby on Merritt\u0027s Mill Pond for those who want to stay over."
+                    },
+        "must_see_trails":  "Not primarily trail-based: the main visit is the designated swimming/snorkeling area over the spring head, a paddle route across Merritt\u0027s Mill Pond (canoe/kayak/tube rentals on site), and permitted cave diving through Cave Adventurers (advanced certification required) - plus short nature trails around the recreation area.",
+        "nearby_linkages":  [
+                                "Florida Caverns State Park",
+                                "Falling Waters State Park",
+                                "Torreya State Park"
+                            ],
+        "card_summary":  "A famous cave-diving training ground beneath a broad blue spring pool.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Not primarily trail-based: the main visit is the designated swimming/snorkeling area over the spring head, a paddle route across Merritt\u0027s Mill Pond (canoe/kayak/tube rentals on site), and permitted cave diving through Cave Adventurers (advanced certification required) - plus short nature trails around the recreation area."
+                     },
+        "drive_distance_mi":  93.8,
+        "drive_time_min":  136
+    },
+    {
+        "id":  "fl-lake-jackson-sinkhole",
+        "name":  "Lake Jackson (The Disappearing Lake)",
+        "region":  "Panhandle",
+        "location":  "Tallahassee, Leon County, Florida",
+        "lat":  30.5350,
+        "lon":  -84.2660,
+        "flora_fauna":  "A large, shallow, sediment-rich prairie lake supporting excellent largemouth bass fishing, wading birds, and osprey; periodically transitions to wet prairie/marsh vegetation when drained.",
+        "special_note":  "A genuine geological oddity: roughly every 25 years, a sinkhole at the lake bottom (Lime Sink / the \u0027Porter Hole\u0027) opens and the entire multi-thousand-acre lake drains completely within days, exposing the lake bed before the sink seals and the lake slowly refills over following years -- documented drainings occurred in 1932, 1957, 1982, 1999, and 2024.",
+        "best_time_of_year":  "Anytime for ordinary fishing/paddling; the lake-draining spectacle itself is unpredictable (past events in 1932, 1957, 1982, 1999, 2021/2024) and not tied to a season, so check current Florida Fish and Wildlife or local news for the lake\u0027s status before a special trip.",
+        "driving_distance_from_albany_ga":  "~89.3 mi / ~2h 9m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Public boat ramps and shoreline access points around the lake; conditions vary enormously depending on where the lake is in its multi-decade drain/refill cycle.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "During a full drawdown, the lake bed exposes old stumps, fossils, and Native American artifacts across a cracked, prairie-like expanse where there was open water months before -- a striking, rarely-seen transformation of an entire lake basin.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fishing_at_Lake_Jackson_near_Tallahassee%2C_Florida_%2810857444873%29.jpg/1280px-Fishing_at_Lake_Jackson_near_Tallahassee%2C_Florida_%2810857444873%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-lake-jackson-sinkhole-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1480,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  null,
+        "adventurer_review_link":  "https://www.bassmaster.com/news/fate-famed-florida-lakes-uncertain",
+        "notable_taxa":  [
+                             "Limpkin",
+                             "Osprey",
+                             "Bald Eagle",
+                             "American Alligator",
+                             "Florida Largemouth Bass"
+                         ],
+        "hike_rare_different_note":  "A genuine hydrological oddity: this ~4,000-acre karst lake has repeatedly vanished through lakebed sinkholes into the Floridan Aquifer (most recently 2021, with earlier dry-downs in 1907, 1932, 1957, 1982, 1999, 2007 and 2012) - worth a special trip mainly during or just after an active dry-down, when the exposed lakebed and draining sinks are visible; otherwise it\u0027s simply a well-regarded bass lake.",
+        "overnight_town":  "n/a — day trip distance (Tallahassee is roughly 95 miles / about 1.5 hrs from Albany, GA), though many families overnight in Tallahassee anyway while combining this with St. Marks NWR and Wakulla Springs.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping directly on Lake Jackson; nearest options are in the Tallahassee area or at Ochlockonee River State Park."
+                    },
+        "must_see_trails":  "Not trail-based in the usual sense - the typical visit is viewing/fishing the lake from public boat ramps (e.g., off Faulk Drive) and, adjacent to the lake\u0027s northwest shore, a short nature trail at Lake Jackson Mounds Archaeological State Park; during a dry-down, the exposed lakebed and active sinks become the actual point of interest (check local news for current conditions before visiting).",
+        "nearby_linkages":  [
+                                "St. Marks National Wildlife Refuge",
+                                "Wakulla Springs State Park",
+                                "Apalachicola National Forest (Wet Prairies \u0026 Longleaf Savannas)"
+                            ],
+        "card_summary":  "A whole lake that periodically drains completely through a sinkhole, then slowly refills over years.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  89.3,
+        "drive_time_min":  129
+    },
+    {
+        "id":  "fl-ichetucknee-springs-sp",
+        "name":  "Ichetucknee Springs State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "Fort White, Columbia County, Florida",
+        "lat":  29.9833,
+        "lon":  -82.7600,
+        "flora_fauna":  "A chain of nine named springs feeding a crystal-clear, constant-72F river; American swallow-tailed kites hunt the river corridor in summer, river otters are regularly seen, and dense eelgrass beds support an unusually rich aquatic invertebrate and fish community.",
+        "special_note":  "One of the most famous spring-fed tubing/snorkeling rivers in the country, its waters so consistently clear that the sandy bottom and waving eelgrass are visible from the surface along the entire run.",
+        "best_time_of_year":  "Tubing/snorkeling runs Memorial Day weekend through Labor Day (May-Sep), peak summer heat; spring and summer are best for swallow-tailed kites hunting the river corridor; the park caps daily visitor numbers once summer capacity is reached.",
+        "driving_distance_from_albany_ga":  "~163.4 mi / ~3h 22m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The park caps daily tubers/visitors in summer and closes entry once capacity is reached, so early arrival matters.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Drifting the clear, gin-colored run past limestone outcrops, cypress knees, and curtains of Spanish moss, with multiple spring boils visible bubbling up from the riverbed along the way.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ichetucknee_Springs_State_Park_Overlook_1.jpg/1280px-Ichetucknee_Springs_State_Park_Overlook_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/fl-ichetucknee-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1555,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/ichetucknee-springs-state-park",
+        "adventurer_review_link":  "https://floridahikes.com/ichetucknee",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "River Otter",
+                             "Limpkin",
+                             "Suwannee Cooter",
+                             "Wood Duck",
+                             "Prothonotary Warbler"
+                         ],
+        "hike_rare_different_note":  "The signature experience is a spring-fed tubing/paddling float through crystal-clear water past six named springs (Head, Blue Hole, Mission, Devil\u0027s Eye, Grassy Hole, Mill Pond) with native fish and turtles visible the whole way — genuinely different from any hiking trip, and the north-end nature trails add a quieter hiking option outside peak tubing season.",
+        "overnight_town":  "Fort White or Lake City, FL — Lake City has the better lodging selection and is a short drive to both this park and Suwannee River SP.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No campground inside the park itself; nearby private campgrounds (e.g. in Fort White/High Springs) and Suwannee River SP\u0027s campground serve the area."
+                    },
+        "must_see_trails":  "Tubing float from the North Entrance (Head Spring) to South Entrance, about 3 hours, or shorter Midpoint-to-South float (45 min-1 hr); north-end Pine Hammock/Trestle Point nature trails (~2 miles) for hiking. Tubing only permitted Memorial Day weekend through Labor Day at the north entrance; outfitter-run shuttle year-round at the south entrance.",
+        "nearby_linkages":  [
+                                "Gilchrist Blue Springs State Park",
+                                "Suwannee River State Park",
+                                "Peacock Springs State Park"
+                            ],
+        "card_summary":  "A famously clear tubing river fed by nine springs, with the sandy bottom visible the whole way down.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Tubing float from the North Entrance (Head Spring) to South Entrance, about 3 hours, or shorter Midpoint-to-South float (45 min-1 hr); north-end Pine Hammock/Trestle Point nature trails (~2 miles) for hiking. Tubing only permitted Memorial Day weekend through Labor Day at the north entrance; outfitter-run shuttle year-round at the south entrance."
+                     },
+        "drive_distance_mi":  163.4,
+        "drive_time_min":  202
+    },
+    {
+        "id":  "fl-manatee-springs-sp",
+        "name":  "Manatee Springs State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "Chiefland, Levy County, Florida",
+        "lat":  29.4850,
+        "lon":  -82.9700,
+        "flora_fauna":  "A first-magnitude spring (over 100 million gallons/day) feeding a short spring run into the Suwannee River; West Indian manatees gather here reliably every winter when Gulf water temperatures drop, drawn to the spring\u0027s constant 72F water.",
+        "special_note":  "One of the most dependable places in the entire state to see wild manatees up close in winter, as they move far inland up the Suwannee specifically to shelter in the warm spring water.",
+        "best_time_of_year":  "Nov-Mar for wintering manatees, with the biggest gatherings during and right after cold fronts (Dec-Feb coldest and most reliable); summer for swimming/snorkeling the spring itself, when manatees have dispersed back to the Gulf.",
+        "driving_distance_from_albany_ga":  "~197.3 mi / ~4h 19m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "A designated manatee-viewing area/boardwalk keeps swimmers separated from wintering manatees.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A boardwalk follows the spring run from the deep, cobalt-blue spring boil out to where it joins the wide, cypress-lined Suwannee River -- one of the classic North Florida spring-to-river vistas.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Manatee_Springs_State_Park_Florida_springs04.jpg/1280px-Manatee_Springs_State_Park_Florida_springs04.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-manatee-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/manatee-springs-state-park",
+        "adventurer_review_link":  "https://floridahikes.com/manatee-springs",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "Suwannee Cooter",
+                             "Limpkin",
+                             "Wood Stork",
+                             "Gopher Tortoise",
+                             "American Alligator"
+                         ],
+        "hike_rare_different_note":  "Manatees reliably winter in the spring run (best viewing Nov-Mar) right off a boardwalk that extends out onto the Suwannee River itself — a rare combination of easy manatee viewing plus a real 8.5-mile backcountry trail system (North End Trails) through cypress swamp and sinkhole terrain.",
+        "overnight_town":  "Chiefland, FL — small town immediately adjacent to the park entrance, best base for this and other Nature Coast springs.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Manatee Springs Campground (Magnolia 1, Magnolia 2, Hickory loops)",
+                        "notes":  "~80 developed sites with water/electric, hot showers; also glamping tents on Hickory Loop via concessionaire. Reserve via ReserveAmerica/floridastateparks.org, especially in winter manatee season."
+                    },
+        "must_see_trails":  "North End Trails loop, ~4.7-8.5 miles depending on configuration (moderate, floodplain sections can be wet) to Shacklefoot Pond; the short 0.4-mile Springs Trail boardwalk from parking to Catfish Hole and the spring run overlook is the must-do for manatee viewing. Connects to the 32-mile paved Nature Coast State Trail for biking.",
+        "nearby_linkages":  [
+                                "Lower Suwannee National Wildlife Refuge \u0026 Cedar Key",
+                                "Suwannee River State Park"
+                            ],
+        "card_summary":  "One of the most reliable spots in the state to see wild manatees sheltering in winter.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  197.3,
+        "drive_time_min":  259
+    },
+    {
+        "id":  "fl-peacock-springs-sp",
+        "name":  "Peacock Springs State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "Luraville, Suwannee County, Florida",
+        "lat":  30.0314,
+        "lon":  -83.1500,
+        "flora_fauna":  "A cluster of small, intensely clear springs set in hardwood hammock; little surface wildlife spectacle, but the underwater cave system below is ecologically and scientifically significant, with specialized cave-adapted aquatic life.",
+        "special_note":  "Contains the longest mapped underwater cave system in the continental United States (the Peacock Springs cave system, with over 36,000 feet of surveyed passage connecting multiple spring entrances) -- a mecca for experienced cave divers from around the world.",
+        "best_time_of_year":  "Anytime for certified cave/cavern diving (the real draw here); summer is most comfortable for open-water swimming and snorkeling at the surface springs.",
+        "driving_distance_from_albany_ga":  "~142.1 mi / ~3h 16m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Cave passages are restricted to divers with cavern/cave certification and permits; surface swimming at the springs is open to all visitors.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Several small, jewel-like spring basins connected by short forest trails, each dropping into deep blue water that hints at the enormous cave maze hidden below -- quiet and unassuming on the surface, extraordinary underneath.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wes_Skiles_Peacock_Springs_Peacock_Spring_1.jpg/1280px-Wes_Skiles_Peacock_Springs_Peacock_Spring_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-peacock-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1500,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/wes-skiles-peacock-springs-state-park",
+        "adventurer_review_link":  "https://www.floridacaves.com/peacock.htm",
+        "notable_taxa":  [
+                             "Suwannee Cooter",
+                             "Florida Softshell Turtle",
+                             "Limpkin",
+                             "Barred Owl",
+                             "Pileated Woodpecker"
+                         ],
+        "hike_rare_different_note":  "This is one of the most important cave-diving destinations on Earth — nearly 33,000 feet of surveyed underwater passage connecting multiple named springs (Peacock I, II, III, Orange Grove Sink, Challenge Sink, Pot Hole) — a truly different trip for certified cave divers; non-divers get a quiet, low-crowd walk-in swim/snorkel experience instead.",
+        "overnight_town":  "Live Oak or Mayo, FL — Live Oak has more lodging and is central to the whole springs-country cluster.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No developed campground in the park; primitive/backcountry camping not offered here, nearest options are at Suwannee River SP or private campgrounds near Live Oak."
+                    },
+        "must_see_trails":  "Not a hiking park — the experience is a walk-in swim/snorkel at the main basins (non-divers) or guided/self-directed cave dives through the named cavern system for divers with cavern/cave certification (minimum two-diver teams required, Orange Grove Sink is the only open-water-diver-accessible spot). $10 cash vehicle entry.",
+        "nearby_linkages":  [
+                                "Suwannee River State Park",
+                                "Ichetucknee Springs State Park"
+                            ],
+        "card_summary":  "The longest mapped underwater cave system in the continental US, hidden beneath small, jewel-like spring pools.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  142.1,
+        "drive_time_min":  196
+    },
+    {
+        "id":  "fl-gilchrist-blue-springs-sp",
+        "name":  "Gilchrist Blue Springs State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "High Springs, Gilchrist County, Florida",
+        "lat":  29.8300,
+        "lon":  -82.6900,
+        "flora_fauna":  "A first-magnitude spring and several smaller satellite springs feeding the Santa Fe River, flanked by mature hardwood hammock and cypress; turtles, fish, and otters are common in the clear spring run.",
+        "special_note":  "One of the most vividly turquoise-blue springs in the state, and one of the newest additions to the state park system (acquired 2017) after decades as a private attraction -- considerably less crowded than Ichetucknee or Silver Springs despite comparable water clarity and color.",
+        "best_time_of_year":  "Summer for swimming/tubing (the spring stays a constant ~72F year-round); certified cave divers can access Blue Hole Spring Oct-Mar; weekday or off-season visits are far less crowded since the park caps daily attendance.",
+        "driving_distance_from_albany_ga":  "~171.9 mi / ~3h 42m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Daily visitor cap in place; arrive early on summer weekends.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A deep, bowl-shaped spring pool glowing an almost electric turquoise against white sand and dark overhanging hardwoods, with a short run connecting to the tea-colored Santa Fe River just beyond.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gilchrist_Blue_Springs_State_Park.jpg/1280px-Gilchrist_Blue_Springs_State_Park.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/fl-gilchrist-blue-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1510,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/ruth-b-kirby-gilchrist-blue-springs-state-park",
+        "adventurer_review_link":  "https://floridahikes.com/gilchrist-blue-springs",
+        "notable_taxa":  [
+                             "Suwannee Cooter",
+                             "Limpkin",
+                             "River Otter",
+                             "Redbreast Sunfish",
+                             "Florida Gar",
+                             "Barred Owl"
+                         ],
+        "hike_rare_different_note":  "One of the few North Florida springs where swimming, snorkeling, tubing and paddling the Santa Fe River all come together in one compact park, plus certified cave divers can access Blue Hole Spring October-March — a nice one-stop mix of family swim day and serious dive site.",
+        "overnight_town":  "High Springs, FL — walkable small town 5 miles east, good base for several springs parks in this cluster.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Gilchrist Blue Springs Campground",
+                        "notes":  "25 sites (17 RV/tent with 30-amp electric, 8 tent-only, lettered sites A-G are shadier for tents); reservations via floridastateparks.org/ReserveAmerica, $7/night utility fee for RV/hookup sites."
+                    },
+        "must_see_trails":  "Not primarily a hiking destination — main activity is swimming/snorkeling at the main spring and Little Blue Spring (short walk along the floodplain edge), plus canoe/kayak/paddleboard rental and paddling the spring run out to the Santa Fe River. Certified cave divers can dive Blue Hole Spring Oct-Mar.",
+        "nearby_linkages":  [
+                                "Ichetucknee Springs State Park",
+                                "Devil\u0027s Millhopper Geological State Park",
+                                "Suwannee River State Park"
+                            ],
+        "card_summary":  "An electric-turquoise spring, newly public and far less crowded than nearby Ichetucknee.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Not primarily a hiking destination — main activity is swimming/snorkeling at the main spring and Little Blue Spring (short walk along the floodplain edge), plus canoe/kayak/paddleboard rental and paddling the spring run out to the Santa Fe River. Certified cave divers can dive Blue Hole Spring Oct-Mar."
+                     },
+        "drive_distance_mi":  171.9,
+        "drive_time_min":  222
+    },
+    {
+        "id":  "fl-devils-millhopper-sp",
+        "name":  "Devil\u0027s Millhopper Geological State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "Gainesville, Alachua County, Florida",
+        "lat":  29.7050,
+        "lon":  -82.3690,
+        "flora_fauna":  "A 120-foot-deep sinkhole whose cool, moist microclimate supports relict, shade-loving plant species more typical of the Appalachians than North Florida, along with dozens of small waterfalls and seeps along the sink\u0027s walls.",
+        "special_note":  "One of Florida\u0027s most dramatic sinkholes and a textbook karst-window landform -- a giant funnel-shaped collapse exposing fossilized marine shells and shark teeth in its walls, millions of years old, evidence that this part of Florida was once seafloor.",
+        "best_time_of_year":  "Anytime -- this is a geological feature, not a seasonal spectacle; the sink\u0027s cool, moist microclimate makes the stairway descent a pleasant break even in summer heat.",
+        "driving_distance_from_albany_ga":  "~184.4 mi / ~3h 43m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "A 232-step boardwalk/staircase descends to the bottom; no swimming or digging for fossils is permitted.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Descending the long wooden staircase feels like dropping into a miniature rainforest canyon, with dozens of trickling seepage streams forming small waterfalls down the sink\u0027s fern-draped walls to the sunken forest floor far below.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Devil%27s_Millhopper_Geological_State_Park_09.jpg/1280px-Devil%27s_Millhopper_Geological_State_Park_09.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/fl-devils-millhopper-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/devils-millhopper-geological-state-park",
+        "adventurer_review_link":  "https://hikingproject.com/trail/7090575/devils-millhopper-geological-state-park",
+        "notable_taxa":  [
+                             "Green Dragon (Arisaema dracontium)",
+                             "Jack-in-the-pulpit",
+                             "Lanceleaf Wakerobin (Trillium)",
+                             "Barred Owl",
+                             "Pileated Woodpecker"
+                         ],
+        "hike_rare_different_note":  "A genuinely unusual geological feature for Florida — a 120-foot-deep, 500-foot-wide sinkhole with its own cool, moist microclimate supporting plants (like jack-in-the-pulpit and trillium) more typical of the Appalachians than the Florida flatwoods; the 132-step stairway down into the sink and back up is a real workout in a tiny footprint.",
+        "overnight_town":  "Gainesville, FL — a few miles south, best base with full services for the whole Alachua County cluster (Paynes Prairie, this park).",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No campground on site; closest camping is at Paynes Prairie Preserve SP or private Gainesville-area campgrounds."
+                    },
+        "must_see_trails":  "Devil\u0027s Millhopper Nature Trail, ~1.3-mile lollipop loop around the sinkhole rim (easy-moderate, boardwalk partially closed on the west side as of recent reports) plus the 132-step staircase descent into the sink itself — the staircase, not a long-distance trail, is the main event.",
+        "nearby_linkages":  [
+                                "Paynes Prairie Preserve State Park",
+                                "Gilchrist Blue Springs State Park"
+                            ],
+        "card_summary":  "A 120-ft sinkhole you descend by staircase, lined with fossil shells, seeps, and small waterfalls.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  184.4,
+        "drive_time_min":  223
+    },
+    {
+        "id":  "fl-devils-den",
+        "name":  "Devil\u0027s Den (Spring Cavern)",
+        "region":  "North Florida Springs Country",
+        "location":  "Williston, Levy County, Florida",
+        "lat":  29.3000,
+        "lon":  -82.5200,
+        "flora_fauna":  "A geologically ancient spring-fed pool enclosed within a collapsed, dry limestone cave dome; the surrounding scrub and hammock yield Ice Age fossils (mammoth, saber-toothed cat) that have been recovered from the sediments over decades.",
+        "special_note":  "One of the most visually unusual spring sites in Florida: the 72F spring pool sits inside an underground cavern reached by descending through a collapsed dome in the cave roof, giving it the look of a volcanic crater or lost-world grotto rather than a typical spring.",
+        "best_time_of_year":  "Anytime -- the enclosed cavern keeps conditions (72F water) stable in every season; popular with certified cave/cavern divers as well as snorkelers in the open section year-round.",
+        "driving_distance_from_albany_ga":  "~214.3 mi / ~4h 20m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Privately operated (paid admission); reservations recommended, especially for diving.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Sunlight streams down through the open dome of the collapsed cave roof onto an impossibly clear turquoise pool ringed by limestone walls and stalactites -- one of the most photographed spring interiors in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Devils-Den-Small.JPG/1280px-Devils-Den-Small.JPG",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/fl-devils-den-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1555,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.devilsden.com",
+        "adventurer_review_link":  "https://www.islands.com/1642651/devils-den-overlooked-florida-attraction-for-thrill-seekers/",
+        "notable_taxa":  [
+                             "Fossilized Pleistocene megafauna remains (in surrounding limestone)",
+                             "Suwannee Cooter",
+                             "Eastern Ratsnake",
+                             "Pileated Woodpecker"
+                         ],
+        "hike_rare_different_note":  "A one-of-a-kind geological experience in Florida: an underground spring inside a collapsed dry cave, entered via stairs through a hole in the cave roof, with visible stalactites/stalagmites and fossil beds over 33 million years old in constant 72°F water — unlike any open-air spring on this list, and a popular certification/training dive site.",
+        "overnight_town":  "Williston, FL or Ocala, FL — Williston is a few minutes away for a basic stay, Ocala has more lodging variety and is a short drive further.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Devil\u0027s Den Campground (tent sites, RV sites, 4 cabins)",
+                        "notes":  "Privately operated; reservations required, as are reservations for snorkel/dive slots in the spring itself — call ahead, this is a popular dive-training site that books up."
+                    },
+        "must_see_trails":  "Not a hiking site — the visit format is a reserved snorkel or scuba session (certified divers only for scuba) inside the cavern spring, entered via a staircase down through the collapsed roof opening; general open swimming in the den itself is not allowed, only guided/reserved snorkel-with-gear or dive sessions.",
+        "nearby_linkages":  [
+                                "Manatee Springs State Park",
+                                "Gilchrist Blue Springs State Park"
+                            ],
+        "card_summary":  "A spring-fed pool inside a collapsed cave dome, lit from above like a lost-world grotto.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  214.3,
+        "drive_time_min":  260
+    },
+    {
+        "id":  "fl-suwannee-river-sp",
+        "name":  "Suwannee River State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "Live Oak, Suwannee County, Florida",
+        "lat":  30.3900,
+        "lon":  -83.1500,
+        "flora_fauna":  "Confluence of the Suwannee and Withlacoochee Rivers over exposed limestone shoals and low bluffs; river otters, swallow-tailed kites, and an unusually diverse floodplain hardwood forest.",
+        "special_note":  "One of the few places in Florida where exposed limestone river bluffs and small rock outcrops create real topographic relief and rapids-like shoals, a rarity in a state otherwise defined by flat sand.",
+        "best_time_of_year":  "Fall through spring for lower, clearer water that exposes the limestone shoals and bluffs, plus the most comfortable hiking temperatures; after heavy rain the river can rise dramatically and submerge the shoals entirely.",
+        "driving_distance_from_albany_ga":  "~123.2 mi / ~2h 42m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Earthwork remnants of a Confederate river battery sit atop low limestone bluffs overlooking the wide, dark Suwannee at its confluence with the Withlacoochee -- one of the best true river-bluff overlooks in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Suwannee_River_State_Park_river_1.jpg/1280px-Suwannee_River_State_Park_river_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-suwannee-river-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1475,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/suwannee-river-state-park",
+        "adventurer_review_link":  "https://floridahikes.com/suwannee-river-state-park",
+        "notable_taxa":  [
+                             "Suwannee Cooter",
+                             "Limpkin",
+                             "Swallow-tailed Kite",
+                             "Wood Stork",
+                             "Gopher Tortoise",
+                             "Barred Owl"
+                         ],
+        "hike_rare_different_note":  "Sits right at the confluence of the Suwannee and Withlacoochee rivers with visible Civil War earthworks and old steamboat-era history along the Earthworks Trail, plus limestone bluff and karst scenery (Balanced Rock, Lime Sink Run) that\u0027s more dramatic than typical flat Florida terrain — over 15 miles of trail across both sides of the river for a full weekend of hiking.",
+        "overnight_town":  "Live Oak, FL — a few miles away, good base for this park and the broader springs-country cluster.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Suwannee River State Park Campground",
+                        "notes":  "30 tent/RV sites with water/electric plus 2 primitive group camps and 5 cabins; CHECK CURRENT STATUS BEFORE GOING — as of late 2025 the campground was reported closed to new reservations and walk-ins for an upgrade project (cabin walk-ins only), and the day-use picnic area and the bridge/overlook/River Trail were also reported temporarily closed. Reservations normally via ReserveAmerica/floridastateparks.org."
+                    },
+        "must_see_trails":  "Earthworks Trail (~0.2 mi) to River Overlook at the Suwannee-Withlacoochee confluence; Sandhill Trail (0.8-mile loop) past old Columbus Cemetery; Balanced Rock Trail/Lime Sink Run Trail loop (~3 miles) past limestone bluffs and karst formations; Big Oak Trail connects to the Florida National Scenic Trail for longer backpacking.",
+        "nearby_linkages":  [
+                                "Ichetucknee Springs State Park",
+                                "Peacock Springs State Park",
+                                "Manatee Springs State Park"
+                            ],
+        "card_summary":  "Rare limestone river bluffs and shoals -- real topographic relief in an otherwise flat state.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  123.2,
+        "drive_time_min":  162
+    },
+    {
+        "id":  "fl-paynes-prairie-preserve-sp",
+        "name":  "Paynes Prairie Preserve State Park",
+        "region":  "North Florida Springs Country",
+        "location":  "Micanopy / Gainesville, Alachua County, Florida",
+        "lat":  29.5500,
+        "lon":  -82.2700,
+        "flora_fauna":  "A vast, periodically flooding wet prairie basin; home to free-roaming American bison and wild horses (both reintroduced to echo historic Florida herds), hundreds of American alligators, sandhill cranes, and one of the largest wintering concentrations of migratory waterfowl in North-Central Florida.",
+        "special_note":  "One of the only places east of the Mississippi where visitors can see free-ranging bison and wild horses in a near-wilderness setting, grazing the same basin where naturalist William Bartram described vast herds of wildlife in the 1770s.",
+        "best_time_of_year":  "Bison and wild horses can be seen year-round; sandhill cranes winter on the prairie roughly late October through February, numbers peaking in January; the basin\u0027s character depends heavily on rainfall, flooding into a shallow lake in wet years.",
+        "driving_distance_from_albany_ga":  "~202.4 mi / ~4h 3m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The La Chua Trail and the observation tower off US-441 offer the most reliable wildlife viewing; bison and horses roam widely and are not guaranteed on every visit.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The La Chua Trail boardwalk crosses a marsh often thick with alligators (sometimes dozens visible at once) to an observation platform overlooking a basin so wide and open it is sometimes called Florida\u0027s \u0027Serengeti.\u0027",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/View_of_bison_grazing_at_the_Paynes_Prairie_Preserve_State_Park-_Micanopy%2C_Florida._%283247324729%29.jpg/1280px-View_of_bison_grazing_at_the_Paynes_Prairie_Preserve_State_Park-_Micanopy%2C_Florida._%283247324729%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-paynes-prairie-preserve-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1580,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/paynes-prairie-preserve-state-park",
+        "adventurer_review_link":  "https://www.visitgainesville.com/explore/attraction/paynes-prairie-la-chua-trail/",
+        "notable_taxa":  [
+                             "American Bison",
+                             "Florida Cracker Horse (wild/feral)",
+                             "American Alligator",
+                             "Sandhill Crane",
+                             "Snail Kite",
+                             "Limpkin"
+                         ],
+        "hike_rare_different_note":  "One of the few places in Florida to see free-roaming American bison and wild horses sharing a landscape with thousands of overwintering sandhill cranes (Nov-Feb) and abundant alligators, all visible from a boardwalk/dike trail system across a huge basin marsh/prairie — a genuinely different open-horizon ecosystem compared to the shaded spring runs nearby.",
+        "overnight_town":  "Gainesville, FL — immediately adjacent, full services, good base for this park and Devil\u0027s Millhopper.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Paynes Prairie Preserve Campground (near Lake Wauburg)",
+                        "notes":  "Mix of partial-hookup (water/electric) and primitive tent/equestrian camping; reservations via ReserveAmerica/floridastateparks.org recommended, especially in cooler months."
+                    },
+        "must_see_trails":  "La Chua Trail, ~3 miles round trip (easy, partly elevated boardwalk, exposed/no shade) to an observation platform over Alachua Sink — the best trail for alligators and cranes; Wacahoota Trail has a 50-foot observation tower for spotting bison/horses; trails close seasonally when Alachua Lake floods the basin, so check conditions first.",
+        "nearby_linkages":  [
+                                "Devil\u0027s Millhopper Geological State Park",
+                                "Gilchrist Blue Springs State Park"
+                            ],
+        "card_summary":  "Free-roaming bison and wild horses graze a vast marsh basin nicknamed Florida\u0027s \u0027Serengeti.\u0027",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  202.4,
+        "drive_time_min":  243
+    },
+    {
+        "id":  "fl-silver-springs-sp",
+        "name":  "Silver Springs State Park",
+        "region":  "Central Florida",
+        "location":  "Ocala, Marion County, Florida",
+        "lat":  29.2186,
+        "lon":  -82.0548,
+        "flora_fauna":  "One of the largest and most famous spring groups in the world, historically discharging over 500 million gallons a day; alligators, turtles, herons, and a long-established, free-ranging population of feral rhesus macaques along the riverbanks (descendants of monkeys released for a 1930s jungle-boat attraction).",
+        "special_note":  "The birthplace of Florida\u0027s glass-bottom boat tourism industry (dating to the 1870s) and one of the most intensely studied springs in the world; its resident wild rhesus monkey population is a genuinely unique (if controversial) wildlife spectacle found nowhere else in Florida.",
+        "best_time_of_year":  "Anytime for the glass-bottom boat tours; dry winters/springs tend to bring the clearest water, though the famous wild rhesus macaques are resident year-round and not a seasonal draw.",
+        "driving_distance_from_albany_ga":  "~224.7 mi / ~4h 27m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Swimming directly in the main spring basin is no longer permitted; glass-bottom boat tours and kayaking on the river are the primary ways to experience it.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The glass-bottom boat glides over an enormous, cobalt-blue spring boil more than 30 feet down, past wild monkeys in the overhanging oaks and cypress -- a strange, almost surreal combination of crystal-clear karst spring and jungle-like wildlife.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Silver_Springs_State_Park_-_Glass-Bottom_Boats_2017.jpg/1280px-Silver_Springs_State_Park_-_Glass-Bottom_Boats_2017.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/fl-silver-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Silver-Springs",
+        "adventurer_review_link":  "https://www.floridahikes.com/silver-springs",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "American Alligator",
+                             "Limpkin",
+                             "Florida Softshell Turtle",
+                             "Anhinga",
+                             "Longnose Gar"
+                         ],
+        "hike_rare_different_note":  "The headspring is one of the largest artesian springs in the world (550+ million gallons/day) and is still viewed via the original 1920s-style glass-bottom boat tours, a genuinely different way to see fish, turtles, and submerged limestone caverns up close rather than from a trail.",
+        "overnight_town":  "Ocala - the Marion County hub with lodging of every type, 5-10 minutes from the park\u0027s SR 40 and SR 35 entrances.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Silver Springs State Park Campground (Fort King and Sharpes Ferry loops)",
+                        "notes":  "59 sites, 12 with full hookups including sewer; reserve via reserve.floridastateparks.org or 800-326-3521, especially for winter/spring weekends."
+                    },
+        "must_see_trails":  "Silver Springs Mesic Loop and Sandhill Nature Trail (longleaf/wiregrass loop near the campground); glass-bottom boat tour on the headspring is the signature visit format; Silver River Connector (~3 mi) links toward Ocklawaha Prairie for birding.",
+        "nearby_linkages":  [
+                                "Rainbow Springs State Park",
+                                "Ocala National Forest (Juniper Springs)"
+                            ],
+        "card_summary":  "The birthplace of glass-bottom-boat tourism, with a free-ranging colony of wild rhesus monkeys along the banks.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  224.7,
+        "drive_time_min":  267
+    },
+    {
+        "id":  "fl-rainbow-springs-sp",
+        "name":  "Rainbow Springs State Park",
+        "region":  "Central Florida",
+        "location":  "Dunnellon, Marion County, Florida",
+        "lat":  29.1017,
+        "lon":  -82.4372,
+        "flora_fauna":  "Florida\u0027s fourth-largest spring system, discharging roughly 400-600 million gallons a day into the Rainbow River; otters, turtles, and an exceptionally rich submerged aquatic plant community that gives the water its vivid color.",
+        "special_note":  "Former 1960s-70s roadside tourist attraction (complete with man-made waterfalls built from old phosphate-mine spoil) now preserved as a state park; the waterfalls are artificial but genuinely scenic, built directly over natural spring-fed terrain.",
+        "best_time_of_year":  "Tubing/swimming the river runs roughly Apr-Sep; the headspring gardens and waterfalls are worth a visit anytime.",
+        "driving_distance_from_albany_ga":  "~225.1 mi / ~4h 33m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The headspring day-use area and the tubing launch (South Entrance) are separate access points along the river.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Terraced gardens overlook a brilliant turquoise headspring pool and a series of man-made waterfalls tumbling over old mining spoil piles, with the Rainbow River itself running an almost impossible shade of blue-green downstream.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rainbow_Springs_State_Park_pano02.jpg/1280px-Rainbow_Springs_State_Park_pano02.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-rainbow-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1500,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Rainbow-Springs",
+        "adventurer_review_link":  "https://www.floridahikes.com/rainbowsprings",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "River Otter",
+                             "Osprey",
+                             "Swallow-tailed Kite",
+                             "Barred Owl",
+                             "American Alligator"
+                         ],
+        "hike_rare_different_note":  "A National Natural Landmark with some of Florida\u0027s clearest spring water; the Sandhills Trail network (Yellow/White/Blue loops, up to ~4.5 mi) winds past abandoned 1930s-era phosphate-mine pits and a ghost-town site (Juliette) now reclaimed by sandhill forest, a genuinely unusual landscape mixed with pristine spring habitat.",
+        "overnight_town":  "Dunnellon - a small riverside town 3 miles south of the park, with motels and the Rainbow River tubing/outfitter scene.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Rainbow Springs State Park Campground",
+                        "notes":  "Full-facility campground at a separate entrance (SW 180th Ave) from the headsprings day-use area; reserve ahead for spring/summer tubing season."
+                    },
+        "must_see_trails":  "Sandhills Trails (Yellow/White/Blue loops, 3.1-4.5 mi combined) through former mine pits and restored sandhill; tubing/paddling the Rainbow River (seasonal, Apr-Sep) is the other signature activity.",
+        "nearby_linkages":  [
+                                "Silver Springs State Park",
+                                "Ocala National Forest (Juniper Springs)"
+                            ],
+        "card_summary":  "A brilliant turquoise headspring feeding a river of almost impossibly blue-green water, with scenic man-made waterfalls.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Sandhills Trails (Yellow/White/Blue loops, 3.1-4.5 mi combined) through former mine pits and restored sandhill; tubing/paddling the Rainbow River (seasonal, Apr-Sep) is the other signature activity."
+                     },
+        "drive_distance_mi":  225.1,
+        "drive_time_min":  273
+    },
+    {
+        "id":  "fl-blue-spring-sp",
+        "name":  "Blue Spring State Park",
+        "region":  "Central Florida",
+        "location":  "Orange City, Volusia County, Florida",
+        "lat":  28.9470,
+        "lon":  -81.3368,
+        "flora_fauna":  "A first-magnitude spring run into the St. Johns River; the single most important winter manatee refuge on the St. Johns, with over 700 individual manatees documented using the spring in a season, plus alligators, otters, and gopher tortoises in the surrounding sandhill.",
+        "special_note":  "Florida\u0027s first designated manatee refuge (1972) and the site of the largest concentrated winter manatee population on the St. Johns River -- on cold mornings the spring run can be packed wall-to-wall with manatees seeking its constant 72F water.",
+        "best_time_of_year":  "Nov-Mar, with the biggest wall-to-wall gatherings during and right after cold fronts (Dec-Feb coldest and most reliable); the spring run closes to swimming/snorkeling/kayaking whenever manatees are present.",
+        "driving_distance_from_albany_ga":  "~286.3 mi / ~5h 59m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The spring run closes to swimming/snorkeling/kayaking whenever manatees are present (typically Nov-Mar); a boardwalk along the run provides excellent viewing year-round.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A raised boardwalk follows the clear spring run from the deep blue headspring down to the St. Johns River, and on a good winter morning the entire run can be visibly crowded with dozens of manatees resting just beneath the surface.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blue_Spring_State_Park_%288500103235%29.jpg/1280px-Blue_Spring_State_Park_%288500103235%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-blue-spring-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1575,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Blue-Spring",
+        "adventurer_review_link":  "https://www.floridahikes.com/bluespring",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "Florida Scrub-Jay",
+                             "Florida Black Bear",
+                             "Eastern Indigo Snake",
+                             "Gopher Tortoise",
+                             "American Alligator"
+                         ],
+        "hike_rare_different_note":  "Florida\u0027s largest winter manatee refuge on the St. Johns River (hundreds gather Nov-Mar when the spring run is closed to swimming), paired with surprisingly good scrub-jay and black bear habitat on the Pine Island Trail - a rare combo of marquee megafauna and genuine scrub specialists at one park.",
+        "overnight_town":  "Orange City/DeLand - DeLand offers more lodging/dining options a short drive from the park entrance.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Blue Spring State Park Campground",
+                        "notes":  "51 campsites plus 6 pet-friendly cabins; book well ahead for the Nov-Mar manatee season, the park\u0027s busiest window."
+                    },
+        "must_see_trails":  "Pine Island Trail through scrub/flatwoods habitat for scrub-jays; the spring-run boardwalk (~1.2 mi round trip) to the headspring overlook for manatee viewing in winter; Hontoon Island State Park is a short paddle downriver.",
+        "nearby_linkages":  [
+                                "Merritt Island National Wildlife Refuge",
+                                "Canaveral National Seashore"
+                            ],
+        "card_summary":  "Florida\u0027s first manatee refuge -- on cold mornings the spring run can be packed wall-to-wall with manatees.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Pine Island Trail through scrub/flatwoods habitat for scrub-jays; the spring-run boardwalk (~1.2 mi round trip) to the headspring overlook for manatee viewing in winter; Hontoon Island State Park is a short paddle downriver."
+                     },
+        "drive_distance_mi":  286.3,
+        "drive_time_min":  359
+    },
+    {
+        "id":  "fl-homosassa-springs-wildlife-sp",
+        "name":  "Homosassa Springs Wildlife State Park",
+        "region":  "Central Florida",
+        "location":  "Homosassa, Citrus County, Florida",
+        "lat":  28.8011,
+        "lon":  -82.5908,
+        "flora_fauna":  "A spring-fed wildlife park combining a natural first-magnitude spring with a rehabilitation facility for manatees, Florida panthers, black bears, red wolves, and whooping cranes; the spring itself regularly hosts dozens of wild and resident manatees.",
+        "special_note":  "Known historically as the \u0027Fish Bowl of the World\u0027 for the clarity of its underwater observatory; today it doubles as one of only a few places in Florida where visitors can reliably see a Florida panther in person, since the wild population is both tiny and extremely elusive.",
+        "best_time_of_year":  "Winter (Dec-Feb) for the most wild manatees joining the resident population in the spring; the panther, bear, and wolf exhibits are non-releasable residents viewable year-round.",
+        "driving_distance_from_albany_ga":  "~253.6 mi / ~5h 11m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Combination state park and wildlife rehabilitation facility; entry fee applies, and the panthers/bears/wolves are non-releasable rescue animals in naturalistic enclosures, not wild sightings.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "An underwater observatory chamber lets visitors stand below the waterline and watch manatees, gar, and schools of fish glide past through glass walls inside the spring itself -- a genuinely unusual vantage point on a Florida spring.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Homosassa_Springs_Wildlife_State_Park_%28Citrus_County%2C_FL%29.jpg/1280px-Homosassa_Springs_Wildlife_State_Park_%28Citrus_County%2C_FL%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/fl-homosassa-springs-wildlife-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1555,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Homosassa-Springs",
+        "adventurer_review_link":  "https://www.floridawildlifeviewing.com/florida_manatees/HomosassaSprings.htm",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "Florida Black Bear",
+                             "Bobcat",
+                             "American Alligator",
+                             "River Otter",
+                             "Wood Stork"
+                         ],
+        "hike_rare_different_note":  "A manatee rehabilitation facility (not a wild-release site you\u0027d find elsewhere) with a floating underwater observatory giving true nose-to-nose manatee views 365 days a year, plus resident black bears, bobcats, and other non-releasable native wildlife on exhibit - more a wildlife-rehab visit than a hike.",
+        "overnight_town":  "Homosassa/Crystal River - Crystal River has the area\u0027s main lodging and is a short drive north, convenient for combining with Three Sisters Springs.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Day-use wildlife park only, no on-site camping; nearest camping is at private Nature Coast campgrounds or Crystal River-area RV parks."
+                    },
+        "must_see_trails":  "Not trail-based: the visit format is a boat/tram ride to the underwater observatory for manatee and fish viewing, plus walking paths through wildlife exhibit areas (bears, bobcats, otters); allow 2-3 hours.",
+        "nearby_linkages":  [
+                                "Crystal River National Wildlife Refuge \u0026 Three Sisters Springs",
+                                "Weeki Wachee Springs State Park"
+                            ],
+        "card_summary":  "An underwater observatory lets you watch manatees glide by below the waterline, and spot one of the few captive Florida panthers.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  253.6,
+        "drive_time_min":  311
+    },
+    {
+        "id":  "fl-weeki-wachee-springs-sp",
+        "name":  "Weeki Wachee Springs State Park",
+        "region":  "Central Florida",
+        "location":  "Spring Hill, Hernando County, Florida",
+        "lat":  28.5156,
+        "lon":  -82.5733,
+        "flora_fauna":  "One of the deepest explored freshwater springs in the United States (cave divers have mapped the vent past 400 feet without reaching bottom); manatees regularly winter in the spring run, alongside turtles and wading birds.",
+        "special_note":  "Home to the long-running underwater \u0027mermaid\u0027 theater, a kitschy mid-century roadside attraction that has survived since 1947 -- performers in mermaid costumes do a live underwater show visible through a submerged theater wall, built directly over a genuinely extreme, still not fully explored spring vent.",
+        "best_time_of_year":  "Anytime for the mermaid shows, which run daily year-round; winter (Nov-Mar) for the best chance of wild manatees sheltering in the spring run.",
+        "driving_distance_from_albany_ga":  "~273.3 mi / ~5h 37m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "State park with paid admission; the underwater mermaid theater and river boat cruise are included shows.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The underwater theater window looks directly into the spring\u0027s vertical shaft, with mermaid performers floating against a backdrop of water so deep and clear its true bottom has still never been found.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/A_mermaid_meets_King_Neptune_on_this_sculpture_at_Weeki_Wachee_Springs%2C_a_classic_Old_Florida_theme_park_tourist_attraction%2C_now_%28as_of_2020%29_a_state_park_in_Weeki_Wachee%2C_Florida_%28LOC%29.jpg/1280px-A_mermaid_meets_King_Neptune_on_this_sculpture_at_Weeki_Wachee_Springs%2C_a_classic_Old_Florida_theme_park_tourist_attraction%2C_now_%28as_of_2020%29_a_state_park_in_Weeki_Wachee%2C_Florida_%28LOC%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (Library of Congress / Carol M. Highsmith)",
+                           "local_path":  "photos/fl-weeki-wachee-springs-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1520,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Weeki-Wachee-Springs",
+        "adventurer_review_link":  "https://www.amusingplanet.com/2012/04/mermaids-of-weeki-wachee-springs.html",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "Wood Stork",
+                             "Florida Softshell Turtle",
+                             "American Alligator",
+                             "Osprey",
+                             "Limpkin"
+                         ],
+        "hike_rare_different_note":  "One of Florida\u0027s genuinely odd roadside-attraction institutions: a live underwater mermaid show performed by professional swimmers in a 400-seat theater built into the limestone spring wall, running continuously since 1947 - nothing else in the state (or database) is like it.",
+        "overnight_town":  "Spring Hill - the main Hernando County town with full lodging options a few minutes from the park.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping inside the state park itself; private campgrounds/RV parks are available nearby in Spring Hill/Hernando Beach."
+                    },
+        "must_see_trails":  "Not trail-based: the signature visit is the live underwater Mermaid Show in the submerged theater, plus river boat cruises and kayak/paddleboard rental on the spring-fed Weeki Wachee River (~5.5 mi run to the Gulf).",
+        "nearby_linkages":  [
+                                "Crystal River National Wildlife Refuge \u0026 Three Sisters Springs",
+                                "Homosassa Springs Wildlife State Park"
+                            ],
+        "card_summary":  "A kitschy underwater \u0027mermaid\u0027 theater built over a spring so deep its bottom has never been found.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Not trail-based: the signature visit is the live underwater Mermaid Show in the submerged theater, plus river boat cruises and kayak/paddleboard rental on the spring-fed Weeki Wachee River (~5.5 mi run to the Gulf)."
+                     },
+        "drive_distance_mi":  273.3,
+        "drive_time_min":  337
+    },
+    {
+        "id":  "fl-ocala-nf-juniper-springs",
+        "name":  "Ocala National Forest (Juniper Springs)",
+        "region":  "Central Florida",
+        "location":  "near Silver Springs, Marion County, Florida",
+        "lat":  29.1900,
+        "lon":  -81.7200,
+        "flora_fauna":  "The southernmost national forest in the continental US and the largest contiguous sand pine scrub ecosystem in the world, critical habitat for the threatened Florida scrub-jay (found only in Florida) along with gopher tortoises, Florida black bears, and a cluster of pristine spring runs (Juniper, Alexander, Silver Glen).",
+        "special_note":  "Protects the largest intact sand-pine scrub landscape anywhere -- a globally rare habitat type that is the primary stronghold for the Florida scrub-jay, a species found nowhere else on Earth and increasingly rare outside protected scrub remnants.",
+        "best_time_of_year":  "Florida scrub-jays are non-migratory, year-round residents, so any season works for finding them along forest roads; summer is best for swimming/tubing the spring runs and paddling Juniper Run; spring brings peak scrub wildflower bloom.",
+        "driving_distance_from_albany_ga":  "~245.6 mi / ~5h 5m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Juniper Springs\u0027 historic 1930s CCC-built spring house and millrace lead into a narrow, densely overhung canoe run through old-growth cypress and palm, one of the most intimate and jungle-like paddling routes in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Juniper_Springs%2C_FL_panorama.jpg/1280px-Juniper_Springs%2C_FL_panorama.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/fl-ocala-nf-juniper-springs-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/florida/recreation/juniper-run",
+        "adventurer_review_link":  "https://paddling.com/paddle/trips/juniper-creek-florida-5",
+        "notable_taxa":  [
+                             "Florida Black Bear",
+                             "River Otter",
+                             "American Alligator",
+                             "Bobcat",
+                             "Barred Owl",
+                             "Florida Scrub-Jay"
+                         ],
+        "hike_rare_different_note":  "Juniper Run is a nationally ranked (ReserveAmerica top-25) wilderness canoe/kayak run through the Juniper Prairie Wilderness - narrow, technical, and genuinely wild paddling (3-5 hours) that is a different kind of adventure than any flatwater spring run in the database; nearby Fern Hammock Springs\u0027 ~20 boils are a short walk away.",
+        "overnight_town":  "Ocala or Silver Springs area - closest towns with full services; the campground itself allows overnighting right at the trailhead.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Juniper Springs Recreation Area Campground",
+                        "notes":  "79 sites across SAND, FERN (tent-only), and TROP loops; reserve via recreation.gov, hot showers/flush toilets, no full hookups; gate locks overnight."
+                    },
+        "must_see_trails":  "Juniper Run canoe/kayak trail (~7 mi, 3-5 hrs, moderate-difficult, launch before 1pm) through Juniper Prairie Wilderness; a segment of the Florida National Scenic Trail also passes through the recreation area for hiking.",
+        "nearby_linkages":  [
+                                "Silver Springs State Park",
+                                "Rainbow Springs State Park"
+                            ],
+        "card_summary":  "The largest intact scrub ecosystem anywhere, and the main stronghold of the Florida scrub-jay, found nowhere else on Earth.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  245.6,
+        "drive_time_min":  305
+    },
+    {
+        "id":  "fl-lake-wales-ridge-scrub-jay",
+        "name":  "Lake Wales Ridge Scrub Preserves (Tiger Creek Preserve)",
+        "region":  "Central Florida",
+        "location":  "Babson Park, Polk County, Florida",
+        "lat":  27.8300,
+        "lon":  -81.4900,
+        "flora_fauna":  "Ancient, wind-sculpted sand ridge scrub -- a ~2-million-year-old relict landscape that was dry land even when most of Florida was underwater -- protecting an extraordinary concentration of endemic plants and animals found only on this ridge, including Florida scrub-jays, Florida scrub lizards, gopher tortoises, and numerous plants found nowhere else on Earth.",
+        "special_note":  "The Lake Wales Ridge is considered one of the most important centers of plant endemism in North America: dozens of species exist only on this narrow, ancient sand ridge, a product of its long isolation as the rest of Florida was repeatedly submerged by higher sea levels.",
+        "best_time_of_year":  "Spring for peak endemic wildflower bloom; cooler months (Nov-Mar) for comfortable hiking through open, largely shadeless scrub. Florida scrub-jays are non-migratory, year-round residents here, not a seasonal sighting.",
+        "driving_distance_from_albany_ga":  "~331.8 mi / ~6h 46m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The Nature Conservancy\u0027s Tiger Creek Preserve is free and open with marked trails; other Lake Wales Ridge tracts are managed by Florida Forest Service/Fish and Wildlife with varying access.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Open, white-sand scrub studded with gnarled sand pines and rosemary stretches to the horizon in a landscape that looks almost desert-like -- utterly unlike the wet, green Florida most visitors expect, and home to species that exist on this ridge alone.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Florida_Scrub-Jay_perched.jpg/1280px-Florida_Scrub-Jay_perched.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0 (photo of Florida scrub-jay, the Lake Wales Ridge\u0027s signature endemic species)",
+                           "local_path":  "photos/fl-lake-wales-ridge-scrub-jay-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1570,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/tiger-creek-preserve/",
+        "adventurer_review_link":  "https://floridabirdingtrail.com/site/tiger-creek-preserve/",
+        "notable_taxa":  [
+                             "Gopher Tortoise",
+                             "Swallow-tailed Kite",
+                             "Bald Eagle",
+                             "Sandhill Crane",
+                             "Florida Scrub-Jay",
+                             "Eastern Indigo Snake"
+                         ],
+        "hike_rare_different_note":  "Protects one of only two or three high-quality blackwater seepage streams left on the ancient Lake Wales Ridge, plus some of the highest concentrations of threatened/endangered endemic plants and animals in the country (Lewton\u0027s polygala, Carter\u0027s mustard, gopher tortoise) - a genuinely different, drier-upland ecosystem from the spring-fed sites elsewhere in the database.",
+        "overnight_town":  "Lake Wales - the nearest town with lodging, about 20 minutes from the preserve entrances.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Day-use only (sunrise to sunset), no facilities or camping on site; preserve closes seasonally/after storms, so check nature.org before visiting."
+                    },
+        "must_see_trails":  "Heron Pond Loop (4.2 mi RT from Pfundstein parking), Highlands Loop (4.5 mi) and Creek Bluffs Loop (2.6 mi, highest-quality longleaf sandhill, from Wakeford parking); Pfundstein Trail (0.5 mi) is the easy gateway/beginner route; trail map: https://www.nature.org/content/dam/tnc/nature/en/documents/TCP_trail_map_August_2019.pdf",
+        "nearby_linkages":  [
+
+                            ],
+        "card_summary":  "A 2-million-year-old relict sand ridge packed with plants and animals found absolutely nowhere else.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  331.8,
+        "drive_time_min":  406
+    },
+    {
+        "id":  "fl-lower-suwannee-nwr-cedar-key",
+        "name":  "Lower Suwannee National Wildlife Refuge \u0026 Cedar Key",
+        "region":  "Gulf Coast",
+        "location":  "Cedar Key / Suwannee, Levy County, Florida",
+        "lat":  29.1333,
+        "lon":  -83.0333,
+        "flora_fauna":  "One of the largest unbroken expanses of undeveloped coastline left on the Gulf of Mexico -- salt marsh, tidal creeks, and coastal hammock at the mouth of the Suwannee River; major wintering ground for waterfowl, nesting and wintering bald eagles, and the offshore Cedar Keys NWR islands host one of the largest wading-bird and brown pelican rookeries on the Gulf Coast.",
+        "special_note":  "The adjacent Cedar Keys refuge islands support one of the largest colonial wading-bird nesting rookeries in the northern Gulf of Mexico, with thousands of herons, egrets, ibis, and pelicans nesting on a handful of small mangrove/hammock islands.",
+        "best_time_of_year":  "The Cedar Keys rookery islands close to landing March 1 through June for nesting season (peak wading-bird/pelican activity); winter brings the most waterfowl and bald eagles to the refuge\\u0027s marshes.",
+        "driving_distance_from_albany_ga":  "~229.0 mi / ~4h 49m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The rookery islands themselves are closed to landing during nesting season; viewing is by boat from a respectful distance, or from the historic town of Cedar Key.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Miles of unbroken salt marsh and tidal creek stretch along the Gulf with no development in sight, and a short boat trip from the old fishing village of Cedar Key reaches islands dense with nesting herons, egrets, and pelicans.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cedar_Keys_National_Wildlife_Refuge_LOC_2010589067.jpg/1280px-Cedar_Keys_National_Wildlife_Refuge_LOC_2010589067.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (Library of Congress)",
+                           "local_path":  "photos/fl-lower-suwannee-nwr-cedar-key-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1535,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/lower-suwannee",
+        "adventurer_review_link":  "https://adventureoutpost.net/lower-suwannee-river-nwr-paddle-trail/",
+        "notable_taxa":  [
+                             "Gulf Sturgeon",
+                             "West Indian Manatee",
+                             "Bald Eagle",
+                             "Swallow-tailed Kite",
+                             "American Oystercatcher",
+                             "Salt Marsh Vole"
+                         ],
+        "hike_rare_different_note":  "Paddling the tidal backwater creeks through undeveloped cypress/tupelo swamp out into Cedar Key\u0027s saltmarsh estuary is the standout experience; Cedar Key itself is a genuinely different old Gulf fishing-village base unlike any other stop on this list.",
+        "overnight_town":  "Cedar Key — historic fishing village right at the refuge\u0027s edge, with lodging, seafood, and water access to the islands.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Camping and overnight parking are prohibited inside the refuge; county campgrounds sit adjacent to the refuge on both sides of the Suwannee River, and private campgrounds/RV parks are available in Cedar Key."
+                    },
+        "must_see_trails":  "River Trail Loop (~0.75 mi boardwalk loop at refuge HQ, easy, river overlook; can extend ~2.5 mi via the connecting Tram Ridge Loop) plus the Shell Mound site near Cedar Key (short walk atop a large pre-Columbian shell midden); paddlers can run the ~3.8 mi round-trip Lock Creek route from Anderson Landing or book a guided 3-4 hr backcountry paddle through the lower Suwannee\u0027s side creeks.",
+        "nearby_linkages":  [
+                                "Manatee Springs State Park",
+                                "Suwannee River State Park",
+                                "Homosassa Springs Wildlife State Park"
+                            ],
+        "card_summary":  "Undeveloped Gulf coastline beside islands holding one of the largest wading-bird rookeries on the northern Gulf.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "River Trail Loop (~0.75 mi boardwalk loop at refuge HQ, easy, river overlook; can extend ~2.5 mi via the connecting Tram Ridge Loop) plus the Shell Mound site near Cedar Key (short walk atop a large pre-Columbian shell midden); paddlers can run the ~3.8 mi round-trip Lock Creek route from Anderson Landing or book a guided 3-4 hr backcountry paddle through the lower Suwannee\u0027s side creeks."
+                     },
+        "drive_distance_mi":  229.0,
+        "drive_time_min":  289
+    },
+    {
+        "id":  "fl-crystal-river-nwr-three-sisters-springs",
+        "name":  "Crystal River National Wildlife Refuge \u0026 Three Sisters Springs",
+        "region":  "Gulf Coast",
+        "location":  "Crystal River, Citrus County, Florida",
+        "lat":  28.8990,
+        "lon":  -82.5930,
+        "flora_fauna":  "A cluster of spring-fed pools opening into King\u0027s Bay; the only place in the United States where the public may legally swim and snorkel directly alongside wild, free-ranging West Indian manatees in their natural winter refuge.",
+        "special_note":  "The single most reliable place in the country for an up-close, in-water manatee encounter -- hundreds of manatees funnel into these warm (72F) springs from the cooler Gulf each winter, and regulated snorkel tours let visitors float among them.",
+        "best_time_of_year":  "Nov-Mar, with the largest in-water gatherings during and immediately after cold weather snaps (Dec-Feb coldest and most reliable); manatees disperse back to the Gulf by April.",
+        "driving_distance_from_albany_ga":  "~245.6 mi / ~4h 57m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "In-water encounters are regulated under strict manatee-protection rules (no touching, chasing, or cornering); most visitors go with a licensed tour operator, and some zones close to swimmers when manatee numbers are highest.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A boardwalk overlook at Three Sisters Springs lets visitors watch dozens of manatees pool in impossibly clear, shallow turquoise water without even entering it -- one of the single best wildlife-viewing platforms in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Three_Sisters_Springs_area_-_DPLA_-_088015b54bb24f2d6dfb40dabddba19e.jpg/1280px-Three_Sisters_Springs_area_-_DPLA_-_088015b54bb24f2d6dfb40dabddba19e.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (U.S. Fish and Wildlife Service, Keith Ramos)",
+                           "local_path":  "photos/fl-crystal-river-nwr-three-sisters-springs-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1600,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/crystal-river",
+        "adventurer_review_link":  "https://www.scubadiving.com/tips-snorkeling-manatees-crystal-river-florida",
+        "notable_taxa":  [
+                             "West Indian Manatee",
+                             "Anhinga",
+                             "Osprey",
+                             "Snowy Egret",
+                             "Mullet"
+                         ],
+        "hike_rare_different_note":  "This is the only place in the United States where you can legally snorkel in open water alongside wintering West Indian Manatees in a clear spring run — a genuinely unique in-water wildlife encounter, not a hike.",
+        "overnight_town":  "Crystal River — small Gulf-front town with manatee-tour operators, dive shops, and lodging right on Kings Bay.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping at the refuge or the Three Sisters Springs unit; nearby county/private campgrounds and RV parks exist around Crystal River and Fort Island Gulf Beach."
+                    },
+        "must_see_trails":  "Not trail-based for wildlife viewing — the signature activity is a guided boat/kayak-and-snorkel trip into Three Sisters Springs and Kings Bay during manatee season (mid-Nov—œMar) via a licensed Crystal River outfitter. The refuge\u0027s Three Sisters Springs land unit also has a separate ~2-mile easy, flat gravel/boardwalk walking trail with spring overlooks (no water access from this land side).",
+        "nearby_linkages":  [
+                                "Homosassa Springs Wildlife State Park",
+                                "Weeki Wachee Springs State Park",
+                                "Lower Suwannee National Wildlife Refuge \u0026 Cedar Key"
+                            ],
+        "card_summary":  "The only place in the US where the public may legally swim alongside wild manatees.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Not trail-based for wildlife viewing — the signature activity is a guided boat/kayak-and-snorkel trip into Three Sisters Springs and Kings Bay during manatee season (mid-Nov—œMar) via a licensed Crystal River outfitter. The refuge\u0027s Three Sisters Springs land unit also has a separate ~2-mile easy, flat gravel/boardwalk walking trail with spring overlooks (no water access from this land side)."
+                     },
+        "drive_distance_mi":  245.6,
+        "drive_time_min":  297
+    },
+    {
+        "id":  "fl-egmont-key",
+        "name":  "Egmont Key National Wildlife Refuge",
+        "region":  "Gulf Coast",
+        "location":  "mouth of Tampa Bay, Hillsborough County, Florida",
+        "lat":  27.6000,
+        "lon":  -82.7600,
+        "flora_fauna":  "A low, eroding barrier island at the mouth of Tampa Bay; one of the most important sea turtle nesting beaches on Florida\u0027s central Gulf Coast and a major shorebird nesting and migratory staging site, with gopher tortoises roaming the island\u0027s historic fort ruins.",
+        "special_note":  "A combined wildlife refuge and historic site -- the ruins of 1898 Fort Dade are gradually being swallowed by the sea as the island erodes, giving the place a genuinely haunting, slowly-vanishing character found nowhere else on the Gulf Coast.",
+        "best_time_of_year":  "Loggerheads nest May-Oct with hatchlings emerging through fall; spring and fall migration windows bring the most shorebird diversity to the island and fort ruins.",
+        "driving_distance_from_albany_ga":  "~349.2 mi / ~6h 49m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "No bridge -- accessible only by private boat or a passenger ferry (seasonal, from Fort De Soto Park); no cars, shops, or facilities on the island.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Crumbling brick fort ruins half-swallowed by sand and surf sit beside an otherwise empty, wildlife-rich beach with open views across the mouth of Tampa Bay toward the Sunshine Skyway Bridge.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Egmont_Key_North_Battery_-_DPLA_-_d1683c0f4e377658b65128dd855dacf9.jpg/1280px-Egmont_Key_North_Battery_-_DPLA_-_d1683c0f4e377658b65128dd855dacf9.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (U.S. Fish and Wildlife Service)",
+                           "local_path":  "photos/fl-egmont-key-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1510,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/egmont-key",
+        "adventurer_review_link":  "https://www.floridarambler.com/tampa-bay-getaways/egmont-key-state-park/",
+        "notable_taxa":  [
+                             "Gopher Tortoise",
+                             "Loggerhead Sea Turtle",
+                             "Brown Pelican",
+                             "American Oystercatcher",
+                             "Laughing Gull",
+                             "Black Skimmer"
+                         ],
+        "hike_rare_different_note":  "A boat-only barrier island at the mouth of Tampa Bay combining one of the region\u0027s largest seabird nesting colonies (tens of thousands of pairs) with the intact ruins of 1898 Fort Dade — a genuinely different half-day trip rather than a hike.",
+        "overnight_town":  "St. Petersburg / Fort De Soto area — ferries depart from Fort De Soto Park\u0027s South Pier and from St. Pete Pier, both with lodging (and Fort De Soto has camping) nearby for a Tampa Bay base.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Overnight camping is not allowed on Egmont Key itself (no cars, water, or restrooms on the island); Fort De Soto Park, the main ferry departure point, has its own developed campground if an overnight stay nearby is wanted."
+                    },
+        "must_see_trails":  "Not trail-based — visit is by ferry only (Fort De Soto\u0027s South Pier, or \"The Pelican\" from St. Pete Pier), typically a 2-3 hour island visit covering the lighthouse, Fort Dade\u0027s gun batteries, and the beach; self-guided walking on old brick roads, no formal trail network, and about a third of the island (bird sanctuaries) is closed to visitors year-round.",
+        "nearby_linkages":  [
+                                "J.N. \"Ding\" Darling National Wildlife Refuge",
+                                "Myakka River State Park"
+                            ],
+        "card_summary":  "A crumbling 1898 fort, slowly swallowed by the sea, on an otherwise empty, wildlife-rich island.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  349.2,
+        "drive_time_min":  409
+    },
+    {
+        "id":  "fl-ding-darling-nwr",
+        "name":  "J.N. \"Ding\" Darling National Wildlife Refuge",
+        "region":  "Gulf Coast",
+        "location":  "Sanibel Island, Lee County, Florida",
+        "lat":  26.4500,
+        "lon":  -82.1300,
+        "flora_fauna":  "Mangrove, seagrass, and tidal flat habitat supporting one of the densest concentrations of wading birds in North America, including roseate spoonbills, wood storks, reddish egrets, and white pelicans, plus resident alligators and a healthy population of West Indian manatees in the bayous.",
+        "special_note":  "Named for cartoonist and conservationist Jay Norwood \u0027Ding\u0027 Darling, who helped found the National Wildlife Refuge System; the refuge\u0027s Wildlife Drive is consistently ranked among the best bird-photography locations in the United States, especially for roseate spoonbills.",
+        "best_time_of_year":  "Winter (Dec-Mar), especially at low tide around sunrise/sunset, for the densest and most colorful wading-bird concentrations and spoonbills in their brightest breeding plumage; many adults depart for nearby nesting colonies by March/April, so Dec-Feb is best for sheer numbers.",
+        "driving_distance_from_albany_ga":  "~455.8 mi / ~8h 55m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Wildlife Drive is closed on Fridays; a small entrance fee applies for vehicles.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The four-mile Wildlife Drive winds along open mangrove-fringed tidal flats where pink roseate spoonbills, white pelicans, and wood storks often feed in full view just yards from the road -- a uniquely concentrated, drive-through wading-bird spectacle.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Roseate_Spoonbills%2C_J.N._%22Ding%22_Darling_NWR_%285613060762%29.jpg/1280px-Roseate_Spoonbills%2C_J.N._%22Ding%22_Darling_NWR_%285613060762%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-ding-darling-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/jn-ding-darling",
+        "adventurer_review_link":  "https://www.blogbyben.com/2021/12/tampa-and-fort-myers-adventure-day-4.html",
+        "notable_taxa":  [
+                             "Roseate Spoonbill",
+                             "American Alligator",
+                             "Mangrove Cuckoo",
+                             "Reddish Egret",
+                             "White Ibis",
+                             "West Indian Manatee"
+                         ],
+        "hike_rare_different_note":  "Wildlife Drive is one of Florida\u0027s best vehicle/bike wildlife-viewing routes for wading birds and alligators amid the largest undeveloped mangrove ecosystem in the US, and the refuge is a genuine hotspot for the hard-to-find Mangrove Cuckoo.",
+        "overnight_town":  "Sanibel Island — stay right on the island to catch early-morning, low-tide wildlife activity before the day-trip crowds arrive.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping on the refuge (day-use only, gated hours); lodging is in Sanibel/Captiva or Fort Myers — no on-site or immediately adjacent campground."
+                    },
+        "must_see_trails":  "Wildlife Drive (4-mile one-way auto/bike route, closed Fridays) combined with the Indigo Trail (4-mile round trip walking/biking trail from the Visitor Center to the Cross Dike) and the Wildlife Education Boardwalk (~0.3 mi, observation pavilion); Tarpon Bay offers a separate kayak/canoe route through the mangroves (commercial outfitter on site).",
+        "nearby_linkages":  [
+                                "Corkscrew Swamp Sanctuary",
+                                "Egmont Key National Wildlife Refuge"
+                            ],
+        "card_summary":  "A drive-through wildlife refuge where roseate spoonbills and wood storks feed just yards from the road.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  455.8,
+        "drive_time_min":  535
+    },
+    {
+        "id":  "fl-corkscrew-swamp-sanctuary",
+        "name":  "Corkscrew Swamp Sanctuary",
+        "region":  "Gulf Coast",
+        "location":  "Naples, Collier County, Florida",
+        "lat":  26.3700,
+        "lon":  -81.6000,
+        "flora_fauna":  "The largest remaining old-growth bald cypress forest in North America, with trees over 500 years old and 130 feet tall; historically one of the most important wood stork nesting colonies in the United States, plus resident alligators, river otters, and occasional Florida panther and black bear sign.",
+        "special_note":  "An Audubon sanctuary protecting the last substantial stand of virgin bald cypress left in the country after decades of regional logging; the colony here has been one of the most studied wood stork breeding sites anywhere, though nesting numbers fluctuate heavily with water levels.",
+        "best_time_of_year":  "Dry season (Dec-Apr) concentrates wading birds in shrinking pools and is the core wood stork nesting window, though exact nesting timing shifts year to year with rainfall -- check the sanctuary\\u0027s current nesting update before visiting.",
+        "driving_distance_from_albany_ga":  "~476.1 mi / ~9h 1m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "A 2.25-mile boardwalk through the swamp; small entrance fee.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "A boardwalk winds beneath towering, centuries-old cypress draped in ferns and orchids, with lettuce lakes and open marsh pockets offering some of the most cathedral-like old-growth forest scenery left in the eastern United States.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Corkscrew_-_bald_cypress_with_strangler_fig_inside.jpg/1280px-Corkscrew_-_bald_cypress_with_strangler_fig_inside.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/fl-corkscrew-swamp-sanctuary-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1570,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.audubon.org/corkscrew",
+        "adventurer_review_link":  "https://www.islands.com/2161446/corkscrew-swamp-sanctuary-florida-between-miami-fort-myers-scenic-nature-boardwalk-trail-bird-watching/",
+        "notable_taxa":  [
+                             "Wood Stork",
+                             "Florida Panther",
+                             "Roseate Spoonbill",
+                             "White Ibis",
+                             "River Otter",
+                             "Barred Owl"
+                         ],
+        "hike_rare_different_note":  "A 2.25-mile boardwalk through the largest remaining old-growth bald cypress forest in North America (trees roughly 500-600 years old) and one of the most important Wood Stork nesting colonies in the US — a singular, easy, family-friendly old-growth swamp walk with occasional Florida Panther sign.",
+        "overnight_town":  "Naples — closest full-service town with lodging, about 30-45 minutes from the sanctuary.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Day-use sanctuary only (hours roughly 8am-3pm or 8am-4:30pm seasonally, last entry earlier); no camping on site."
+                    },
+        "must_see_trails":  "The Blair Audubon Visitor Center Boardwalk (2.25 miles, elevated, flat, wheelchair-accessible loop through pine flatwoods, wet prairie, and old-growth cypress); a shorter ~1-mile loop option exists for visitors with limited time.",
+        "nearby_linkages":  [
+                                "J.N. \"Ding\" Darling National Wildlife Refuge",
+                                "Fakahatchee Strand Preserve State Park",
+                                "Big Cypress National Preserve"
+                            ],
+        "card_summary":  "The largest old-growth bald cypress forest left in North America, with trees over 500 years old.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  476.1,
+        "drive_time_min":  541
+    },
+    {
+        "id":  "fl-myakka-river-sp",
+        "name":  "Myakka River State Park",
+        "region":  "Gulf Coast",
+        "location":  "Sarasota, Sarasota County, Florida",
+        "lat":  27.2500,
+        "lon":  -82.3100,
+        "flora_fauna":  "A wide, shallow blackwater river and lake system supporting one of the densest alligator populations in Florida (hundreds visible in the dry season), plus one of the largest wading-bird rookeries in the region and a canopy walkway through old-growth oak hammock.",
+        "special_note":  "Home to Florida\u0027s only public canopy walkway, suspended 25 feet up through the oak hammock canopy, and famous for alligator density so high that dry-season lake drawdowns can concentrate dozens of gators visibly basking at once.",
+        "best_time_of_year":  "Dry season (roughly Jan-Apr) for the most concentrated alligator and wading-bird viewing as the lake and Deep Hole sinkhole shrink; summer for lush green scenery after rains, though wildlife is more dispersed.",
+        "driving_distance_from_albany_ga":  "~374.6 mi / ~7h 7m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The elevated canopy walkway and 74-foot observation tower rise straight out of an oak hammock into the treetops, while airboat and tram tours across the open lake and marsh reveal wading-bird flocks and alligators by the dozens.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Myakka_River_State_Park_Canopy_Walk.jpg/1280px-Myakka_River_State_Park_Canopy_Walk.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/fl-myakka-river-sp-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/myakka-river-state-park",
+        "adventurer_review_link":  "https://www.florida-backroads-travel.com/myakka-river-state-park.html",
+        "notable_taxa":  [
+                             "American Alligator",
+                             "Roseate Spoonbill",
+                             "Florida Scrub-Jay",
+                             "Sandhill Crane",
+                             "River Otter",
+                             "Wild Turkey"
+                         ],
+        "hike_rare_different_note":  "Home to one of Florida\u0027s densest alligator populations (especially visible at Deep Hole sinkhole) and the first public treetop canopy walkway in North America — a genuinely different elevated-forest experience, plus a scenic drive and airboat tours on Upper Myakka Lake.",
+        "overnight_town":  "Sarasota — closest full-service city, about 30-40 minutes away; or stay in-park at the campgrounds or historic cabins.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Myakka River State Park Campground (developed drive-up sites) and historic palm-log cabins",
+                        "notes":  "Developed camping plus 5 historic 1930s CCC-built palm-log cabins (reservations via Reserve America/FloridaStateParks.org, book well ahead); six primitive backcountry campsites (Mossy Hammock, Bee Island, Panther Point, Honore, Oak Grove, Prairie) require a hiking permit."
+                    },
+        "must_see_trails":  "Canopy Walkway and Observation Tower (short walk off the main park road, suspended ~25 ft with a 74-ft tower — Florida\u0027s first public treetop trail) combined with the Deep Hole Trail (~5 mi, alligator-viewing sinkhole, permit required, limited to 30/day) and the 7-mile scenic Park Drive (popular for biking and wildlife viewing); airboat tours run on Upper Myakka Lake.",
+        "nearby_linkages":  [
+                                "Egmont Key National Wildlife Refuge",
+                                "Corkscrew Swamp Sanctuary",
+                                "J.N. \"Ding\" Darling National Wildlife Refuge"
+                            ],
+        "card_summary":  "Florida\u0027s only public canopy walkway, plus alligator density so high dozens can be seen basking at once.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  374.6,
+        "drive_time_min":  427
+    },
+    {
+        "id":  "fl-merritt-island-nwr",
+        "name":  "Merritt Island National Wildlife Refuge",
+        "region":  "Atlantic Coast",
+        "location":  "Titusville, Brevard County, Florida",
+        "lat":  28.6500,
+        "lon":  -80.7300,
+        "flora_fauna":  "Coastal scrub, marsh, and lagoon habitat surrounding the Kennedy Space Center; one of the most biodiverse refuges in the National Wildlife Refuge System, with wintering flocks of thousands of waterfowl, large numbers of wading birds and roseate spoonbills, manatees in the lagoon, bald eagles, and one of the most important Florida scrub-jay populations outside Ocala National Forest.",
+        "special_note":  "Listed among the most species-rich refuges in the country -- over 1,500 species of plants and animals, including 15+ federally listed threatened/endangered species -- made possible by NASA\u0027s unintentional role as a de facto buffer that kept the land undeveloped around the Space Center.",
+        "best_time_of_year":  "Winter (Nov-Feb) for peak wintering waterfowl and wading-bird concentrations along Black Point Wildlife Drive; Florida scrub-jays are non-migratory, year-round residents in the refuge\u0027s scrub, not a seasonal sighting.",
+        "driving_distance_from_albany_ga":  "~346.5 mi / ~7h 0m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Some areas close temporarily around rocket launches at the adjacent Kennedy Space Center.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Black Point Wildlife Drive loops through open salt marsh and lagoon where wading birds, alligators, and wintering waterfowl are often visible by the hundreds in a single sweep, with rocket gantries from the Space Center visible on the horizon.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Black_Point_Wildlife_Drive%2C_Merritt_Island_FL_-_Flickr_-_Rusty_Clark_%28157%29.jpg/1280px-Black_Point_Wildlife_Drive%2C_Merritt_Island_FL_-_Flickr_-_Rusty_Clark_%28157%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/fl-merritt-island-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/merritt-island",
+        "adventurer_review_link":  "https://theoutbound.com/florida/photography/wildlife-photography-at-blackpoint-wildlife-drive",
+        "notable_taxa":  [
+                             "Florida Scrub-Jay",
+                             "American Alligator",
+                             "Roseate Spoonbill",
+                             "West Indian Manatee",
+                             "Wood Stork",
+                             "Bald Eagle"
+                         ],
+        "hike_rare_different_note":  "Black Point Wildlife Drive is a famously close-range, self-guided 7-mile auto tour where alligators and wading birds are routinely seen at arm\u0027s length, and the refuge is one of the most reliable places in the state to find the Florida Scrub-Jay, a threatened species found nowhere outside Florida\u0027s scrub habitat.",
+        "overnight_town":  "Titusville - the closest town to the refuge entrance, with lodging, restaurants, and easy access to Kennedy Space Center as well.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "The refuge itself is day-use only (no campgrounds); nearest camping is at Manatee Hammock Park (Titusville) or the backcountry island sites of Canaveral National Seashore just to the east."
+                    },
+        "must_see_trails":  "Black Point Wildlife Drive (7-mile self-guided car/bike loop, Refuge Pass required for entry) combined with the Cruickshank Trail (5-mile loop branching off the drive) and the short Wild Bird Trail boardwalk at Stop 4; map and pass info at the refuge\u0027s official site.",
+        "nearby_linkages":  [
+                                "Canaveral National Seashore",
+                                "Mosquito Lagoon Bioluminescent Kayak Tours",
+                                "Blue Spring State Park"
+                            ],
+        "card_summary":  "Over 1,500 species packed into a refuge accidentally preserved as NASA\u0027s buffer zone around the Space Center.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  346.5,
+        "drive_time_min":  420
+    },
+    {
+        "id":  "fl-canaveral-national-seashore",
+        "name":  "Canaveral National Seashore",
+        "region":  "Atlantic Coast",
+        "location":  "New Smyrna Beach / Titusville, Volusia \u0026 Brevard Counties, Florida",
+        "lat":  28.7500,
+        "lon":  -80.7700,
+        "flora_fauna":  "24 miles of undeveloped barrier-island beach and the Mosquito Lagoon estuary; the highest density of loggerhead and green sea turtle nests of any national seashore in the country, plus manatees, bottlenose dolphins, and large wintering waterfowl flocks in the lagoon.",
+        "special_note":  "Hosts the densest concentration of sea turtle nesting anywhere in the National Park System -- tens of thousands of nests some seasons along its undeveloped dunes, a direct result of being one of the last dark, undeveloped beaches left on Florida\u0027s central Atlantic coast.",
+        "best_time_of_year":  "Loggerheads and greens nest May-Oct, with ranger-led night nesting walks offered June-July and hatchlings emerging into fall; winter brings the most wintering waterfowl to Mosquito Lagoon.",
+        "driving_distance_from_albany_ga":  "~330.7 mi / ~6h 30m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Beach driving/parking areas can fill and close by mid-morning in summer; some sections close seasonally to protect nesting turtles.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Mile after mile of dark, undeveloped dune and beach back directly onto the quiet, mirror-flat waters of Mosquito Lagoon -- one of the last places on Florida\u0027s Atlantic coast where both an unlit natural beach and a pristine estuary meet side by side.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canaveral_National_Seashore%2C_Florida_%2817924ba6-be73-4b80-9e32-f524dddb408f%29.jpg/1280px-Canaveral_National_Seashore%2C_Florida_%2817924ba6-be73-4b80-9e32-f524dddb408f%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (National Park Service)",
+                           "local_path":  "photos/fl-canaveral-national-seashore-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1565,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nps.gov/cana/index.htm",
+        "adventurer_review_link":  "https://www.hikingproject.com/trail/7113218/turtle-mound",
+        "notable_taxa":  [
+                             "Loggerhead Sea Turtle",
+                             "Green Sea Turtle",
+                             "Florida Manatee",
+                             "Roseate Spoonbill",
+                             "American Oystercatcher",
+                             "North Atlantic Right Whale"
+                         ],
+        "hike_rare_different_note":  "Canaveral protects 24 miles of undeveloped barrier-island beach, one of the longest stretches of pristine Atlantic coastline left in Florida, and Turtle Mound - a 35-50 ft ancient shell midden - gives a sweeping view over both the ocean and Mosquito Lagoon from a site occupied for over a thousand years.",
+        "overnight_town":  "New Smyrna Beach for the south/Apollo Beach district (closer, more visitor services) or Titusville for the north/Playalinda district - pick based on which end of the seashore you plan to enter, since the two districts are not directly connected by road within the park.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Mosquito Lagoon backcountry island campsites (14 numbered sites)",
+                        "notes":  "Boat/canoe/kayak access only - no vehicle or drive-in camping anywhere in the park; reservations required via Recreation.gov, bookable up to 6 months ahead."
+                    },
+        "must_see_trails":  "Turtle Mound Trail (0.4 mi round-trip boardwalk loop, easy, big views) and Castle Windy Trail (connects Turtle Mound area to the beach through coastal hammock); otherwise the main \u0027trail\u0027 is the 24-mile undeveloped beach itself, accessible at several parking areas.",
+        "nearby_linkages":  [
+                                "Merritt Island National Wildlife Refuge",
+                                "Mosquito Lagoon Bioluminescent Kayak Tours",
+                                "Blue Spring State Park"
+                            ],
+        "card_summary":  "The densest sea turtle nesting beach in the entire National Park System.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  330.7,
+        "drive_time_min":  390
+    },
+    {
+        "id":  "fl-mosquito-lagoon-bioluminescence",
+        "name":  "Mosquito Lagoon Bioluminescent Kayak Tours",
+        "region":  "Atlantic Coast",
+        "location":  "New Smyrna Beach, Volusia County, Florida",
+        "lat":  28.9000,
+        "lon":  -80.8500,
+        "flora_fauna":  "A shallow, nutrient-rich estuarine lagoon where seasonal blooms of bioluminescent dinoflagellates (and, in some summers, comb jellies) light up with electric-blue light whenever the water is disturbed; the lagoon is also a major nursery for juvenile fish, horseshoe crabs, and seahorses.",
+        "special_note":  "One of the few places in the continental US with a reliably reachable, dramatic bioluminescence display -- paddling or swimming through the water at night on a strong-bloom evening leaves glowing blue trails off paddles, fish, and even dolphins, a genuinely rare and singular natural phenomenon.",
+        "best_time_of_year":  "Summer (Jun-Sep) is the most reliable bloom window, peaking in the hottest months (Jul-Aug); always plan around a moonless, dark, calm night (new moon ideal) since even in-season bloom intensity varies significantly night to night.",
+        "driving_distance_from_albany_ga":  "~319.7 mi / ~6h 13m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Best experienced via a guided night kayak/paddleboard tour (multiple local outfitters); bloom intensity is unpredictable and not guaranteed on any given night.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "On a strong bloom night, every paddle stroke and fish darting beneath the kayak ignites a trail of electric-blue light across the dark lagoon -- a genuinely otherworldly, rarely-seen natural light show unlike anything else in the Southeast.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mosquitolagoon.jpg/1280px-Mosquitolagoon.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (daytime view of the lagoon; bioluminescence itself is a night phenomenon not practically photographed for this catalogue)",
+                           "local_path":  "photos/fl-mosquito-lagoon-bioluminescence-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1605,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.adayawaykayaktours.com",
+        "adventurer_review_link":  "https://www.floridarambler.com/florida-canoeing-kayaking-paddling/night-bioluminescence-kayak-tours-in-florida/",
+        "notable_taxa":  [
+                             "Bioluminescent Dinoflagellates (Pyrodinium bahamense)",
+                             "Comb Jelly",
+                             "Atlantic Bottlenose Dolphin",
+                             "Striped Mullet",
+                             "West Indian Manatee"
+                         ],
+        "hike_rare_different_note":  "A night paddle on Mosquito Lagoon during peak summer bloom (roughly May-October, August best) produces brilliant blue-green light trails from every paddle stroke, jumping mullet, and passing dolphins - a genuinely different, bucket-list-style experience rather than a typical hike or wildlife drive; visibility is best away from the week of a full moon.",
+        "overnight_town":  "Titusville - most tours launch from Haulover Canal within Merritt Island NWR or from Kelly Park East in Cocoa, both a short drive from Titusville lodging.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Tours are an evening activity, not a campable site; nearby camping options are Canaveral National Seashore\u0027s backcountry islands or Manatee Hammock Park in Titusville."
+                    },
+        "must_see_trails":  "Not trail-based: a guided ~2-3 hour night kayak tour in groups (roughly 10 boats with two leaders), launching at dusk from Haulover Canal or a Cocoa-area ramp; operators include A Day Away Kayak Tours (the original bioluminescence outfitter in the area), BK Adventure, and Adventure Kayak of Cocoa Beach.",
+        "nearby_linkages":  [
+                                "Merritt Island National Wildlife Refuge",
+                                "Canaveral National Seashore",
+                                "Blue Spring State Park"
+                            ],
+        "card_summary":  "Paddle at night and every stroke ignites a trail of electric-blue bioluminescent light.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Not trail-based: a guided ~2-3 hour night kayak tour in groups (roughly 10 boats with two leaders), launching at dusk from Haulover Canal or a Cocoa-area ramp; operators include A Day Away Kayak Tours (the original bioluminescence outfitter in the area), BK Adventure, and Adventure Kayak of Cocoa Beach."
+                     },
+        "drive_distance_mi":  319.7,
+        "drive_time_min":  373
+    },
+    {
+        "id":  "fl-everglades-np",
+        "name":  "Everglades National Park",
+        "region":  "South Florida/Everglades",
+        "location":  "Homestead / Flamingo / Everglades City, Miami-Dade \u0026 Monroe Counties, Florida",
+        "lat":  25.3931,
+        "lon":  -80.6818,
+        "flora_fauna":  "The largest subtropical wilderness in the United States and the only place on Earth where alligators and American crocodiles coexist; home to the endangered Florida panther, West Indian manatee, roseate spoonbill, wood stork, and vast sawgrass \u0027river of grass\u0027 marsh, mangrove estuary, and hardwood hammock ecosystems found nowhere else in North America.",
+        "special_note":  "A UNESCO World Heritage Site, International Biosphere Reserve, and Wetland of International Importance all at once -- among the most ecologically significant protected areas on the continent, and a critical last stronghold for the Florida panther, with perhaps only 120-230 adults left in the wild.",
+        "best_time_of_year":  "Dry season (Dec-Apr) concentrates alligators, wading birds, and other wildlife around shrinking water sources (and brings far fewer mosquitoes); wet season (summer) brings lush scenery but intense heat, bugs, and more dispersed wildlife.",
+        "driving_distance_from_albany_ga":  "~568.0 mi / ~10h 59m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "A very large park with widely separated entrances (Homestead/Ernest Coe in the east, Shark Valley in the north, Everglades City/Gulf Coast in the west) -- visiting more than one area requires substantial additional driving.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The Anhinga Trail boardwalk offers point-blank views of alligators, anhingas, and herons just feet away, while the Shark Valley tram loop and observation tower sweep across an endless, horizon-to-horizon sawgrass prairie found nowhere else on the continent.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Alligator_on_Anhinga_Trail%2C_NPSPhoto%2C_D.Harris_%289101437344%29.jpg/1280px-Alligator_on_Anhinga_Trail%2C_NPSPhoto%2C_D.Harris_%289101437344%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (National Park Service)",
+                           "local_path":  "photos/fl-everglades-np-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1625,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nps.gov/ever/index.htm",
+        "adventurer_review_link":  "https://redaroundtheworld.com/2023/09/11/anhinga-trail-vs-shark-valley/",
+        "notable_taxa":  [
+                             "American Alligator",
+                             "American Crocodile",
+                             "Florida Panther",
+                             "Roseate Spoonbill",
+                             "West Indian Manatee",
+                             "Snail Kite"
+                         ],
+        "hike_rare_different_note":  "Everglades NP is the only place in the United States where American alligators and American crocodiles coexist, and the Anhinga Trail boardwalk is one of the most reliable close-range wildlife-viewing spots in North America; Shark Valley\u0027s 15-mile tram/bike loop to a 65-ft observation tower adds a different, wide-open sawgrass-prairie perspective.",
+        "overnight_town":  "Homestead for the main (east) entrance, Royal Palm/Anhinga Trail, and Flamingo (38 miles further south); Everglades City for the separate west/Gulf Coast entrance and Ten Thousand Islands boat tours, which is also the natural base when combining with Big Cypress and Fakahatchee along the Tamiami Trail.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Flamingo Campground \u0026 Long Pine Key Campground (frontcountry); wilderness ground/beach/chickee backcountry sites",
+                        "notes":  "Flamingo and Long Pine Key are drive-in sites (Flamingo has some RV hookups) bookable via Recreation.gov; all backcountry wilderness sites, including elevated over-water chickee platforms, require a wilderness camping permit, with Marjory Stoneman Douglas Wilderness sites requiring advance Recreation.gov reservation (up to 90 days out) since 2023."
+                    },
+        "must_see_trails":  "Anhinga Trail (0.8 mi round-trip boardwalk loop at Royal Palm, easy, best wildlife density) and the Shark Valley Loop (15-mile paved loop, walk/bike/tram, observation tower at the midpoint); NPS trail info at nps.gov/ever/planyourvisit.",
+        "nearby_linkages":  [
+                                "Big Cypress National Preserve",
+                                "Fakahatchee Strand Preserve State Park",
+                                "Florida Keys Coral Reef (John Pennekamp Coral Reef State Park)"
+                            ],
+        "card_summary":  "The only place on Earth where alligators and crocodiles coexist, and a last stronghold for the Florida panther.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  568.0,
+        "drive_time_min":  659
+    },
+    {
+        "id":  "fl-big-cypress-np",
+        "name":  "Big Cypress National Preserve",
+        "region":  "South Florida/Everglades",
+        "location":  "Ochopee, Collier County, Florida",
+        "lat":  25.8900,
+        "lon":  -81.1300,
+        "flora_fauna":  "A mosaic of cypress strands, dwarf pond-cypress prairie, pine islands, and wet prairie forming the hydrological lifeline of the western Everglades; one of the most important remaining strongholds for the critically endangered Florida panther, plus Florida black bear, American alligator, and the rare, little-known Florida bonneted bat.",
+        "special_note":  "The nation\u0027s first national preserve (1974), created specifically to protect the water flow feeding the Everglades and the panther habitat within it; roadside panther crossing signs and ongoing radio-collar research reflect how central this landscape is to the species\u0027 survival.",
+        "best_time_of_year":  "Dry season (Dec-Apr) for the best wildlife viewing (alligators and wading birds concentrate at remaining water) and fully accessible boardwalks/trails; wet season (summer) floods much of the backcountry.",
+        "driving_distance_from_albany_ga":  "~514.6 mi / ~9h 43m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The Tamiami Trail\u0027s roadside boardwalks (including the Kirby Storter Roadside Park) drop visitors straight into dwarf cypress prairie and dark cypress-strand swamp, with wide-open wet-prairie vistas along Loop Road found almost nowhere else in the country.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Big_Cypress_National_Preserve%2C_Florida_%280f4b0bfc-46c5-415a-bb34-5a3ee8a5af9e%29.jpg/1280px-Big_Cypress_National_Preserve%2C_Florida_%280f4b0bfc-46c5-415a-bb34-5a3ee8a5af9e%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain (National Park Service)",
+                           "local_path":  "photos/fl-big-cypress-np-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nps.gov/bicy/index.htm",
+        "adventurer_review_link":  "https://www.birdingplaces.eu/birdingplaces/united-states/kirby-storter-boardwalk",
+        "notable_taxa":  [
+                             "Florida Panther",
+                             "Big Cypress Fox Squirrel",
+                             "American Alligator",
+                             "Ghost Orchid",
+                             "Wood Stork",
+                             "Swallow-tailed Kite"
+                         ],
+        "hike_rare_different_note":  "Big Cypress protects the largest remaining stand of old-growth bald cypress and is core Florida panther habitat; the Turner River/Wagonwheel/Birdon Scenic Drive and Loop Road backroads offer some of the best roadside alligator and wading-bird viewing anywhere in the state. Note: the popular Kirby Storter boardwalk was heavily damaged by an October 2024 fire and has been only partially reopened as of recent reports - confirm current status with the preserve before planning around it.",
+        "overnight_town":  "Naples (45-60 min west) has the most lodging; Everglades City/Ochopee are closer but have very limited overnight options, and work well if combining with Everglades NP\u0027s Gulf Coast entrance or Fakahatchee Strand.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Monument Lake \u0026 Midway Campgrounds (developed) plus primitive campgrounds (Burns Lake, Mitchell Landing, Pinecrest, Dona Drive, Loop Road, Concho Billie)",
+                        "notes":  "Eight campgrounds total ranging from no-facility primitive sites to developed sites with restrooms; check nps.gov/bicy and Recreation.gov for current fees and reservation requirements."
+                    },
+        "must_see_trails":  "Kirby Storter Roadside Park boardwalk (1 mi round-trip into cypress strand, easy - verify reopening status after 2024 fire damage), H.P. Williams Wayside Park boardwalk, Turner River/Wagonwheel/Birdon Scenic Drive (16-mile loop, 1-2 hrs), Loop Road Scenic Drive (24 miles, mostly unpaved, 1-3 hrs), and the Oasis Visitor Center boardwalk.",
+        "nearby_linkages":  [
+                                "Everglades National Park",
+                                "Fakahatchee Strand Preserve State Park",
+                                "Florida Keys Coral Reef (John Pennekamp Coral Reef State Park)"
+                            ],
+        "card_summary":  "The nation\u0027s first national preserve, created to protect the water and panther habitat feeding the Everglades.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  514.6,
+        "drive_time_min":  583
+    },
+    {
+        "id":  "fl-fakahatchee-strand",
+        "name":  "Fakahatchee Strand Preserve State Park",
+        "region":  "South Florida/Everglades",
+        "location":  "Copeland, Collier County, Florida",
+        "lat":  25.9800,
+        "lon":  -81.4400,
+        "flora_fauna":  "The largest strand swamp in the world, dominated by old-growth bald cypress and the largest concentration of native orchid species in North America (44+ species), plus the rare ghost orchid, enormous royal palms found nowhere else wild in the US, and a core Florida panther breeding range.",
+        "special_note":  "Famous as the setting of the book and film \u0027Adaptation\u0027 (based on Susan Orlean\u0027s \u0027The Orchid Thief\u0027) for its population of the exceptionally rare, leafless ghost orchid, which blooms for only a few weeks a year and has become something of a holy grail for orchid hunters and photographers.",
+        "best_time_of_year":  "Ghost orchid bloom typically runs June-August (never guaranteed, and sightings require real effort or a guided tour); dry season (winter, Nov-Apr) is best for the guided wet swamp walks and for easier, drier hiking on Jane\u0027s Scenic Drive and the Big Cypress Bend boardwalk.",
+        "driving_distance_from_albany_ga":  "~510.0 mi / ~9h 40m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The interior strand swamp beyond the Big Cypress Bend boardwalk is true wet-foot swamp slogging, best done with a ranger-led swamp walk; casual visitors should stick to the boardwalk and Jane\u0027s Scenic Drive.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "The Big Cypress Bend boardwalk winds beneath some of the tallest old-growth bald cypress left in Florida, hung with bromeliads and orchids, while the swamp beyond holds the best wild ghost-orchid habitat left on the continent.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FakahatcheeStrandPreserveStatePark.jpg/1280px-FakahatcheeStrandPreserveStatePark.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-fakahatchee-strand-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1590,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/park/Fakahatchee-Strand",
+        "adventurer_review_link":  "https://sierraclub.org/sierra/some-enchanted-swamp-walk-fakahatchee-strand-preserve-trailhead",
+        "notable_taxa":  [
+                             "Ghost Orchid",
+                             "Florida Panther",
+                             "Everglades Mink",
+                             "Big Cypress Fox Squirrel",
+                             "Florida Black Bear",
+                             "Wood Stork"
+                         ],
+        "hike_rare_different_note":  "Known as the \u0027Amazon of North America\u0027 and the setting for \u0027The Orchid Thief\u0027/Adaptation, Fakahatchee holds the richest concentration of native orchid and bromeliad species in North America, including the rare ghost orchid; the guided off-trail wet \u0027swamp walk\u0027 through old-growth cypress sloughs (seasonal, Nov-Apr) is a genuinely unusual hands-on experience not offered at most parks.",
+        "overnight_town":  "Everglades City/Copeland area is closest (about 15 minutes) but has limited lodging; most visitors base in Naples (about 45 minutes) for more options, especially if combining with Big Cypress or Everglades NP\u0027s Gulf Coast side.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No developed campground within the preserve itself (it\u0027s a day-use boardwalk/scenic-drive site); nearest camping is at Big Cypress National Preserve (Monument Lake or Midway campgrounds) or Collier-Seminole State Park."
+                    },
+        "must_see_trails":  "Big Cypress Bend Boardwalk (roughly 1.15 mi one-way / ~2.3 mi round trip after its post-Hurricane Ian rebuild, easy, ends at a gator pond/observation deck) off US-41; Janes Scenic Drive (unpaved, about 11 miles total, first ~6 miles drivable by car, remainder by bike or on foot - verify current road condition); and the Friends of Fakahatchee\u0027s guided wet swamp walks and Ghost Rider tram tour (reservations via orchidswamp.org).",
+        "nearby_linkages":  [
+                                "Big Cypress National Preserve",
+                                "Everglades National Park",
+                                "Florida Keys Coral Reef (John Pennekamp Coral Reef State Park)"
+                            ],
+        "card_summary":  "The largest strand swamp in the world, famous for its elusive, exceptionally rare ghost orchid.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  510.0,
+        "drive_time_min":  580
+    },
+    {
+        "id":  "fl-florida-keys-reef",
+        "name":  "Florida Keys Coral Reef (John Pennekamp Coral Reef State Park)",
+        "region":  "South Florida/Everglades",
+        "location":  "Key Largo, Monroe County, Florida",
+        "lat":  25.1300,
+        "lon":  -80.4050,
+        "flora_fauna":  "The only living coral barrier reef system in the continental United States, part of the third-largest reef tract on Earth; home to over 600 species of fish, sea turtles, spiny lobster, and dozens of hard and soft coral species, though the reef has suffered significant bleaching and disease impacts in recent decades.",
+        "special_note":  "America\u0027s first undersea park (established 1963), protecting part of the only tropical barrier coral reef in the continental US -- a genuinely singular ecosystem in North America, though visitors should know that stony coral tissue loss disease and warming-driven bleaching have severely impacted reef health here and throughout the Keys since the late 2010s.",
+        "best_time_of_year":  "Anytime, with calmer seas and better underwater visibility typically April-August; hurricane season (Jun-Nov) can disrupt boat trips on short notice.",
+        "driving_distance_from_albany_ga":  "~576.3 mi / ~10h 56m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The reef itself is reached only by boat (glass-bottom boat tours, snorkel/dive charters); no wading or shore access to the main reef tract.",
+        "source_section":  "Web research (Florida, no book source)",
+        "scenic_highlights":  "Snorkeling or glass-bottom-boat tours over Molasses Reef and the submerged \u0027Christ of the Abyss\u0027 statue reveal towering coral formations and reef fish in startlingly clear turquoise water -- the closest thing to a tropical reef experience reachable by road from the mainland US.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Scuba_diver_looking_at_the_%22Christ_of_the_Abyss%22_bronze_sculpture_at_John_Pennekamp_Coral_Reef_State_Park-_Key_Largo%2C_Florida_%283247324917%29.jpg/1280px-Scuba_diver_looking_at_the_%22Christ_of_the_Abyss%22_bronze_sculpture_at_John_Pennekamp_Coral_Reef_State_Park-_Key_Largo%2C_Florida_%283247324917%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/fl-florida-keys-reef-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1540,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park",
+        "adventurer_review_link":  "https://ww2.aaa.com/tripcanvas/thing-to-do/snorkel-tour-visit-2-shallow-reefs-john-pennekamp-state-park-246569P5",
+        "notable_taxa":  [
+                             "Elkhorn Coral",
+                             "Queen Angelfish",
+                             "Nurse Shark",
+                             "Great Barracuda",
+                             "Spiny Lobster",
+                             "Green Sea Turtle"
+                         ],
+        "hike_rare_different_note":  "Pennekamp was the first underwater park in the United States and protects part of the only living coral barrier reef in the continental US, including the famous submerged \u0027Christ of the Abyss\u0027 bronze statue - a snorkel/dive experience with no real equivalent elsewhere on this trip itinerary.",
+        "overnight_town":  "Key Largo - sits right at the park entrance with the most lodging options in the Upper Keys.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "John Pennekamp Coral Reef State Park Campground",
+                        "notes":  "Developed campground within the park (reservations recommended, especially around holidays) via the state park reservation system; book well ahead in winter high season."
+                    },
+        "must_see_trails":  "Not trail-based: park concessionaire boat tours include a ~2.5-hour glass-bottom boat tour, a ~2.5-hour snorkel tour (wheelchair-accessible vessel available) to sites like Molasses Reef, Horseshoe Reef, Grecian Rocks, and Christ of the Abyss, and two-tank scuba dives through the on-site PADI Five-Star Gold Palm dive shop; private charters from Key Largo also run 3-3.5 hour two-reef snorkel trips.",
+        "nearby_linkages":  [
+                                "Everglades National Park",
+                                "Big Cypress National Preserve",
+                                "Fakahatchee Strand Preserve State Park"
+                            ],
+        "card_summary":  "The only living coral barrier reef in the continental US, though recent disease and bleaching have taken a toll.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  576.3,
+        "drive_time_min":  656
+    }
+]

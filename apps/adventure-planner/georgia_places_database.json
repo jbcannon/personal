@@ -1,0 +1,1874 @@
+[
+    {
+        "id":  "tallulah-gorge-state-park",
+        "name":  "Tallulah Gorge State Park",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Tallulah Falls, Habersham/Rabun County, Georgia",
+        "lat":  34.738,
+        "lon":  -83.389,
+        "flora_fauna":  "Sheer gorge walls support rare cliff-face plants including persistent trillium and seep-fed populations of monkey-face orchid nearby; peregrine falcons, reintroduced to the gorge\u0027s cliffs in the 1980s-90s, nest on the rim; hemlock and mixed hardwood forest with mountain laurel lines the canyon.",
+        "special_note":  "One of the deepest gorges east of the Mississippi River -- nearly 1,000 feet deep and almost two miles long, cut by the Tallulah River through ancient quartzite bedrock. A suspension bridge sways 80 feet above the gorge floor, and a limited number of free permits allow hikers down to the floor itself.",
+        "best_time_of_year":  "Scheduled GA Power whitewater-release weekends (historically a few dates per year - check gastateparks.org) for the gorge\u0027s biggest flow and whitewater show; early-mid April for blooming Persistent Trillium along the rim; late Oct-early Nov for foliage against the cliffs; rim trails and suspension bridge are worthwhile year-round.",
+        "driving_distance_from_albany_ga":  "~276.6 mi / ~5h 21m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Gorge-floor access requires a free permit (limited to 100/day) and closes when water levels are unsafe; rim trails and overlooks are open year-round.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Multiple rim overlooks stare straight down 600-900 vertical feet of sheer rock walls to a chain of waterfalls (Tempesta, Hurricane, Oceana) on the gorge floor; the swinging bridge crossing is one of the most dramatic short walks in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/0/01/Tallulah_Gorge_view_from_an_overlook%2C_May_2017_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/tallulah-gorge-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1625,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/TallulahGorge",
+        "adventurer_review_link":  "https://www.atlantatrails.com/hiking-trails/tallulah-gorge-north-south-rim-trails/",
+        "notable_taxa":  "Peregrine Falcon (reintroduced, wild nesting since 2015), Trillium persistens (Persistent Trillium - federally endangered, endemic to Tallulah-Tugaloo drainage), Carolina Hemlock, Monkeyface Orchid",
+        "hike_rare_different_note":  "One of the only places in Georgia to see a 1000-ft gorge rim-to-floor, with a suspension bridge over the chasm and a gorge-floor hike requiring a free daily permit (100/day) to reach Tempesta/Hurricane Falls - genuinely unique terrain for the state, plus a federally endangered endemic trillium found almost nowhere else on Earth.",
+        "overnight_town":  "Clayton, GA - small mountain town ~20 min away with more lodging/dining options than tiny Tallulah Falls itself.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Tallulah Gorge State Park Campground",
+                        "notes":  "~50 tent/RV sites on the gorge rim plus 3 hike-in backcountry sites and 1 group site; reserve via Georgia State Parks (1-800-864-7275)."
+                    },
+        "must_see_trails":  "North \u0026 South Rim Trails (~3 mi round trip combined, moderate, 5 overlooks on North Rim) - gastateparks.org/TallulahGorge/Trails; Gorge Floor Trail (2.5 mi RT, very difficult, permit required) to Hurricane Falls.",
+        "nearby_linkages":  [
+                                "black-rock-mountain-state-park",
+                                "anna-ruby-falls",
+                                "smithgall-woods-heritage-preserve"
+                            ],
+        "card_summary":  "Near-1,000-ft gorge with a swaying suspension bridge, rim overlooks, and a chain of waterfalls on the floor.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  276.6,
+        "drive_time_min":  321
+    },
+    {
+        "id":  "anna-ruby-falls",
+        "name":  "Anna Ruby Falls",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Chattahoochee National Forest, near Helen, White County, Georgia",
+        "lat":  34.7339,
+        "lon":  -83.7238,
+        "flora_fauna":  "Twin waterfalls formed where Curtis Creek (153 ft) and York Creek (50 ft) plunge side by side down the same cliff face; cove hardwood forest of yellow birch, eastern hemlock (declining to hemlock woolly adelgid), and rosebay rhododendron; black bear and Appalachian salamanders are common in the surrounding high-elevation forest.",
+        "special_note":  "One of the few places in the Southeast where two separate named waterfalls, fed by two different creeks, are visible together from a single platform; part of the Smithgall Woods / Lake Russell Wildlife Management corridor.",
+        "best_time_of_year":  "Anytime - the twin falls are fed by strong perennial creeks and flow year-round; winter-spring (Dec-April) brings the highest water after rain/snowmelt; late Oct-early Nov for foliage color along the gorge.",
+        "driving_distance_from_albany_ga":  "~270.6 mi / ~5h 28m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Small day-use parking fee; paved but moderately steep 0.4-mi trail to the viewing platform.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Twin falls dropping together into a shared pool framed by mossy boulders and rhododendron thickets, with mountain views on the walk out.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Anna_Ruby_Falls_-_Curtis_Creek.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/anna-ruby-falls-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1555,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/anna-ruby-falls-recreation-area",
+        "adventurer_review_link":  "https://www.hikingproject.com/trail/7063277/anna-ruby-falls-trail-15",
+        "notable_taxa":  "Vasey\u0027s Trillium, Foamflower, Bloodroot, Mayapple (spring); Eastern Hemlock along Smith Creek",
+        "hike_rare_different_note":  "Not a rare or novel destination on its own - it\u0027s a short, paved, heavily-trafficked walk to a genuinely striking twin waterfall (153 ft + 50 ft merging into one creek), best treated as an easy add-on rather than the centerpiece of a trip.",
+        "overnight_town":  "Helen, GA - Bavarian-themed town 2.5 mi away with abundant lodging, dining, and tubing/rafting on the Chattahoochee.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping at the falls site itself; nearest developed camping is Unicoi State Park Campground (adjacent) or Lake Russell/Andrews Cove in Chattahoochee NF."
+                    },
+        "must_see_trails":  "Anna Ruby Falls Trail, 0.4-0.6 mi one-way paved path from visitor center to falls viewing platform, easy/wheelchair-accessible.",
+        "nearby_linkages":  [
+                                "smithgall-woods-heritage-preserve",
+                                "raven-cliff-falls-chattahoochee-nf",
+                                "tallulah-gorge-state-park"
+                            ],
+        "card_summary":  "Twin waterfalls from two different creeks plunge together into one pool, framed by rhododendron.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  270.6,
+        "drive_time_min":  328
+    },
+    {
+        "id":  "amicalola-falls-state-park",
+        "name":  "Amicalola Falls State Park",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Dawsonville, Dawson County, Georgia",
+        "lat":  34.5572,
+        "lon":  -84.2466,
+        "flora_fauna":  "Georgia\u0027s tallest waterfall drops 729 feet in a series of cascades through a mixed hardwood-pine gorge; the approach trail passes through cove forest with spring ephemerals (trillium, bloodroot) and connects to the southern terminus of the Appalachian Trail at Springer Mountain.",
+        "special_note":  "At 729 feet, the tallest cascading waterfall east of the Mississippi River; the park\u0027s 8.5-mile Approach Trail is the traditional starting point for northbound Appalachian Trail thru-hikers.",
+        "best_time_of_year":  "Winter-spring (Dec-April) for the cascade\u0027s maximum flow after rain/snowmelt; late Oct-early Nov for gorge foliage; late Feb-April is also peak season for northbound Appalachian Trail thru-hikers registering at the Approach Trail.",
+        "driving_distance_from_albany_ga":  "~258.3 mi / ~5h 8m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee; a staircase of 400+ steps climbs alongside the upper falls for closer views.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A reflection pool at the base gives a straight-on view up the entire 729-foot cascade; the East Ridge and West Ridge trails offer high overlooks down the full length of the falls and gorge.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/60/Amicalola_Falls_02.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/amicalola-falls-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1595,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/AmicalolaFalls",
+        "adventurer_review_link":  "https://www.hikingproject.com/trail/7033024/at-approach-trail",
+        "notable_taxa":  "Eastern Hemlock (remnant old-growth), Eastern Red-backed Salamander, Blue Ridge Two-lined Salamander, Rhododendron maximum",
+        "hike_rare_different_note":  "Georgia\u0027s tallest waterfall (729 ft cascading) and the symbolic southern gateway to the Appalachian Trail - the 8.5-mi blue-blazed Approach Trail to Springer Mountain is a true pilgrimage hike for AT thru-hikers, not just a waterfall stop.",
+        "overnight_town":  "n/a - park has its own lodge and campground for overnighting; Dahlonega (20 min) is the nearest town for additional dining/lodging variety.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Amicalola Falls State Park Campground",
+                        "notes":  "~18-24 gravel pull-in/back-in sites with water/power/grill; also has a lodge, cottages, and the backcountry Len Foote Hike Inn (hike-in only, ~5 mi)."
+                    },
+        "must_see_trails":  "Approach Trail to Springer Mountain (8.5 mi one-way, strenuous, blue-blazed to white AT blazes); West Ridge Trail (~0.3-0.7 mi, accessible, 400+ stairs) and East Ridge Trail (~1-2.1 mi, moderate-strenuous) both reach the falls overlook.",
+        "nearby_linkages":  [
+                                "vogel-state-park-blood-mountain",
+                                "sosebee-cove-scenic-area",
+                                "black-rock-mountain-state-park"
+                            ],
+        "card_summary":  "Georgia\u0027s tallest cascade (729 ft) and the start of the approach trail to the Appalachian Trail.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  258.3,
+        "drive_time_min":  308
+    },
+    {
+        "id":  "brasstown-bald",
+        "name":  "Brasstown Bald",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Union/Towns County, Georgia",
+        "lat":  34.8757,
+        "lon":  -83.8107,
+        "flora_fauna":  "Georgia\u0027s highest summit (4,784 ft) with a small remnant patch of high-elevation northern hardwood forest and a rhododendron/mountain-laurel bald near the top; peregrine falcons and common ravens use the summit cliffs.",
+        "special_note":  "Georgia\u0027s highest point, topped by a 360-degree observation deck and visitor center giving views into four states on a clear day.",
+        "best_time_of_year":  "Mid-to-late Oct for peak long-range foliage views (sometimes into 3-4 neighboring states); late May-June for flame azalea and mountain laurel blooming along the summit and Jack\u0027s Knob trails; winter\u0027s leaf-off also opens some of the year\u0027s longest sightlines.",
+        "driving_distance_from_albany_ga":  "~292.1 mi / ~5h 53m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Steep 0.6-mi paved trail to the summit, or a seasonal shuttle van; small fee.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "360-degree views from the summit observation deck -- on clear days visible into North Carolina, Tennessee, and South Carolina -- with a dramatic look back along the Blue Ridge crest.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Brasstown_Bald_Viewing_Tower.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/brasstown-bald-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/brasstown-bald-visitor-information-center",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/chattahoochee-national-forest-brasstown-bald-via-jacks-knob-trail",
+        "notable_taxa":  "Canada Mayflower and other boreal-relict plants at Georgia\u0027s highest elevation, Common Raven, Dark-eyed Junco (breeding at this southern high-elevation outlier)",
+        "hike_rare_different_note":  "Georgia\u0027s single highest point (4,784 ft) with a 360-degree observation deck - the novelty is the view (4 states visible on clear days) and the boreal-relict high-elevation plant community rare this far south, reachable via an easy paved summit trail or a real climb via Jack\u0027s Knob Trail from the AT.",
+        "overnight_town":  "Hiawassee, GA or Helen, GA - both within ~20-30 min with full lodging/dining; Blairsville is also close.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping at the summit/visitor center itself; nearest developed camping is Vogel State Park or Lake Winfield Scott Recreation Area in Chattahoochee NF."
+                    },
+        "must_see_trails":  "Summit Trail, 0.6 mi paved, very steep, from parking area to observation deck (shuttle available); Jack\u0027s Knob Trail, ~4.5 mi round trip / connects to the AT, moderate-strenuous, CCC-era trail.",
+        "nearby_linkages":  [
+                                "vogel-state-park-blood-mountain",
+                                "sosebee-cove-scenic-area",
+                                "black-rock-mountain-state-park"
+                            ],
+        "card_summary":  "Georgia\u0027s highest peak -- a 360-degree observation deck with views into three neighboring states.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  292.1,
+        "drive_time_min":  353
+    },
+    {
+        "id":  "black-rock-mountain-state-park",
+        "name":  "Black Rock Mountain State Park",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Mountain City, Rabun County, Georgia",
+        "lat":  34.8973,
+        "lon":  -83.4096,
+        "flora_fauna":  "Georgia\u0027s highest-elevation state park (over 3,600 ft), straddling the Eastern Continental Divide; northern hardwood forest with a Catawba rhododendron bald blooming in June, plus black bear, ruffed grouse, and the high salamander diversity typical of the southern Blue Ridge escarpment.",
+        "special_note":  "The park sits directly on the Eastern Continental Divide -- rain on one side drains to the Atlantic, the other to the Gulf of Mexico -- and its overlooks face the Blue Ridge escarpment, among the steepest topographic drops in the state.",
+        "best_time_of_year":  "Mid-to-late June for peak Catawba rhododendron and mountain laurel bloom along the escarpment; mid-to-late October for some of the best long-range fall color in the state.",
+        "driving_distance_from_albany_ga":  "~288.4 mi / ~5h 39m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Several overlooks along the James E. Edmonds Backcountry Trail and park road look out across layered Blue Ridge ridgelines into North Carolina -- among the longest sightlines in the Georgia mountains.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/e/e6/Black_Rock_Mountain_State_Park_view%2C_August_2017_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/black-rock-mountain-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1535,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/BlackRockMountain",
+        "adventurer_review_link":  "https://api.theoutbound.com/georgia/hiking/hike-the-james-e-edmond-trail-to-lookoff-mountain-overlook",
+        "notable_taxa":  "Catawba Rhododendron, Eastern Continental Divide endemic flora, Black Bear, Ruffed Grouse (high-elevation specialist)",
+        "hike_rare_different_note":  "Georgia\u0027s highest-elevation state park (3,640 ft) straddling the Eastern Continental Divide - rain here splits toward the Atlantic and the Gulf of Mexico, a genuine only-here novelty, plus 80-mile overlook views and dense Catawba rhododendron blooms in June.",
+        "overnight_town":  "Clayton, GA - closest town (10 min) with restaurants and extra lodging beyond the park\u0027s own cottages.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Black Rock Mountain State Park Campground",
+                        "notes":  "44 tent/trailer/RV sites, 12 walk-in sites, 4 backcountry sites (permit + reservation required), bear boxes provided; park also has 10 cottages."
+                    },
+        "must_see_trails":  "James E. Edmonds Backcountry Trail, ~7.2 mi loop, moderate-strenuous, to Lookoff Mountain overlook over Wolffork Valley; easy lake loop around the park\u0027s 17-acre lake.",
+        "nearby_linkages":  [
+                                "tallulah-gorge-state-park",
+                                "raven-cliff-falls-chattahoochee-nf",
+                                "smithgall-woods-heritage-preserve"
+                            ],
+        "card_summary":  "Straddles the Eastern Continental Divide with long Blue Ridge overlooks from Georgia\u0027s highest-elevation state park.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  288.4,
+        "drive_time_min":  339
+    },
+    {
+        "id":  "raven-cliff-falls-chattahoochee-nf",
+        "name":  "Raven Cliff Falls",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Chattahoochee National Forest, near Helen, White County, Georgia",
+        "lat":  34.750,
+        "lon":  -83.797,
+        "flora_fauna":  "Dodd Creek flows through a massive boulder outcrop and pours straight out through a narrow, wedge-shaped crevice -- a geologic feature almost unique in the Southeast; the trail follows the Chattahoochee River headwaters through old hemlock/rhododendron gorge forest with wild brook trout.",
+        "special_note":  "The falls plunge through a dramatic crack in solid rock rather than over a ledge -- one of the most geologically distinctive waterfalls in the state.",
+        "best_time_of_year":  "Anytime for the rock-crevice falls themselves (the geology, not a season, is the draw); winter-spring (Dec-April) after rain/snowmelt gives the most dramatic flow through the crevice; late Oct-early Nov for color along Dodd Creek.",
+        "driving_distance_from_albany_ga":  "~273.3 mi / ~6h 21m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "~2.5-mi moderate out-and-back trail from the Chattahoochee River headwaters trailhead; no facilities at trailhead.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Water visibly shooting out through a vertical slot in solid rock, framed by a hemlock-and-rhododendron gorge -- one of north Georgia\u0027s most photographed \u0027hidden\u0027 waterfalls.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Raven_Cliff_Falls_GA.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/raven-cliff-falls-chattahoochee-nf-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1565,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/ravens-cliff-trailhead",
+        "adventurer_review_link":  "https://atlantatrails.com/hiking-trails/hiking-to-raven-cliff-falls/",
+        "notable_taxa":  "Rhododendron maximum, Eastern Hemlock, Black Bear (common in Raven Cliffs Wilderness)",
+        "hike_rare_different_note":  "A geological rarity - the waterfall shoots through a vertical crevice splitting a solid rock cliff face, a formation unlike any other named GA waterfall; the approach through the Raven Cliffs Wilderness along Dodd Creek is genuinely wild and less developed than most north GA falls hikes.",
+        "overnight_town":  "Helen, GA - closest town (~15-20 min) with full services.",
+        "camping":  {
+                        "available":  true,
+                        "name":  null,
+                        "notes":  "No developed campground (designated Wilderness); free first-come dispersed camping along the Dodd Creek corridor, Leave No Trace required, $5/vehicle trailhead fee."
+                    },
+        "must_see_trails":  "Raven Cliff Falls Trail, 4.8-5.0 mi round trip, moderate, blue-blazed along Dodd Creek with stream crossings and a short rock scramble at the end.",
+        "nearby_linkages":  [
+                                "anna-ruby-falls",
+                                "smithgall-woods-heritage-preserve",
+                                "desoto-falls-chattahoochee-nf"
+                            ],
+        "card_summary":  "A waterfall that shoots out through a narrow crack in solid rock -- one of the state\u0027s oddest falls.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  273.3,
+        "drive_time_min":  381
+    },
+    {
+        "id":  "desoto-falls-chattahoochee-nf",
+        "name":  "DeSoto Falls",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Chattahoochee National Forest, near Turners Corner, Lumpkin/White County, Georgia",
+        "lat":  34.7326,
+        "lon":  -83.9247,
+        "flora_fauna":  "A three-tiered waterfall system (upper, middle, and lower falls) on Frogtown Creek dropping through a hemlock-hardwood cove with an intact wildflower and fern understory.",
+        "special_note":  "Three distinct falls -- including an upper falls roughly 200 feet tall -- reachable from a single trailhead, an unusually complete \u0027waterfall system\u0027 for one short hike; local legend ties the name to 16th-century Spanish armor said to have been found nearby.",
+        "best_time_of_year":  "Anytime for the three-tiered falls (best right after rain, when all three tiers run strong); spring for the wildflower/fern understory on the approach trail; late Oct-early Nov for foliage.",
+        "driving_distance_from_albany_ga":  "~275.9 mi / ~5h 25m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Small Forest Service day-use fee; lower falls is an easy 0.3-mi walk, upper falls adds a steeper ~1.5 mi.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A short, family-friendly walk to the lower falls\u0027 plunge pool, with a steeper trail continuing to a high overlook of the upper falls framed by hemlocks.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/f/fb/Upper_DeSoto_Falls_Georgia_2020.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/desoto-falls-chattahoochee-nf-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/desoto-falls-recreation-area",
+        "adventurer_review_link":  "https://paigemindsthegap.com/desoto-falls-trail-georgia/",
+        "notable_taxa":  "Brook Trout (stocked, Frogtown Creek), Eastern Hemlock, Rosebay Rhododendron",
+        "hike_rare_different_note":  "A low-key, easy three-tiered waterfall hike (lower falls just 0.3 mi) that\u0027s genuinely good for families, tied to local legend that a piece of armor from Hernando de Soto\u0027s 1540 expedition was found here - more of a pleasant, convenient stop than a standout novelty.",
+        "overnight_town":  "Dahlonega, GA or Helen, GA - both ~20 min with full lodging; or stay onsite.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "DeSoto Falls Campground",
+                        "notes":  "23 sites in two loops along Frogtown Creek; reservations via Recreation.gov, no walk-up; no restrooms."
+                    },
+        "must_see_trails":  "DeSoto Falls Trail, ~2 mi round trip combined to both falls, easy-moderate; Lower Falls spur ~0.3 mi easy; Upper Falls spur adds ~1.5 mi with steeper switchbacks.",
+        "nearby_linkages":  [
+                                "raven-cliff-falls-chattahoochee-nf",
+                                "smithgall-woods-heritage-preserve",
+                                "vogel-state-park-blood-mountain"
+                            ],
+        "card_summary":  "A three-tiered waterfall system -- upper, middle, and lower falls -- reachable from one trailhead.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  275.9,
+        "drive_time_min":  325
+    },
+    {
+        "id":  "vogel-state-park-blood-mountain",
+        "name":  "Vogel State Park \u0026 Blood Mountain",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Blairsville, Union County, Georgia",
+        "lat":  34.7589,
+        "lon":  -83.9290,
+        "flora_fauna":  "Vogel State Park sits in a bowl beneath Blood Mountain (4,458 ft), the highest point on the Appalachian Trail in Georgia; the bare summit is a wind-pruned heath bald of Catawba rhododendron and mountain laurel, with black bear common in the surrounding Blood Mountain Wilderness.",
+        "special_note":  "Blood Mountain\u0027s bare, boulder-strewn summit is one of the only true open \u0027bald\u0027 viewpoints the Appalachian Trail crosses in Georgia, with 360-degree views; legend ties the name to a Creek-Cherokee battle said to have stained the mountain red.",
+        "best_time_of_year":  "Mid-to-late Oct for peak foliage views from Blood Mountain\u0027s bald summit (winter leaf-off also opens long sightlines); mid-June for Catawba rhododendron and mountain laurel blooming along the Byron Reece Trail.",
+        "driving_distance_from_albany_ga":  "~280.1 mi / ~5h 33m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Blood Mountain\u0027s summit requires a strenuous ~4.4-mi round-trip hike (AT or Byron Reece Trail) with significant elevation gain; Vogel State Park itself has an easy lake loop.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Blood Mountain\u0027s bare summit boulders give an unobstructed 360-degree view across the Blue Ridge crest, regarded as one of the best panoramas on the entire Appalachian Trail in Georgia; Vogel\u0027s Lake Trudy loop offers calmer mountain-reflection views.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lake_Trahlyta%2C_Vogel_State_Park%2C_Oct_2016_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/vogel-state-park-blood-mountain-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1575,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/Vogel",
+        "adventurer_review_link":  "https://eastcoasthiker.com/trails/bloodmountain/",
+        "notable_taxa":  "Catawba Rhododendron, Mountain Laurel, Common Raven (summit), Timber Rattlesnake (rocky summit outcrops)",
+        "hike_rare_different_note":  "Blood Mountain\u0027s bald, rocky summit (4,458 ft) is the highest point on the entire Appalachian Trail in Georgia, with a historic 1930s CCC stone shelter and panoramic 360-degree views - a genuine AT bucket-list peak, not just a state park walk.",
+        "overnight_town":  "Blairsville, GA - closest full-service town (~15 min); Vogel itself also has cottages for overnighting.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Vogel State Park Campground",
+                        "notes":  "90 tent/trailer/RV sites, 18 walk-in tent sites, 1 pioneer campground, plus 34 cottages; primitive backpacking sites along the Coosa Backcountry Trail."
+                    },
+        "must_see_trails":  "Blood Mountain via Byron Reece Trail from Neel\u0027s Gap, ~4.4 mi round trip, strenuous final mile with switchbacks, joins the AT; Bear Hair Gap Loop from Vogel (~4 mi, moderate); Coosa Backcountry Trail (~13 mi loop, challenging).",
+        "nearby_linkages":  [
+                                "sosebee-cove-scenic-area",
+                                "brasstown-bald",
+                                "amicalola-falls-state-park"
+                            ],
+        "card_summary":  "Blood Mountain\u0027s bare summit gives one of the best 360-degree views on the entire Georgia AT.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  280.1,
+        "drive_time_min":  333
+    },
+    {
+        "id":  "smithgall-woods-heritage-preserve",
+        "name":  "Smithgall Woods State Heritage Preserve",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Helen, White County, Georgia",
+        "lat":  34.715,
+        "lon":  -83.753,
+        "flora_fauna":  "A State Heritage Preserve protecting Dukes Creek, one of Georgia\u0027s premier wild trout streams (catch-and-release, artificial-lures-only fishery); cove hardwood forest and historic dairy-farm meadows support deer, wild turkey, nesting songbirds, and returning river otters.",
+        "special_note":  "Purchased by the state from media executive Charles Smithgall specifically to protect Dukes Creek\u0027s wild trout fishery; access is deliberately limited (reservation system for fishing, guided tours) to preserve the stream\u0027s exceptional water quality.",
+        "best_time_of_year":  "Fall through spring (Oct-April) for the best trophy trout fishing on Dukes Creek, when cooler water keeps trout most active (reservation/permit through the visitor center year-round); the short trail to Dukes Creek Falls overlook is a worthwhile walk in any season.",
+        "driving_distance_from_albany_ga":  "~269.0 mi / ~5h 21m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "General hiking trails are open daily; trout fishing and some interior roads require advance reservation through the visitor center.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A boardwalk overlook near the preserve\u0027s edge looks down on Dukes Creek Falls, a 150-ft two-tiered cascade in a steep hemlock gorge; the preserve\u0027s open meadows give rare valley-bottom mountain views uncluttered by development.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lodge_at_Smithgall_Woods_Conservation_Area%2C_April_2017.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/smithgall-woods-heritage-preserve-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1500,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/SmithgallWoods",
+        "adventurer_review_link":  "https://www.hikingproject.com/trail/7044804/dukes-creek-falls-access-trail",
+        "notable_taxa":  "Rainbow Trout \u0026 Brown Trout (managed trophy trout stream, Dukes Creek), Great Blue Heron",
+        "hike_rare_different_note":  "One of Georgia\u0027s only reservation-only, quota-limited trophy trout streams (Dukes Creek, catch-and-release) - a genuinely different experience from typical day-use hiking parks, plus a quiet trail to Dukes Creek Falls overlook.",
+        "overnight_town":  "Helen, GA - 2 miles away, full lodging/dining; Smithgall also rents cottages onsite.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No public campground; overnight options are the park\u0027s own cottages only. Nearest camping is Unicoi State Park or Andrews Cove/Lake Russell in Chattahoochee NF."
+                    },
+        "must_see_trails":  "Dukes Creek Falls Access Trail, ~1 mi, moderate, blue-blazed old logging railroad bed to falls overlook (permit may be needed for state park segment); Cathy Ellis/Chunanee Falls Trail, ~0.5 mi moderate.",
+        "nearby_linkages":  [
+                                "anna-ruby-falls",
+                                "raven-cliff-falls-chattahoochee-nf",
+                                "desoto-falls-chattahoochee-nf"
+                            ],
+        "card_summary":  "A protected trophy trout stream with a 150-ft waterfall overlook and quiet valley-bottom mountain views.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  269.0,
+        "drive_time_min":  321
+    },
+    {
+        "id":  "sosebee-cove-scenic-area",
+        "name":  "Sosebee Cove Scenic Area",
+        "region":  "Blue Ridge Mountains",
+        "location":  "Chattahoochee National Forest, near Vogel State Park, Union County, Georgia",
+        "lat":  34.737,
+        "lon":  -83.924,
+        "flora_fauna":  "A 175-acre high-elevation, north-facing cove hardwood forest with some of the largest and oldest trees in the Chattahoochee National Forest -- yellow buckeye, basswood, yellow birch -- and one of the densest wildflower displays in north Georgia, including large-flowered trillium, showy orchis, and Jack-in-the-pulpit.",
+        "special_note":  "Named for and dedicated to Arthur Woody, the \u0027Barefoot Ranger\u0027 who helped establish the National Forest system in north Georgia and personally reintroduced white-tailed deer to the area in the 1930s after they had been hunted out.",
+        "best_time_of_year":  "Mid-April to early May for peak spring wildflower bloom.",
+        "driving_distance_from_albany_ga":  "~276.2 mi / ~5h 25m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Short (under 1 mi) interpretive loop trail directly off GA-180; no facilities.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A quiet, cathedral-like cove of towering old hardwoods carpeted with thousands of blooming trillium in spring -- one of the most concentrated wildflower displays in the Georgia mountains, with far fewer visitors than better-known trails.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/2/28/Sosebee_Cove_%2817543000916%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/sosebee-cove-scenic-area-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1530,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/wildflowers/regions/southern/SosebeeCove/index.shtml",
+        "adventurer_review_link":  "https://hiiker.app/hikes/georgia/union-county/sosebee-cove-loop",
+        "notable_taxa":  "Large-flowered Trillium, Showy Orchid, Blue Cohosh, Jack-in-the-pulpit, Yellow Buckeye \u0026 Yellow Poplar (old-growth cove hardwoods)",
+        "hike_rare_different_note":  "A true old-growth cove hardwood remnant (175 acres, named for ranger Arthur Woody) with an exceptionally dense and diverse spring wildflower display packed into under a mile of trail - worth a short stop specifically during April wildflower bloom, not a standalone destination otherwise.",
+        "overnight_town":  "n/a - pair with an overnight at Blairsville or Vogel State Park nearby.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping at this small scenic area; nearest camping is Vogel State Park (~10 min) or DeSoto Falls Campground."
+                    },
+        "must_see_trails":  "Sosebee Cove Interpretive Loop, ~0.3-0.4 mi, easy, off GA-180 near Vogel State Park.",
+        "nearby_linkages":  [
+                                "vogel-state-park-blood-mountain",
+                                "brasstown-bald",
+                                "amicalola-falls-state-park"
+                            ],
+        "card_summary":  "A quiet old-growth cove carpeted with thousands of blooming trillium each spring.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  276.2,
+        "drive_time_min":  325
+    },
+    {
+        "id":  "cloudland-canyon-state-park",
+        "name":  "Cloudland Canyon State Park",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Rising Fawn, Dade/Walker County, Georgia",
+        "lat":  34.8382,
+        "lon":  -85.4883,
+        "flora_fauna":  "A dramatic canyon cut by Sitton Gulch Creek into the edge of Lookout Mountain\u0027s Cumberland Plateau cap rock; two major waterfalls (Cherokee Falls and Hemlock Falls) and Sitton\u0027s Cave open into the canyon walls; a diverse Cumberland Plateau salamander fauna, pileated woodpeckers, and a resurgent black bear population.",
+        "special_note":  "One of Georgia\u0027s most dramatic canyons, with near-vertical, roughly 1,000-foot sandstone-and-limestone walls; Sitton\u0027s Cave, reached via a steep spur trail, is open to casual exploration without a permit (headlamp required).",
+        "best_time_of_year":  "Anytime for the canyon itself and the Sitton\u0027s Cave tour (both non-seasonal); after rain for maximum flow over Cherokee and Hemlock Falls; mid-to-late Oct for canyon-rim foliage views.",
+        "driving_distance_from_albany_ga":  "~282.5 mi / ~6h 13m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee; the waterfalls trail involves roughly 600 steps down into the canyon and back; Sitton\u0027s Cave requires its own steep, sometimes muddy spur and a light source.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Canyon-rim overlooks look straight down sheer, striped sandstone walls to the creek far below; the waterfall trail descends past Cherokee and Hemlock Falls tumbling over layered rock ledges in a narrow slot canyon.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/66/Cloudland_Canyon_view%2C_October_2016_1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/cloudland-canyon-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1630,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/CloudlandCanyon",
+        "adventurer_review_link":  "https://eastcoasthiker.com/trails/cloudlandcanyon/",
+        "notable_taxa":  "Eastern Hellbender, Tennessee Cave Salamander, Gray Bat, Allegheny Woodrat, Timber Rattlesnake, Eastern Box Turtle",
+        "hike_rare_different_note":  "The Waterfalls Trail\u0027s ~600-step descent to Cherokee and Hemlock Falls is one of the most dramatic short hikes in Georgia, and the guided Sitton\u0027s Cave wild-cave tour (no lights/trails/handrails, true crawl-and-wade) is a genuinely different experience from any other site on this list.",
+        "overnight_town":  "Trenton, GA - closest town with lodging/services, about 15 min from the park entrance (Chattanooga, TN is a larger alternative ~30 min away).",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Cloudland Canyon Campground",
+                        "notes":  "75 tent/RV sites (electric), 30 walk-in tent sites, 13 backcountry sites, 4 pioneer sites, plus 18 cottages and 10 yurts."
+                    },
+        "must_see_trails":  "Waterfalls Trail (~2 mi RT to Cherokee \u0026 Hemlock Falls, strenuous, ~600 steps); West Rim Loop Trail (moderate, canyon-rim views); Sitton\u0027s Cave is guided-only ($45/person, 2-2.5 hrs, book via park office 706-657-4050).",
+        "nearby_linkages":  [
+                                "ellisons-cave-pigeon-mountain",
+                                "pettijohn-cave",
+                                "keown-falls-johns-mountain-wma"
+                            ],
+        "card_summary":  "A dramatic 1,000-ft sandstone canyon with two waterfalls and a walk-in cave, no permit needed.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  282.5,
+        "drive_time_min":  373
+    },
+    {
+        "id":  "ellisons-cave-pigeon-mountain",
+        "name":  "Ellison\u0027s Cave (Pigeon Mountain)",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Crockford-Pigeon Mountain WMA, Walker County, Georgia",
+        "lat":  34.65,
+        "lon":  -85.35,
+        "flora_fauna":  "Contains the Fantastic Pit, at roughly 586 feet the deepest unobstructed vertical cave drop in the continental United States, plus the Incredible Pit (~440 ft); the cave hosts a globally significant cave-cricket and troglobitic invertebrate fauna, and the mountain above supports showy orchids and rare plants on its limestone glades.",
+        "special_note":  "One of the premier vertical caving destinations in North America -- cavers travel worldwide to rappel the Fantastic Pit -- but it is a wild, undeveloped cave requiring vertical rope skills; casual visitors cannot safely enter but can hike the surface trails over the mountain\u0027s karst terrain.",
+        "best_time_of_year":  "Anytime weather allows for a Fantastic Pit descent (experienced vertical cavers mainly avoid going right after heavy rain, when the pit can flood); spring for wildflowers on the surface limestone glades of Pigeon Mountain.",
+        "driving_distance_from_albany_ga":  "~265.4 mi / ~5h 47m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Cave entry requires technical vertical caving gear, a permit, and typically an experienced caving group; surface trails on Pigeon Mountain (Crockford-Pigeon Mountain WMA) are open to the public without restriction.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Not a conventional scenic overlook, but the surrounding Pigeon Mountain plateau has sweeping views over the Chattanooga Valley, and the cave itself is a world-class natural feature -- the eastern US\u0027s deepest single rope drop.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/66/Ellison%27s_Cave_dug_entrance%2C_Georgia.JPG",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/ellisons-cave-pigeon-mountain-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1590,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gadnrle.org/crockford-pigeon-mountain-wma",
+        "adventurer_review_link":  "https://caving.materials.ox.ac.uk/procs/proc13/usa.htm",
+        "notable_taxa":  "Gray Bat, Tricolored Bat, Pickerel Frog (cave-roosting), Cave Salamander, Allegheny Woodrat",
+        "hike_rare_different_note":  "The Fantastic Pit (~586 ft unobstructed drop, among the deepest single-rope pit drops in the continental US) is a bucket-list technical vertical-caving objective found almost nowhere else in the eastern US - but it is strictly for experienced, rope-trained cavers with proper SRT gear; casual visitors can only hike surface trails and view the mountain from outside.",
+        "overnight_town":  "LaFayette, GA - nearest town with lodging, ~15-20 min from the WMA check station.",
+        "camping":  {
+                        "available":  true,
+                        "name":  null,
+                        "notes":  "Primitive/dispersed camping permitted in designated areas within Crockford-Pigeon Mountain WMA (no developed campground); a Georgia Lands Pass/Go Outdoors GA license is required for WMA access."
+                    },
+        "must_see_trails":  "No public trail leads into Ellison\u0027s Cave itself - entry to the Fantastic Pit requires technical SRT (single rope technique) skills, helmet/gear, and is typically done through a grotto (e.g., Pigeon Mountain Grotto, Dogwood City Grotto). Surface access and WMA trails (Rocktown, Pocket Trail area) are open to hikers/climbers without a cave permit.",
+        "nearby_linkages":  [
+                                "pettijohn-cave",
+                                "cloudland-canyon-state-park",
+                                "keown-falls-johns-mountain-wma"
+                            ],
+        "card_summary":  "Home to the deepest vertical cave drop in the continental US (586 ft) -- technical rope skills required.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  265.4,
+        "drive_time_min":  347
+    },
+    {
+        "id":  "pettijohn-cave",
+        "name":  "Pettijohn\u0027s Cave",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Pigeon Mountain, Walker County, Georgia",
+        "lat":  34.63,
+        "lon":  -85.35,
+        "flora_fauna":  "A wild limestone cave with roughly 3.5 miles of mapped passage and a seasonal gray bat (Myotis grisescens) colony; cave salamanders and cave crickets are common near the entrance twilight zone.",
+        "special_note":  "One of the most-visited \u0027beginner\u0027 wild caves in the TAG (Tennessee-Alabama-Georgia) caving region, known for a large natural entrance room and, seasonally, a sizable bat colony; because of White-nose Syndrome concerns, the cave is sometimes gated or access-restricted during bat hibernation/maternity periods.",
+        "best_time_of_year":  "Variable by year - Pettijohn\u0027s hosts a seasonal Gray Bat maternity colony (bats are generally present roughly April-September and most sensitive to disturbance in June-July, when flightless pups are present); always check current closure status with the WMA check station or a local grotto (e.g., Dogwood City Grotto) before a trip. The cave\u0027s temperature is stable year-round, so the caving itself is not otherwise seasonal.",
+        "driving_distance_from_albany_ga":  "~257.9 mi / ~5h 46m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Open wild cave on WMA land, subject to seasonal bat-protection closures; caving experience, helmet, and multiple light sources required -- not a walking/show cave.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A spacious, boulder-floored entrance room large enough to walk upright through much of its length, descending into darker, tighter maze passage -- a genuine wild-cave experience without technical rope gear needed for the main route.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pettijohns_formations.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/pettijohn-cave-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://walkercountyga.gov/discover/recreation/crockford-pigeon-mountain-wildlife-management-area/caving/",
+        "adventurer_review_link":  "https://musg.caves.org/2007/10/08",
+        "notable_taxa":  "Gray Bat (seasonal maternity colony), Tricolored Bat, Cave Salamander, Pickerel Frog",
+        "hike_rare_different_note":  "At roughly 3.5-6 miles of mapped passage, Pettijohn\u0027s is the classic beginner-friendly wild cave in the TAG (Tennessee-Alabama-Georgia) caving region - reachable without technical rope skills, with the Worm Tube crawl and Bridge Room as signature features - but it closes seasonally to protect its gray bat maternity colony and guard against White-Nose Syndrome spread.",
+        "overnight_town":  "LaFayette, GA - same WMA access point as Ellison\u0027s Cave, nearest town with lodging.",
+        "camping":  {
+                        "available":  true,
+                        "name":  null,
+                        "notes":  "Primitive/dispersed camping within Crockford-Pigeon Mountain WMA (designated areas only); Georgia Lands Pass required."
+                    },
+        "must_see_trails":  "A wild (undeveloped) cave - no maintained trail or guide required by policy, but strongly recommended to go with an experienced caver or local grotto given confusing junctions inside. Bring 3 light sources, helmet, and a ~50 ft handline for the Bridge Room. Free access via the WMA check station off Rocky Lane Rd; closed during firearms deer season weekends and seasonally for bat protection.",
+        "nearby_linkages":  [
+                                "ellisons-cave-pigeon-mountain",
+                                "cloudland-canyon-state-park",
+                                "keown-falls-johns-mountain-wma"
+                            ],
+        "card_summary":  "A beginner-friendly wild cave with a huge walk-in entrance room and a seasonal bat colony.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  257.9,
+        "drive_time_min":  346
+    },
+    {
+        "id":  "cave-spring-rolater-park",
+        "name":  "Cave Spring \u0026 Rolater Park",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Cave Spring, Floyd County, Georgia",
+        "lat":  34.1084,
+        "lon":  -85.3377,
+        "flora_fauna":  "A limestone cave and spring producing a constant, high-volume 56degF flow that supplies the town\u0027s water; the spring run supports cave-adapted invertebrates near the entrance and feeds a swimming pool and pond with turtles and sunfish.",
+        "special_note":  "A rare \u0027walk-in\u0027 limestone cave open to the general public with no permit or guide needed -- a short, lit, easy walk to see flowstone and the Devil\u0027s Stool formation, unusually accessible for a true limestone cave.",
+        "best_time_of_year":  "Summer (Memorial Day-early Aug, daily hours) for swimming in the spring-fed pool; spring and fall weekends for the cave walk-through, which stays a constant ~56degF year-round regardless of outside season.",
+        "driving_distance_from_albany_ga":  "~210.3 mi / ~4h 31m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Small admission fee (around $2); seasonal hours (weekends only in spring/fall, daily in summer) -- call ahead.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A short, easy cave walk past stalagmite/flowstone formations lit for visitors, emerging at a crystal-clear spring pool that feeds the town\u0027s historic swimming pool and millpond.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/a/a9/RolaterPark.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public domain",
+                           "local_path":  "photos/cave-spring-rolater-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.cavespring.ga.gov/attractions/cave-spring-at-rolater-park",
+        "adventurer_review_link":  "https://wandernorthgeorgia.com/cave-spring-georgia-an-off-the-beaten-path-gem/",
+        "notable_taxa":  "Cave Salamander, spring-dwelling crayfish species, Eastern Box Turtle",
+        "hike_rare_different_note":  "A rare walk-in limestone cave (stalagmites, steady ~57degF) that needs no permit or technical gear - genuinely novel for a family trip - paired with an unusual spring-fed 1.5-acre swimming pool fed by ~2 million gallons/day; it\u0027s a low-effort, high-novelty stop rather than a hiking destination.",
+        "overnight_town":  "n/a - easily day-tripped from Rome, GA (~20-30 min away) or combined with other Floyd/Walker County stops.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No campground at Rolater Park itself; day-use only. Nearest camping is at James H. Floyd State Park or private RV parks near Rome."
+                    },
+        "must_see_trails":  "Not a hiking destination - the draw is the cave walk-through (seasonal hours, ~$2 admission, roughly mid-April-Memorial Day weekends then daily through early August; call 706-777-0202 to confirm) plus the free spring itself. The Pinhoti Trail passes directly through Rolater Park for those wanting a short trail segment.",
+        "nearby_linkages":  [
+                                "marshall-forest-preserve",
+                                "james-h-floyd-state-park"
+                            ],
+        "card_summary":  "A rare walk-in limestone cave open to the public with no permit, ending at a spring-fed pool.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  210.3,
+        "drive_time_min":  271
+    },
+    {
+        "id":  "keown-falls-johns-mountain-wma",
+        "name":  "Keown Falls \u0026 Johns Mountain Overlook",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Johns Mountain WMA, Chattahoochee National Forest, near Villanow, Walker/Gordon County, Georgia",
+        "lat":  34.556,
+        "lon":  -85.135,
+        "flora_fauna":  "Twin seasonal waterfalls (Keown Falls and South Keown Falls, each 50-80 ft) drop off a sandstone bluff in a mixed oak-hickory and chestnut-oak forest typical of the Armuchee Ridges; the WMA supports white-tailed deer, wild turkey, and occasional black bear.",
+        "special_note":  "One of only two publicly accessible waterfalls in the Armuchee District of the Chattahoochee National Forest, reached via a loop trail that also climbs to the Johns Mountain Overlook.",
+        "best_time_of_year":  "After heavy rain for peak flow (the falls dry up quickly in summer); fall for the overlook\u0027s foliage views.",
+        "driving_distance_from_albany_ga":  "~250 mi / ~5h 30m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Located on a Wildlife Management Area -- a hunting/fishing license or GA Lands Pass may be required during hunting seasons; no fee otherwise.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "The roughly 4.5-mile double loop climbs from the base of the falls to the Johns Mountain Overlook, a cliff-edge view across the Armuchee Valley rated among the best panoramas in northwest Georgia.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/5/57/View_from_Johns_Mountain_Overlook%2C_Nov_2017_2.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/keown-falls-johns-mountain-wma-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1540,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/keown-falls-picnic-area-and-trailhead-0",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/keown-falls-johns-mountain-double-loop-trail-calhoun-georgia",
+        "notable_taxa":  "Allegheny Woodrat, Pileated Woodpecker, Eastern Box Turtle, Timber Rattlesnake",
+        "hike_rare_different_note":  "Twin seasonal waterfalls reached by a steep stair-stepped climb, with the option to extend into the ~4.5 mi double loop to Johns Mountain Overlook for sweeping views of the Armuchee Valley and Taylor Ridge - one of the better overlook payoffs in this part of the state for the mileage.",
+        "overnight_town":  "Summerville, GA or Calhoun, GA - nearest towns with lodging; Villanow itself has no services.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Pocket Campground (Pocket Recreation Area, USFS)",
+                        "notes":  "26 non-electric sites (tent/small RV), flush toilets but no showers, ~3 miles from Johns Mountain Overlook via FS Road 208; confirm reservation policy with Forest Service (706-695-6736)."
+                    },
+        "must_see_trails":  "Keown Falls Loop (~1.7-1.8 mi, moderate, ~400 ft gain, steep stone-step climb to the falls); combine with Johns Mountain Trail (~3.1-3.6 mi) for a ~4.5 mi double loop to Johns Mountain Overlook. Trailhead reached via gravel FS Road 702, 0.6 mi off Pocket Road.",
+        "nearby_linkages":  [
+                                "cloudland-canyon-state-park",
+                                "ellisons-cave-pigeon-mountain",
+                                "james-h-floyd-state-park"
+                            ],
+        "card_summary":  "Twin waterfalls plus a cliff-edge overlook rated among the best panoramas in northwest Georgia.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  250,
+        "drive_time_min":  330
+    },
+    {
+        "id":  "james-h-floyd-state-park",
+        "name":  "James H. Floyd State Park",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Summerville, Chattooga/Floyd County, Georgia",
+        "lat":  34.4860,
+        "lon":  -85.3480,
+        "flora_fauna":  "Nestled beneath Taylor Ridge in a quiet Ridge-and-Valley cove with two small lakes; supports typical Cumberland Plateau-margin hardwood forest, wood ducks, and good spring wildflower displays along the Heritage Trail.",
+        "special_note":  "One of Georgia\u0027s least-visited and most tranquil state parks, prized by locals specifically for its relative solitude compared to the crowded North Georgia mountain parks.",
+        "best_time_of_year":  "Anytime - a quiet, low-key park without a single standout seasonal spectacle; spring brings wildflowers along the Heritage Trail and fall brings foliage reflected in the two lakes, but it\u0027s a pleasant stop in any season.",
+        "driving_distance_from_albany_ga":  "~244.3 mi / ~5h 13m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Two placid lakes ringed by hardwood forest beneath the Taylor Ridge escarpment, with quiet, little-used trails -- a good counterpoint to the area\u0027s busier canyon parks.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/3/38/James_H._Floyd_State_Park_1.JPG",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/james-h-floyd-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1440,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/JamesHFloyd",
+        "adventurer_review_link":  "https://www.hikingproject.com/directory/8007927/james-h-sloppy-floyd-state-park",
+        "notable_taxa":  "Great Blue Heron, Wood Duck, Eastern Box Turtle, Largemouth Bass (stocked lakes)",
+        "hike_rare_different_note":  "No single standout rare-species or novelty angle - its value is as a quiet, uncrowded base camp beneath Taylor Ridge with easy lake loops and a short but scenic Marble Mine Trail (passes an old marble quarry with a small seasonal waterfall), good for a low-key overnight rather than a must-see destination in its own right.",
+        "overnight_town":  "n/a - the park itself is the overnight base (Summerville, GA is the nearest town for supplies).",
+        "camping":  {
+                        "available":  true,
+                        "name":  "James H. (Sloppy) Floyd State Park Campground",
+                        "notes":  "~24-25 tent/RV/trailer sites with electric hookups plus 4 backcountry sites and 4 cottages."
+                    },
+        "must_see_trails":  "Marble Mine Trail (~1-1.7 mi, moderate, follows old road to a marble quarry with a small 35-ft waterfall after rain); Jenkins Gap Trail (strenuous climb to Taylor Ridge, connects to the Pinhoti Trail); Upper and Lower Lake Loop Trails (easy, ~1.3-1.8 mi each).",
+        "nearby_linkages":  [
+                                "keown-falls-johns-mountain-wma",
+                                "cave-spring-rolater-park",
+                                "marshall-forest-preserve"
+                            ],
+        "card_summary":  "Two quiet lakes beneath Taylor Ridge -- a tranquil counterpoint to the busier canyon parks.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  244.3,
+        "drive_time_min":  313
+    },
+    {
+        "id":  "marshall-forest-preserve",
+        "name":  "Marshall Forest Preserve",
+        "region":  "Ridge and Valley / Cumberland Plateau",
+        "location":  "Rome, Floyd County, Georgia",
+        "lat":  34.2634,
+        "lon":  -85.1649,
+        "flora_fauna":  "A rare old-growth forest remnant within city limits -- oak-hickory forest with trees estimated at 150-300+ years old that were never logged; the understory supports an unusually rich spring wildflower flora for a site surrounded by urban development.",
+        "special_note":  "Designated a National Natural Landmark for being one of the very few stands of virgin, uncut hardwood forest remaining in the Southeast, let alone inside a city.",
+        "best_time_of_year":  "April into early May for spring ephemeral wildflowers and the bloom of the federally threatened Large-flowered Skullcap in the understory.",
+        "driving_distance_from_albany_ga":  "~220.8 mi / ~4h 43m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Managed by Berry College / The Nature Conservancy; trails open during daylight hours.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Towering, centuries-old oaks and hickories with a cathedral-like closed canopy -- a genuinely rare sight of uncut, old-growth forest just minutes from downtown Rome.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/3/39/Marshall_forest1.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/marshall-forest-preserve-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1510,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/marshall-forest-preserve/",
+        "adventurer_review_link":  "https://stevejonesgbh.com/?p=19971",
+        "notable_taxa":  "Large-flowered Skullcap (Scutellaria montana, federally threatened), Mountain Longleaf Pine, Farkleberry",
+        "hike_rare_different_note":  "A genuine rarity: old-growth pine-hardwood forest with large loblolly pines, oaks, and hickories sitting inside Rome\u0027s city limits - Georgia\u0027s first National Natural Landmark (1966) and home to the state\u0027s largest population of the federally threatened large-flowered skullcap; trails are short and self-guided (including an ADA braille trail) rather than a hiking workout.",
+        "overnight_town":  "n/a - day trip from Rome, GA, where the preserve is located.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Day-use preserve only, open during daylight hours, no camping on site."
+                    },
+        "must_see_trails":  "Short self-guided nature trails through the ~301-acre preserve, including an ADA-accessible braille trail segment. From Rome, take Horseleg Creek Road ~1.5 mi to the parking lot (on a blind curve - caution advised). Contact: +1 404-873-6984.",
+        "nearby_linkages":  [
+                                "cave-spring-rolater-park",
+                                "james-h-floyd-state-park"
+                            ],
+        "card_summary":  "A rare stand of uncut, centuries-old virgin forest -- inside the city limits of Rome.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  220.8,
+        "drive_time_min":  283
+    },
+    {
+        "id":  "panola-mountain-state-park",
+        "name":  "Panola Mountain State Park",
+        "region":  "Piedmont",
+        "location":  "Stockbridge, Rockdale/Henry County, Georgia",
+        "lat":  33.6321,
+        "lon":  -84.1646,
+        "flora_fauna":  "A granite monadnock hosting rare \u0027solution pit\u0027 micro-ecosystems where diamorpha (elf orpine) turns the bare rock blood-red each spring before flowering white and dying back; the outcrop also hosts Georgia oak and the rare Pool Sprite (Amphianthus pusillus), a tiny endangered aquatic plant found only in granite outcrop pools in the Southeast.",
+        "special_note":  "One of the least-disturbed granite outcrops in the Piedmont -- public access to the summit is limited to ranger-led hikes specifically to protect the solution-pit plant communities, which are globally rare and largely confined to a handful of Georgia/Alabama outcrops.",
+        "best_time_of_year":  "Late March-April for the diamorpha \u0027red carpet\u0027 bloom (book a guided hike).",
+        "driving_distance_from_albany_ga":  "~170.6 mi / ~3h 25m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The summit outcrop is accessible only via scheduled ranger-led guided hikes (reservation required); general park trails and the nature center are open daily without a guide.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Vast sheets of bare gray granite stippled red with blooming diamorpha in spring, with long views across the Piedmont from the open rock summit -- a genuinely unusual landscape for the Atlanta region.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/63/Rock_outcrop%2C_Panola_Mountain_State_Park%2C_Sept_2017.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/panola-mountain-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/PanolaMountain",
+        "adventurer_review_link":  "https://www.atlantatrails.com/?p=1426",
+        "notable_taxa":  "Diamorpha smallii (Elf Orpine), Amphianthus pusillus (Pool Sprite), Quercus georgiana (Georgia Oak)",
+        "hike_rare_different_note":  "The real draw is the ranger-led guided summit hike (reservation required, ~3 miles RT) to the granite monadnock\u0027s solution-pit micro-ecosystems, which hold the federally threatened Pool Sprite and diamorpha blooms found almost nowhere else - unguided visitors never see this, making it genuinely different from a normal day hike.",
+        "overnight_town":  "n/a - about 25-30 min from downtown Atlanta, easily a day trip.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Scout Lake primitive camping area",
+                        "notes":  "5 walk-in tent sites ~0.5 mile hike-in, shared fire pits (2 sites), composting toilets, no potable water on site."
+                    },
+        "must_see_trails":  "Guided Summit/Granite Outcrop Hike (ranger-led only, ~3 mi RT, moderate) - reserve via park; Alexander Lake / Outcrop Trail (paved, easy, self-guided). Map: https://gadnrle.org/sites/default/files/parks/pdf/trailmaps/PanolaMountain_TrailMap.pdf",
+        "nearby_linkages":  [
+                                "arabia-mountain-heritage-area",
+                                "high-falls-state-park"
+                            ],
+        "card_summary":  "A rare granite outcrop that turns blood-red with blooming diamorpha each spring; ranger-led access only.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  170.6,
+        "drive_time_min":  205
+    },
+    {
+        "id":  "arabia-mountain-heritage-area",
+        "name":  "Arabia Mountain National Heritage Area",
+        "region":  "Piedmont",
+        "location":  "Lithonia/Stonecrest, DeKalb County, Georgia",
+        "lat":  33.6657,
+        "lon":  -84.1044,
+        "flora_fauna":  "An exposed granite/gneiss monadnock hosting the same rare solution-pit flora as Panola Mountain (diamorpha, pool sprite) at a much larger, more accessible scale; in autumn the outcrop turns gold with blooming Confederate daisy (Helianthus porteri), a sunflower essentially confined to a handful of granite outcrops in Georgia, Alabama, North Carolina, and South Carolina.",
+        "special_note":  "Hosts the largest and most accessible population of Confederate daisy anywhere -- a species found only within a roughly 60-mile radius of Stone Mountain -- blooming in a spectacular golden carpet each September, following the spring\u0027s red diamorpha bloom on the same rock.",
+        "best_time_of_year":  "Late March-April for the diamorpha \u0027red carpet\u0027 bloom; mid-September to early October for the Confederate daisy\u0027s gold-carpet bloom across the summit.",
+        "driving_distance_from_albany_ga":  "~175.5 mi / ~3h 34m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Open, unguided public trails cross the summit (unlike Panola); heavily used on weekends.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A mile-plus of bare, gently domed granite summit open to walk freely, with 360-degree Piedmont views and, depending on season, a red carpet of diamorpha or a gold carpet of Confederate daisies spreading across the open rock.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Diamorphia_in_Bloom_at_Arabia_Mountain_Georgia.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/arabia-mountain-heritage-area-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1590,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://arabiaalliance.org/",
+        "adventurer_review_link":  "https://www.atlantatrails.com/arabia-mountain/",
+        "notable_taxa":  "Diamorpha smallii (Elf Orpine), Helianthus porteri (Confederate Daisy), Amphianthus pusillus (Pool Sprite)",
+        "hike_rare_different_note":  "Unlike Panola Mountain next door, the summit here is open and unguided - a genuinely novel landscape of bare granite \"moonscape\" with shallow vernal pools, best timed to diamorpha\u0027s red bloom (late winter/spring) or the Confederate daisy\u0027s gold bloom (September).",
+        "overnight_town":  "n/a - in the Atlanta metro (Lithonia/Stonecrest, DeKalb County), easy day trip.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping within the Heritage Area itself; nearest option is the primitive Scout Lake camp at adjacent Panola Mountain State Park."
+                    },
+        "must_see_trails":  "Mountain Top Trail (1.3 mi RT, easy-moderate, 360-degree summit views); Boardwalk Trail Loop (~5.1 mi, moderate, summit + Arabia Lake shoreline). Trail maps: https://arabiaalliance.org/trail-maps/",
+        "nearby_linkages":  [
+                                "panola-mountain-state-park"
+                            ],
+        "card_summary":  "A mile-wide bare granite dome that turns gold with endemic Confederate daisies every September.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  175.5,
+        "drive_time_min":  214
+    },
+    {
+        "id":  "heggies-rock-preserve",
+        "name":  "Heggie\u0027s Rock Preserve",
+        "region":  "Piedmont",
+        "location":  "Appling, Columbia County, Georgia",
+        "lat":  33.5365,
+        "lon":  -82.3178,
+        "flora_fauna":  "A 101-acre granite outcrop preserve protecting one of the best examples of the globally rare granite outcrop plant community, including dense diamorpha (elf orpine) in its solution pits and other specialized outcrop plants.",
+        "special_note":  "Designated a National Natural Landmark in 1980 for the quality and rarity of its granite-outcrop ecosystem; owned and actively managed by The Nature Conservancy, which removes invasive species and monitors the rare plant populations here.",
+        "best_time_of_year":  "Spring (March-April) for diamorpha bloom, during occasional guided Conservancy tours.",
+        "driving_distance_from_albany_ga":  "~212.7 mi / ~4h 37m (calculated, real road route)",
+        "public_access":  false,
+        "access_note":  "Not generally open to unguided public visitation; The Nature Conservancy periodically offers guided tours -- check their Georgia chapter calendar before planning a visit.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A broad, little-visited sheet of exposed granite dotted with shallow rainwater solution pools, each a tiny, self-contained rare-plant ecosystem -- one of the best-preserved outcrops of its kind in the state, seen by far fewer visitors than Arabia or Stone Mountain.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/3/31/Rock_Pool_on_Heggies_Rock_%284504875810%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/heggies-rock-preserve-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1480,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/heggies-rock/",
+        "adventurer_review_link":  null,
+        "notable_taxa":  "Amphianthus pusillus (Pool Sprite), Isoetes tegetiformans (Mat-forming Quillwort), Diamorpha smallii (Granite Elf Orpine), Spooner\u0027s flightless midge (outcrop-endemic invertebrate found only here)",
+        "hike_rare_different_note":  "This is the rarest-access site on the list: a 101-acre National Natural Landmark granite outcrop that is NOT generally open to the public - visit only via periodic Nature Conservancy guided tours. Worth it specifically for the outcrop-endemic midge and dense vernal-pool plant community rarely seen outside guided access.",
+        "overnight_town":  "Augusta, GA - largest nearby city (~20 miles away) with full lodging options; worth an overnight since the preserve itself is tour-only.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping on the preserve; no restrooms on site either."
+                    },
+        "must_see_trails":  "No formal named/blazed public trail system (access is guided-tour only); past tours have covered roughly 2 miles of walking across the outcrop and dish-garden pools. No public trail map available.",
+        "nearby_linkages":  [
+
+                            ],
+        "card_summary":  "One of the best-preserved granite outcrop ecosystems in the state -- but not open to the public.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  212.7,
+        "drive_time_min":  277
+    },
+    {
+        "id":  "providence-canyon-state-park",
+        "name":  "Providence Canyon State Park",
+        "region":  "Piedmont",
+        "location":  "Lumpkin, Stewart County, Georgia",
+        "lat":  32.0765,
+        "lon":  -84.8935,
+        "flora_fauna":  "A network of colorful eroded canyons up to 150 feet deep, cut not by a river but by 19th-century agricultural erosion into soft Coastal Plain sediment -- exposed strata range through more than 40 shades of red, orange, pink, and white; canyon walls host the rare plumleaf azalea (Rhododendron prunifolium), found almost nowhere outside this part of southwest Georgia.",
+        "special_note":  "Known as \u0027Georgia\u0027s Little Grand Canyon\u0027 -- a dramatic, multicolored badlands landscape created inadvertently by poor 1800s farming practices, now a protected and iconic geologic curiosity.",
+        "best_time_of_year":  "July-August for the rare plumleaf azalea bloom on the canyon rim trail; year-round for the canyon colors, best in low-angle morning/evening light.",
+        "driving_distance_from_albany_ga":  "~58.9 mi / ~1h 21m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee; floor trail and rim loop both open, floor trail can be muddy/wet after rain.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Sixteen distinct canyons with vividly striped, candy-colored walls visible from both rim overlooks and a canyon-floor trail that winds among the formations -- one of the most visually dramatic landscapes in the entire state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/c/c6/View_from_top_of_Providence_Canyon_a.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/providence-canyon-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1600,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/ProvidenceCanyon",
+        "adventurer_review_link":  "https://eastcoasthiker.com/trails/providencecanyon/",
+        "notable_taxa":  "Rhododendron prunifolium (Plumleaf Azalea)",
+        "hike_rare_different_note":  "Genuinely unique in Georgia - colorful, deeply eroded \"canyon\" badlands (actually historic gully erosion from 1800s farming) up to 150 ft deep, plus one of the only easily-reachable wild populations of the rare plumleaf azalea, which blooms red-orange in the hottest part of summer (late July-August).",
+        "overnight_town":  "Americus, GA (~35-40 min away, historic downtown with lodging, near Andersonville) - Columbus, GA is the nearest larger city (~1 hr).",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Providence Canyon Pioneer \u0026 Backcountry Campsites",
+                        "notes":  "3 pioneer group sites plus 6 primitive backcountry sites along the 7-mile Backcountry Trail (no water/facilities, permit required); Florence Marina State Park (~9 miles away) has full RV/tent campground if the park is full."
+                    },
+        "must_see_trails":  "Canyon Loop / Rim Trail (~2.5-3 mi loop, easy-moderate, descends into the main canyons); Backcountry Trail (7-mile loop, rated extremely rugged/difficult, allow 6+ hours). Map: https://gadnrle.org/sites/default/files/parks/pdf/trailmaps/ProvidenceCanyon_TrailMap.pdf",
+        "nearby_linkages":  [
+
+                            ],
+        "card_summary":  "Georgia\u0027s \u0027Little Grand Canyon\u0027 -- 16 vividly multicolored badlands canyons carved by 1800s farming erosion.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  58.9,
+        "drive_time_min":  81
+    },
+    {
+        "id":  "sprewell-bluff-wma",
+        "name":  "Sprewell Bluff (Flint River)",
+        "region":  "Piedmont",
+        "location":  "Sprewell Bluff, near Thomaston, Upson/Talbot County, Georgia",
+        "lat":  32.8864,
+        "lon":  -84.5306,
+        "flora_fauna":  "Quartzite/schist bluffs over 100 feet high overlook a rocky shoal stretch of the upper Flint River, one of the most scenic and least-developed river corridors in the Piedmont; the shoals support shoal-dwelling fish and mussels, and the bluffs host mountain-laurel thickets unusual this far south in the Piedmont.",
+        "special_note":  "The site of a major 1970s grassroots fight that stopped a proposed dam on the Flint River -- one of the first successful river-conservation campaigns in Georgia, preserving this free-flowing shoal reach.",
+        "best_time_of_year":  "May-June for mountain-laurel bloom on the bluffs alongside good paddling flows; fall for foliage and low, clear water that\u0027s best for wading the Flint River shoals and shoal-bass fishing.",
+        "driving_distance_from_albany_ga":  "~107.1 mi / ~3h 1m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Managed as a WMA/day-use park; river access popular for paddling and fishing.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "High rock bluffs look straight down onto the Flint River tumbling over wide granite shoals -- a rare stretch of rapids and exposed rock in the generally flat middle Piedmont, reminiscent of a much smaller-scale river canyon.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/8/83/23-16-105-river.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC0",
+                           "local_path":  "photos/sprewell-bluff-wma-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1520,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://georgiawildlife.com/sprewell-bluff-wma-west",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/sprewell-bluff-park",
+        "notable_taxa":  "Hymenocallis coronaria (Shoals Spider-lily), Micropterus cataractae (Shoal Bass, river-endemic sportfish)",
+        "hike_rare_different_note":  "Site of the famous early-1970s grassroots campaign (with Gov. Jimmy Carter\u0027s backing) that stopped an Army Corps dam - today one of the last major undammed shoal stretches of the Flint River, with quartzite/schist bluffs, Class II-III shoals, and strong shoal-bass fishing/paddling.",
+        "overnight_town":  "Thomaston, GA - nearest town with lodging, about 10-15 minutes from the park area.",
+        "camping":  {
+                        "available":  true,
+                        "name":  null,
+                        "notes":  "Primitive, first-come dispersed camping permitted in designated areas on the WMA\u0027s west tract only (check-in/permit via GADNR); no camping allowed on the east/day-use side."
+                    },
+        "must_see_trails":  "Upper Flint River Trail / \"The Widowmaker\" (reports vary 1.7-4.3 mi depending on segment, moderate-to-challenging, river overlooks, shoals); Sprewell Bluff Ridge Trail (~4 mi out-and-back, moderate). No single official trail map found.",
+        "nearby_linkages":  [
+                                "high-falls-state-park"
+                            ],
+        "card_summary":  "High rock bluffs overlook the Flint River tumbling over rare Piedmont shoals and rapids.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  107.1,
+        "drive_time_min":  181
+    },
+    {
+        "id":  "high-falls-state-park",
+        "name":  "High Falls State Park",
+        "region":  "Piedmont",
+        "location":  "Jackson, Monroe/Butts County, Georgia",
+        "lat":  33.1868,
+        "lon":  -84.0171,
+        "flora_fauna":  "The Towaliga River drops over a wide, multi-tiered rock ledge -- the largest waterfall by water volume in Georgia\u0027s middle Piedmont; the old millpond above the falls and surrounding forest support beaver, great blue heron, and migratory waterfowl.",
+        "special_note":  "Site of a historic 19th-century mill town (now vanished) built to harness the falls; the falls themselves are unusually wide and powerful for a Piedmont river, more a broad cascade than a single plunge.",
+        "best_time_of_year":  "Anytime - a reliably powerful waterfall in every season (no rare species or bloom hook here); winter-spring (Dec-April) after rain gives the highest flow; fall for foliage along the gorge trail.",
+        "driving_distance_from_albany_ga":  "~137.8 mi / ~2h 45m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A broad, roaring multi-ledge cascade viewed from both an upper boardwalk and a lower gorge trail that reaches the base of the falls -- an impressively powerful waterfall for the middle-Georgia Piedmont, where such features are rare.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gfp-georgia-high-falls-state-park-main-falls.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "Public Domain",
+                           "local_path":  "photos/high-falls-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1525,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/HighFalls",
+        "adventurer_review_link":  "https://www.hikingtheappalachians.com/trail-reports/high-falls-state-park-falls-trail-jackson-georgia",
+        "notable_taxa":  null,
+        "hike_rare_different_note":  "Honestly, no rare or endemic species stand out here. The draw is a genuinely scenic, easy, multi-tiered ~50 ft wide waterfall on the Towaliga River right off I-75, paired with 19th-century mill-town/powerhouse ruins along the gorge trail - a solid, convenient family waterfall hike and overnight base rather than a biodiversity destination.",
+        "overnight_town":  "n/a - day-trippable from both Atlanta and Macon (each roughly 45-60 min), and the park itself is a strong overnight base via its own campground/yurts.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "High Falls State Park Campground (River Campground + 6 yurts, Pioneer Campground, paddle-in primitive site)",
+                        "notes":  "106 tent/RV/trailer sites with water \u0026 electric hookups, 6 yurts with heat/AC."
+                    },
+        "must_see_trails":  "Falls Loop/Falls View Trail (~1.2-1.5 mi, easy-moderate, river boardwalk + falls overlook); Historic Trail (0.5 mi, old powerhouse ruins, ADA-accessible); Tranquility Trail (2.5 mi, easy, lake loop). Map: https://gastateparks.org/sites/default/files/parks/pdf/HighFalls/HighFalls_TrailMap.pdf",
+        "nearby_linkages":  [
+                                "sprewell-bluff-wma"
+                            ],
+        "card_summary":  "A broad, powerful multi-ledge cascade -- unusually big water for the flat middle-Georgia Piedmont.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  137.8,
+        "drive_time_min":  165
+    },
+    {
+        "id":  "okefenokee-nwr",
+        "name":  "Okefenokee National Wildlife Refuge (Suwannee Canal / East Entrance)",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Folkston, Charlton County, Georgia",
+        "lat":  30.8305,
+        "lon":  -82.2529,
+        "flora_fauna":  "A 438,000-acre blackwater swamp -- one of the largest and most pristine freshwater wetland ecosystems in North America -- hosting an estimated 10,000-15,000 American alligators, large concentrations of wintering Sandhill Cranes on its open prairies, Florida black bear, and extensive stands of carnivorous plants (pitcher plants, sundews) on its peat-based \u0027houses\u0027 and prairies.",
+        "special_note":  "One of the world\u0027s largest intact blackwater swamp ecosystems and the headwaters of both the Suwannee and St. Marys Rivers; its vast, treeless \u0027prairies\u0027 are actually floating peat mats that occasionally catch fire and burn for weeks, a natural process essential to maintaining the open-water habitat.",
+        "best_time_of_year":  "Nov-Feb for wintering Sandhill Cranes on the open prairies (numbers build through Nov, peak early Jan-Feb, and most birds have left by mid-March); winter also brings cooler, bug-free paddling; March-May for peak alligator activity and prairie wildflowers.",
+        "driving_distance_from_albany_ga":  "~154.9 mi / ~3h 36m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The Suwannee Canal Recreation Area has a boardwalk, observation tower, and guided boat tours; much of the swamp interior is accessible only by canoe/kayak on designated water trails, some requiring permits for overnight trips.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A 4,000-foot boardwalk leads to a multi-story observation tower rising above the open prairie, giving a sweeping view across miles of lily-pad-covered blackwater and scattered cypress islands -- one of the most singular landscapes in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Okefenokee_Swamp_Trail_to_Monkey_Lake_-_panoramio.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 3.0",
+                           "local_path":  "photos/okefenokee-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1620,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/okefenokee",
+        "adventurer_review_link":  "https://paddling.com/paddle/trips/okefenokee-swamp-in-georgia-weekend-trip-report",
+        "notable_taxa":  "American Alligator, Sandhill Crane, Pig Frog, Pitcher plants (Sarracenia spp.), Prothonotary Warbler, Okefenokee banded water snake",
+        "hike_rare_different_note":  "A 438,000-acre blackwater swamp (a 2024 UNESCO World Heritage Site) with a 120-mile wilderness canoe trail system allowing multi-night permit camping on raised platforms deep among alligators and nesting Sandhill Cranes - a backcountry paddling experience unmatched elsewhere in Georgia.",
+        "overnight_town":  "Folkston, GA - small gateway town minutes from the Suwannee Canal/East Entrance, with motels and the Okefenokee Adventures outfitter.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Okefenokee Wilderness canoe-trail platforms (advance permit required)",
+                        "notes":  "No drive-in campground at the east entrance itself; overnight paddling trips use permitted backcountry platforms. Car camping is available at Stephen C. Foster State Park (west entrance, same swamp system)."
+                    },
+        "must_see_trails":  "Chesser Island Boardwalk (~0.75-1.5 mi, easy, elevated boardwalk to an observation tower overlooking Chesser Prairie); Swamp Island Drive (7.2 mi auto tour); Red Trail \u0026 Green Trail wilderness canoe water trails from Kingfisher Landing for multi-day paddles (permit required).",
+        "nearby_linkages":  [
+                                "stephen-c-foster-state-park",
+                                "reed-bingham-state-park"
+                            ],
+        "card_summary":  "One of the world\u0027s largest blackwater swamps -- alligators, wintering cranes, and carnivorous plants from a tower above the prairie.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Chesser Island Boardwalk (~0.75-1.5 mi, easy, elevated boardwalk to an observation tower overlooking Chesser Prairie); Swamp Island Drive (7.2 mi auto tour); Red Trail \u0026 Green Trail wilderness canoe water trails from Kingfisher Landing for multi-day paddles (permit required)."
+                     },
+        "drive_distance_mi":  154.9,
+        "drive_time_min":  216
+    },
+    {
+        "id":  "stephen-c-foster-state-park",
+        "name":  "Stephen C. Foster State Park (West Entrance, Okefenokee Swamp)",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Fargo, Charlton/Clinch County, Georgia",
+        "lat":  30.8355,
+        "lon":  -82.3587,
+        "flora_fauna":  "The west-side gateway into the Okefenokee\u0027s most remote, least-visited blackwater prairies and cypress stands; old-growth bald cypress draped in Spanish moss line narrow boat trails where alligators, river otters, and wood storks are routinely seen at close range.",
+        "special_note":  "Widely considered the quietest and most scenic way to experience the Okefenokee\u0027s interior -- its boat trails wind through cypress \u0027cathedrals\u0027 far from the busier east-side boardwalks, and the park is a certified International Dark Sky Park, with some of the darkest night skies in the eastern US.",
+        "best_time_of_year":  "Nov-April for the best wildlife visibility and most comfortable paddling temperatures; new-moon nights, any season, for the darkest stargazing skies at this International Dark Sky Park.",
+        "driving_distance_from_albany_ga":  "~154.9 mi / ~3h 36m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Boat/canoe rentals and guided tours available; some interior trails require navigation skill in a swamp with few landmarks.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Narrow, mirror-black water trails threading between towering, moss-draped cypress trunks -- an immersive, cathedral-like swamp landscape -- plus some of the darkest night skies anywhere in the Southeast for stargazing.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/7/79/Stephen_C._Foster_State_Park_rental_canoes.JPG",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/stephen-c-foster-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1580,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/StephenCFoster",
+        "adventurer_review_link":  "https://redaroundtheworld.com/2021/08/06/okefenokee-swamp",
+        "notable_taxa":  "American Alligator, Sandhill Crane (winter), Barred Owl, Prothonotary Warbler, Pig Frog, centuries-old Bald Cypress",
+        "hike_rare_different_note":  "The quietest, most scenic interior access to the Okefenokee - paddling between towering cypress \"cathedral\" stands on Billy\u0027s Lake - and it\u0027s a certified International Dark Sky Park, so swamp-and-stargazing combine in a way no other site on this list offers.",
+        "overnight_town":  "Fargo, GA - tiny gateway town right at the west entrance; otherwise stay in-park.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Stephen C. Foster State Park Campground (also signed as Okefenokee State Park)",
+                        "notes":  "52-64 tent/RV/trailer sites with electric hookups plus a pioneer campground and cottages; very remote with no cell reception."
+                    },
+        "must_see_trails":  "Trembling Earth Nature Trail (0.7 mi boardwalk loop), Jones Island Trail (0.85 mi), Upland Pine Trail (1.1 mi); the primary \u0027trail\u0027 here is water - paddle your own canoe/kayak or take a ranger-led boat tour into the cypress prairies, including the boat-in Billy\u0027s Island loop trail past a 1,000-year-old Native American mound.",
+        "nearby_linkages":  [
+                                "okefenokee-nwr",
+                                "reed-bingham-state-park"
+                            ],
+        "card_summary":  "The quiet side of the Okefenokee -- cypress-cathedral boat trails and some of the darkest skies in the East.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Trembling Earth Nature Trail (0.7 mi boardwalk loop), Jones Island Trail (0.85 mi), Upland Pine Trail (1.1 mi); the primary \u0027trail\u0027 here is water - paddle your own canoe/kayak or take a ranger-led boat tour into the cypress prairies, including the boat-in Billy\u0027s Island loop trail past a 1,000-year-old Native American mound."
+                     },
+        "drive_distance_mi":  154.9,
+        "drive_time_min":  216
+    },
+    {
+        "id":  "reed-bingham-state-park",
+        "name":  "Reed Bingham State Park",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Adel, Cook/Colquitt County, Georgia",
+        "lat":  31.1972,
+        "lon":  -83.2528,
+        "flora_fauna":  "A 375-acre reservoir and surrounding longleaf-wiregrass sandhill hosting one of Georgia\u0027s largest cold-season vulture roosts -- hundreds of resident Black and Turkey Vultures swell into the thousands each winter as migrants arrive from the north; the sandhills support gopher tortoise and fox squirrel.",
+        "special_note":  "Hosts an annual \u0027Buzzard Day\u0027 festival celebrating its enormous winter vulture roost, one of the largest and most reliable vulture concentrations in the Southeast, visible soaring over the lake and roosting in dead snags by the hundreds to thousands.",
+        "best_time_of_year":  "Late Nov-March for the big seasonal influx of wintering Black and Turkey Vultures (a few hundred resident birds are visible year-round, but migrants swell the roost into the thousands through these months); check with the park for any current Buzzard Day event date.",
+        "driving_distance_from_albany_ga":  "~71.8 mi / ~1h 42m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Hundreds to thousands of vultures lifting off the lake\u0027s dead-snag roost trees at dawn and wheeling overhead in huge soaring flocks -- a genuinely spectacular winter wildlife show just an hour from Albany.",
+        "photos":  [
+                       {
+                           "url":  "https://dlg.usg.edu/thumbnails/nge/ngen/nge_ngen_m-9087.jpg",
+                           "source":  "Digital Library of Georgia / New Georgia Encyclopedia (photo by Susan Wing)",
+                           "license":  "All rights reserved -- used here for personal/private reference only",
+                           "local_path":  "photos/reed-bingham-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1545,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/ReedBingham",
+        "adventurer_review_link":  "https://albanyherald.com/?p=145266",
+        "notable_taxa":  "Black Vulture, Turkey Vulture, American Alligator, Gopher Tortoise, Eastern Indigo Snake, Bald Eagle (wintering)",
+        "hike_rare_different_note":  "Hosts one of the largest winter vulture roosts in the Southeast (thousands of Black and Turkey Vultures roosting/soaring over the lake, celebrated each winter at a \u0027Buzzard Day\u0027 festival), set against longleaf-wiregrass sandhills and a pitcher-plant bog - a genuinely unusual wildlife spectacle not offered at other GA state parks.",
+        "overnight_town":  "Adel, GA - small town minutes from the park off I-75, or camp in-park.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Reed Bingham State Park Campground",
+                        "notes":  "46 tent/trailer/RV sites (some electric), a pioneer campground, and a primitive paddle-in island campsite (sleeps 30, boat required)."
+                    },
+        "must_see_trails":  "Coastal Plains Nature Trail (3.5 mi loop through cypress swamp, pitcher-plant bog, sandhill), plus shorter connectors Little River Trail (1.1 mi) and Birdwalk Trail (0.8 mi) with lakeside boardwalk sections for vulture-roost viewing (some sections may be closed for storm-debris repair - verify current status).",
+        "nearby_linkages":  [
+                                "okefenokee-nwr",
+                                "stephen-c-foster-state-park"
+                            ],
+        "card_summary":  "Thousands of vultures lift off the lake\u0027s roost trees at dawn -- a spectacular winter show an hour from Albany.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  71.8,
+        "drive_time_min":  102
+    },
+    {
+        "id":  "big-hammock-natural-area",
+        "name":  "Big Hammock Natural Area",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Tattnall County, near Glennville, Georgia",
+        "lat":  31.9357,
+        "lon":  -81.9676,
+        "flora_fauna":  "A National Natural Landmark sandhill/bluff community above the Altamaha River holding the largest known population of Georgia plume (Elliottia racemosa), a flowering tree found nowhere on Earth outside Georgia; gopher tortoises share burrows with eastern indigo snakes and rattlesnakes in deep longleaf-wiregrass sandhills.",
+        "special_note":  "Protects the core population of Georgia plume, a true Georgia endemic tree species that has never been found growing wild anywhere else in the world.",
+        "best_time_of_year":  "Late May-June for Georgia plume\u0027s showy white bloom clusters.",
+        "driving_distance_from_albany_ga":  "~156.1 mi / ~3h 52m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Natural area trails are open to the public; surrounding land is a Wildlife Management Area subject to hunting-season access rules.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Deep sandhill bluffs drop toward the Altamaha River floodplain through open longleaf-wiregrass savanna, with the globally endemic Georgia plume blooming in white clusters each early summer -- a true botanical rarity found only in this stretch of Georgia.",
+        "photos":  [
+                       {
+                           "url":  "https://content.govdelivery.com/attachments/fancy_images/GADNR/2026/06/13798091/6931015/georgia-plume-in-bloom-lisa-kruse-gadnr_crop.jpg",
+                           "source":  "Georgia DNR (GA Wild bulletin, photo by Lisa Kruse/GaDNR)",
+                           "license":  "All rights reserved -- used here for personal/private reference only",
+                           "local_path":  "photos/big-hammock-natural-area-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1535,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://georgiawildlife.com/big-hammock-wma",
+        "adventurer_review_link":  "https://flycatcherjournal.org/big-hammock.php",
+        "notable_taxa":  "Georgia Plume (Elliottia racemosa), Gopher Tortoise, Eastern Indigo Snake, Fringe Tree, Southern Fox Squirrel",
+        "hike_rare_different_note":  "Protects the largest known population of Georgia Plume, a small flowering tree found only in Georgia (blooms showy white in late May) - a true single-state botanical endemic you can\u0027t see almost anywhere else, growing on an ancient sand dune rising above the Altamaha floodplain.",
+        "overnight_town":  "Glennville, GA or Baxley, GA - nearest towns with lodging; easily combined with Moody Forest for an Altamaha-basin overnight.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No developed campground on-site; primarily a day-use natural area/WMA. Main gate closes automatically whenever the Altamaha River rises above 9 feet."
+                    },
+        "must_see_trails":  "Walk-in nature trail from the Mack Phillips Road entrance through the ancient sand-dune hammock forest to view Georgia Plume in bloom; no official online trail map found - best visited in late May for peak bloom.",
+        "nearby_linkages":  [
+                                "moody-forest-natural-area",
+                                "ohoopee-dunes-natural-area",
+                                "george-l-smith-state-park"
+                            ],
+        "card_summary":  "Home to the Georgia plume, a flowering tree found wild nowhere else on Earth.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  156.1,
+        "drive_time_min":  232
+    },
+    {
+        "id":  "ohoopee-dunes-natural-area",
+        "name":  "Ohoopee Dunes Natural Area",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Emanuel/Tattnall County, near Swainsboro, Georgia",
+        "lat":  32.5796,
+        "lon":  -82.3315,
+        "flora_fauna":  "Ancient, inland relict sand dunes -- wind-deposited during glacial-period climates tens of thousands of years ago -- host a desert-like xeric scrub community entirely surrounded by humid coastal plain forest; the dunes support multiple endemic insects found nowhere else, including two endemic scarab beetles and a moth tied to the dunes\u0027 bush goldenrod, plus rare plants like Georgia rosemary and a threatened woody mint (Calamintha ashei).",
+        "special_note":  "A genuinely singular geologic/ecological phenomenon -- a true sand-dune desert ecosystem landlocked deep in humid inland Georgia, ecologically identical to a coastal dune field despite sitting roughly 100 miles from the ocean, with its own endemic insect species.",
+        "best_time_of_year":  "Anytime for the dune landscape itself (the geology is the draw, not a season); spring and fall bring the most comfortable hiking temperatures and the best wildflower bloom on the scrub, while mid-summer sun on the exposed open sand can be brutal.",
+        "driving_distance_from_albany_ga":  "~157.5 mi / ~3h 33m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "The Nature Conservancy\u0027s core preserve tract is closed to the public, but the adjacent, much larger state-managed Natural Area/WMA is open for hiking.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Startling, bone-white and tan open sand dunes studded with wind-stunted scrub oak, turkey oak, and longleaf -- a landscape that looks transplanted from a coastal barrier island or even the desert Southwest, found nowhere else inland in the state.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/2/26/Public_Lands_Institute_-_Ohoopee_Dunes_Wildlife_Management_Area_-_002.tif",
+                           "source":  "Wikimedia Commons (Public Lands Institute)",
+                           "license":  "CC0",
+                           "local_path":  "photos/ohoopee-dunes-natural-area-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1575,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://georgiawildlife.com/ohoopee-dunes-wma",
+        "adventurer_review_link":  null,
+        "notable_taxa":  "Georgia Rosemary (Conradina canescens), Gopher Tortoise, relict sand-dune endemic scarab and tiger beetles, sandhill-specialist moths",
+        "hike_rare_different_note":  "Ancient relict inland sand dunes (sand up to 70 feet deep, remnants of Ice Age-era river/wind deposition) hosting globally rare endemic insects and a desert-like scrub plant community found nowhere else in coastal Georgia - a genuine ecological novelty, though the Nature Conservancy\u0027s core preserve tract is closed; only the adjoining state WMA is open.",
+        "overnight_town":  "Swainsboro, GA - nearest town with lodging.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Ohoopee Dunes WMA North Tract camping area (end of Claxton Scott Way off Hwy 57)",
+                        "notes":  "Primitive WMA camping only; no developed campground amenities."
+                    },
+        "must_see_trails":  "Interpretive hiking trail on Old McLeod\u0027s Bridge Road; trailhead reached from US-80 west of downtown Swainsboro. Vehicle access is limited and ATVs/horses are banned to protect the dune habitat.",
+        "nearby_linkages":  [
+                                "big-hammock-natural-area",
+                                "moody-forest-natural-area",
+                                "george-l-smith-state-park"
+                            ],
+        "card_summary":  "A true inland sand-dune desert, 100 miles from the coast, with its own endemic insects.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  157.5,
+        "drive_time_min":  213
+    },
+    {
+        "id":  "moody-forest-natural-area",
+        "name":  "Moody Forest Natural Area",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Baxley, Appling County, Georgia",
+        "lat":  31.7993,
+        "lon":  -82.3773,
+        "flora_fauna":  "Roughly 300 acres of old-growth longleaf and slash pine -- some trees centuries old and still bearing \u0027cat-face\u0027 turpentine scars from historic naval-stores harvesting -- bordering cypress-tupelo swamp along the Altamaha River; gopher tortoises and eastern indigo snakes inhabit the sandy longleaf uplands.",
+        "special_note":  "One of the very few remaining stands of true old-growth longleaf pine forest left in existence (less than 3% of the original longleaf ecosystem survives region-wide), saved from timber harvest when The Nature Conservancy outbid commercial buyers for the 4,400-acre tract in 2008.",
+        "best_time_of_year":  "Spring for wiregrass understory wildflowers; year-round for the old-growth stand itself.",
+        "driving_distance_from_albany_ga":  "~128 mi / ~3h 8m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Over five miles of interpretive trails open to the public; managed jointly by The Nature Conservancy and Georgia DNR.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Towering, widely spaced old-growth longleaf pines over an open wiregrass understory -- the classic, now-rare \u0027parkland\u0027 look of the pre-settlement longleaf ecosystem -- transitioning at the river\u0027s edge into a dark cypress-tupelo swamp.",
+        "photos":  [
+                       {
+                           "url":  "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/t/n/tnc_74428609_4000x2200.jpg",
+                           "source":  "The Nature Conservancy (photo by Rich Reid/TNC)",
+                           "license":  "All rights reserved -- used here for personal/private reference only",
+                           "local_path":  "photos/moody-forest-natural-area-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1515,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/moody-forest-natural-area/",
+        "adventurer_review_link":  "https://hiiker.app/hikes/georgia/appling-county/moody-forest-tavia-s-loop-trail",
+        "notable_taxa":  "Red-cockaded Woodpecker, Gopher Tortoise, Eastern Indigo Snake, old-growth Longleaf Pine, Wood Stork (nearby river habitat)",
+        "hike_rare_different_note":  "One of Georgia\u0027s largest remaining old-growth longleaf/slash pine stands - some trees centuries old with visible historic turpentine \u0027cat-face\u0027 scars - transitioning into cypress-tupelo swamp on the Altamaha River; a rare chance to walk genuine old-growth Coastal Plain forest.",
+        "overnight_town":  "Baxley, GA - nearest town with lodging; also site of the preserve\u0027s local TNC office.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No developed campground on-site; day-use hiking only. A hunting license, fishing license, or Georgia Lands Pass is required for entry."
+                    },
+        "must_see_trails":  "Tavia\u0027s Trail (~3 mi loop, easy-to-moderate, with wheelchair-accessible gravel sections) and the Altamaha River Trail (~2 mi out-and-back along the river).",
+        "nearby_linkages":  [
+                                "big-hammock-natural-area",
+                                "george-l-smith-state-park",
+                                "ohoopee-dunes-natural-area"
+                            ],
+        "card_summary":  "One of the last stands of true old-growth longleaf pine left anywhere.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  128,
+        "drive_time_min":  188
+    },
+    {
+        "id":  "broxton-rocks-preserve",
+        "name":  "Broxton Rocks Preserve",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Coffee County, near Broxton, Georgia",
+        "lat":  31.6163,
+        "lon":  -82.9275,
+        "flora_fauna":  "The largest exposed outcrop of the Altamaha Grit, a sandstone formation found only beneath a swath of the Georgia/Carolina Coastal Plain; cool, shaded rock fissures and seeps along Rocky Creek create a unique inland \u0027refugia\u0027 microclimate supporting plants normally found much farther north, alongside a 10-foot waterfall and rugged outcrops up to 20-30 feet high.",
+        "special_note":  "A singular geologic feature for the Coastal Plain -- a true rock gorge and waterfall in flat, sandy southeast Georgia, where the cool fissures host disjunct plant populations found nowhere else nearby.",
+        "best_time_of_year":  "Spring, during the Conservancy\u0027s periodic public tour dates (historically an Easter Sunday tour plus select summer dates) -- check ahead, as access is tour-only.",
+        "driving_distance_from_albany_ga":  "~87.7 mi / ~2h 12m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Not open for general unguided visitation; The Nature Conservancy runs scheduled public tours a few times per year -- advance signup required. Not ADA accessible; no restrooms.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A hidden sandstone gorge with a small waterfall, mossy grottos, and water-carved potholes -- a startlingly rugged, almost mountain-like landscape found in the middle of the flat coastal plain pine belt.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Broxton_Rocks_Waterfall.JPG",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 3.0",
+                           "local_path":  "photos/broxton-rocks-preserve-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1510,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/broxton-rocks/",
+        "adventurer_review_link":  "https://vanishinggeorgia.com/2010/04/13/rocky-creek-falls-broxton-rocks/",
+        "notable_taxa":  "Altamaha Grit sandstone outcrop specialist plants, Eastern Indigo Snake, Gopher Tortoise, Green Fly Orchid",
+        "hike_rare_different_note":  "The largest exposed outcrop of Altamaha Grit sandstone in Georgia, with a small waterfall and sandstone grottoes found nowhere else in the Coastal Plain - genuinely novel geology, but access is tour-only (a few scheduled Nature Conservancy dates per year) or self-guided at-own-risk in some years June-August, so it takes real advance planning.",
+        "overnight_town":  "Douglas, GA - nearest town with lodging and the local contact point for tour scheduling.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping; day-use only via scheduled guided tours (liability release required, no restrooms, no pets)."
+                    },
+        "must_see_trails":  "~1-1.5 mi preserve trail from the gate/kiosk to Rocky Creek Falls, walked as a ~2-hour guided tour over uneven, rocky ground; not ADA accessible. Access coordinated through The Nature Conservancy Georgia office (404-873-6946).",
+        "nearby_linkages":  [
+                                "moody-forest-natural-area",
+                                "reed-bingham-state-park"
+                            ],
+        "card_summary":  "A hidden sandstone gorge and waterfall -- startlingly rugged terrain for the flat coastal plain.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  87.7,
+        "drive_time_min":  132
+    },
+    {
+        "id":  "george-l-smith-state-park",
+        "name":  "George L. Smith State Park",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Twin City, Emanuel County, Georgia",
+        "lat":  32.5460,
+        "lon":  -82.1278,
+        "flora_fauna":  "A cypress-tupelo millpond created by a historic 1880s gristmill dam, now a maze of moss-draped trees and lily pads supporting alligators, river otters, and large numbers of wading birds and waterfowl; surrounding longleaf sandhills host gopher tortoise.",
+        "special_note":  "The millpond\u0027s still, glassy water studded with hundreds of cypress knees and Spanish-moss-draped trunks is one of the most photogenic swamp landscapes in Georgia, and the still-standing 1880s gristmill/covered bridge adds a rare historic layer to the scenery.",
+        "best_time_of_year":  "Early morning, any season, for mirror-still reflections and wildlife activity; fall for cypress needle color.",
+        "driving_distance_from_albany_ga":  "~169.9 mi / ~3h 53m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Parking fee; canoe/kayak rentals available for exploring the pond\u0027s flooded forest.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Paddling or walking among hundreds of moss-draped cypress trunks rising straight out of glass-still water around the historic millpond -- an intensely atmospheric, classic deep-South swamp scene.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/1/1c/George_L_Smith_GA_State_Park_-_panoramio.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 3.0",
+                           "local_path":  "photos/george-l-smith-state-park-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1540,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://gastateparks.org/GeorgeLSmith",
+        "adventurer_review_link":  "https://paddling.com/paddle/trips/george-l.-smith-ii-state-park-georgia/",
+        "notable_taxa":  "American Alligator, Wood Duck, Prothonotary Warbler, Gopher Tortoise, Bald Cypress, Water Tupelo",
+        "hike_rare_different_note":  "A photogenic 1880s gristmill, dam, and covered bridge sitting right on a cypress-tupelo millpond - paddle a canoe or kayak out past Spanish-moss-draped cypress and under the covered bridge, a distinctive blend of mill history and swamp scenery not found at the other sites.",
+        "overnight_town":  "Statesboro, GA - larger town ~25 min away with more lodging options; or camp in-park.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "George L. Smith State Park Campground",
+                        "notes":  "Tent/RV sites plus cottages and a primitive group camping area on the millpond."
+                    },
+        "must_see_trails":  "Mill Pond Trail (~2.5 mi, easy, loops past the covered bridge/gristmill and cypress swamp); plus paddling the millpond itself by canoe/kayak (rentals on-site).",
+        "nearby_linkages":  [
+                                "moody-forest-natural-area",
+                                "ohoopee-dunes-natural-area",
+                                "big-hammock-natural-area"
+                            ],
+        "card_summary":  "A glassy cypress millpond full of moss-draped trees beside a working 1880s gristmill.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Mill Pond Trail (~2.5 mi, easy, loops past the covered bridge/gristmill and cypress swamp); plus paddling the millpond itself by canoe/kayak (rentals on-site)."
+                     },
+        "drive_distance_mi":  169.9,
+        "drive_time_min":  233
+    },
+    {
+        "id":  "chickasawhatchee-wma",
+        "name":  "Chickasawhatchee WMA",
+        "region":  "Coastal Plain / Okefenokee",
+        "location":  "Baker/Dougherty County, Georgia (roughly 12 mi southwest of Albany)",
+        "lat":  31.4167,
+        "lon":  -84.3167,
+        "flora_fauna":  "The second-largest deepwater swamp in Georgia and the largest wetland in the Flint River basin -- nearly 20,000 acres of bottomland hardwood and cypress-tupelo swamp supporting needle palm, green fly orchid, and corkwood (all rare in this region), with historically reported (though unconfirmed in recent decades) ivory-billed woodpecker sightings adding to its reputation as one of the wildest, least-disturbed swamp tracts in southwest Georgia.",
+        "special_note":  "Acquired in one of the largest land purchases in The Nature Conservancy\u0027s Georgia chapter history; its sheer scale and remoteness -- minutes from Albany yet almost entirely roadless interior swamp -- make it one of the wildest tracts left in the region.",
+        "best_time_of_year":  "Winter-early spring for the clearest swamp visibility and waterfowl; avoid summer for mosquitoes and dense vegetation.",
+        "driving_distance_from_albany_ga":  "~19.2 mi / ~0h 41m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Managed as a Wildlife Management Area -- a hunting/fishing license or GA Lands Pass is required for entry most of the year; interior swamp is trail-less and best explored with local knowledge.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Vast, little-visited bottomland swamp just minutes from home, with the old Chickasawhatchee Creek rail trestle and corridor offering rare views into the swamp\u0027s deep interior -- a genuinely wild expanse despite its proximity to Albany.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gate_9%2C_Chickasawhatchee_WMA.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/chickasawhatchee-wma-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1500,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://georgiawildlife.com/chickasawhatchee-wma",
+        "adventurer_review_link":  "https://ebird.org/hotspot/L742178",
+        "notable_taxa":  "Needle Palm, Green Fly Orchid, Limpkin, Pileated Woodpecker, American Alligator (historically reported, unconfirmed Ivory-billed Woodpecker)",
+        "hike_rare_different_note":  "Georgia\u0027s second-largest deepwater swamp (the historic \u0027Swamp of Toa\u0027), with bottomland hardwood and cypress-tupelo stands holding needle palm and green fly orchid near the northern edge of their range - notable birding (an eBird IBA hotspot), and the lingering, unconfirmed historical reports of Ivory-billed Woodpecker add genuine mystique, though no recent confirmed sightings exist.",
+        "overnight_town":  "n/a - literally minutes from Albany, GA, which has full lodging; no need to overnight near the WMA itself.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Chickasawhatchee WMA campsites (tent/RV) and primitive campsites",
+                        "notes":  "DNR-listed developed and primitive camping on the WMA, though most visitors day-trip from Albany."
+                    },
+        "must_see_trails":  "No named/mapped hiking trail with confirmed distance; best explored via canoe on Chickasawhatchee Creek or by birding the Swamp of Toa IBA (eBird hotspot linked above).",
+        "nearby_linkages":  [
+
+                            ],
+        "card_summary":  "Nearly 20,000 acres of almost roadless wild swamp, minutes from Albany.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "No named/mapped hiking trail with confirmed distance; best explored via canoe on Chickasawhatchee Creek or by birding the Swamp of Toa IBA (eBird hotspot linked above)."
+                     },
+        "drive_distance_mi":  19.2,
+        "drive_time_min":  41
+    },
+    {
+        "id":  "cumberland-island-national-seashore",
+        "name":  "Cumberland Island National Seashore",
+        "region":  "Coastal Georgia \u0026 Barrier Islands",
+        "location":  "St. Marys, Camden County, Georgia",
+        "lat":  30.80,
+        "lon":  -81.44,
+        "flora_fauna":  "Georgia\u0027s largest and southernmost barrier island -- undeveloped maritime forest of massive live oaks draped in Spanish moss, extensive salt marsh, and dune fields grazed by a free-roaming feral horse herd (roughly 100-150 animals); the island\u0027s undeveloped beaches host a large share of Georgia\u0027s annual loggerhead sea turtle nests, plus green sea turtles and nesting shorebirds.",
+        "special_note":  "Kept essentially undeveloped by the Carnegie family\u0027s historic land ownership and now protected as a National Seashore -- one of the longest unbroken stretches of pristine barrier-island habitat on the East Coast, with no bridge access (ferry/private boat only), which has preserved its wildness.",
+        "best_time_of_year":  "Early May-mid August for loggerhead sea turtle nesting (females come ashore at night); mid-July through early October for hatchling emergences; feral horses are visible on the beach year-round. Winter offers the most comfortable hiking and birding, without summer heat and insects.",
+        "driving_distance_from_albany_ga":  "~185.5 mi / ~4h 26m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Access is by passenger ferry (reservations required, limited daily capacity) or private boat only; no vehicles without a special permit; day-trip and backcountry camping options both available.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Miles of undeveloped, nearly empty Atlantic beach backed by massive dune fields, with feral horses frequently grazing right on the sand, and a canopy tunnel of ancient live oaks and palmetto along the island\u0027s interior Main Road -- one of the most unspoiled barrier-island landscapes on the East Coast.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/4/49/South_End_Trail_in_Cumberland_Island_National_Seashore.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/cumberland-island-national-seashore-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1600,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.nps.gov/cuis/index.htm",
+        "adventurer_review_link":  "https://www.blueridgeoutdoors.com/?p=143728",
+        "notable_taxa":  "Loggerhead Sea Turtle, Feral Horse, Nine-banded Armadillo, Painted Bunting, American Alligator",
+        "hike_rare_different_note":  "Georgia\u0027s largest and wildest barrier island - a 17-mile undeveloped beach, feral horses grazing among the ruins of the Carnegie-era Dungeness mansion, and old-growth maritime live oak forest reachable only by passenger ferry; genuinely unlike anywhere else on the Georgia coast.",
+        "overnight_town":  "St. Marys, GA - the mainland ferry departure town, with the NPS Mainland Visitor Center and most lodging/dining options.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Sea Camp Beach Campground / Stafford Beach Campground (plus 3-4 backcountry sites: Stafford, Hickory Hill, Yankee Paradise, Brickhill Bluff)",
+                        "notes":  "Permits required via recreation.gov. Sea Camp (0.5 mi from dock) has restrooms and cold showers; Stafford Beach is 3.5 mi north and more primitive; backcountry sites are gear-carry only."
+                    },
+        "must_see_trails":  "Parallel Trail, Sea Camp to Stafford Beach, ~3.6 mi one-way, easy; Ashley Pond-Rayfield-Kings Bottom loop in the island interior. Visit is ferry-based: reservations via cumberlandislandferry.com, ~45-min crossing from St. Marys, check-in 1 hr before departure.",
+        "nearby_linkages":  [
+                                "jekyll-island-driftwood-beach-sea-turtle-center"
+                            ],
+        "card_summary":  "Georgia\u0027s largest undeveloped barrier island -- feral horses on the beach, ferry access only.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  185.5,
+        "drive_time_min":  266
+    },
+    {
+        "id":  "jekyll-island-driftwood-beach-sea-turtle-center",
+        "name":  "Driftwood Beach \u0026 Georgia Sea Turtle Center, Jekyll Island",
+        "region":  "Coastal Georgia \u0026 Barrier Islands",
+        "location":  "Jekyll Island, Glynn County, Georgia",
+        "lat":  31.067,
+        "lon":  -81.391,
+        "flora_fauna":  "Driftwood Beach\u0027s eroding shoreline has left a haunting stand of dead, bleached live oak and pine skeletons scattered across the sand as the beach has retreated over decades; the island\u0027s beaches are an active loggerhead sea turtle nesting site, monitored and supported by the on-island Georgia Sea Turtle Center, a working rehabilitation hospital open to visitors.",
+        "special_note":  "Driftwood Beach\u0027s bone-white tangle of fallen, long-dead oak trunks is a singular and widely photographed erosional landscape, created entirely by natural shoreline retreat rather than any storm event; the Georgia Sea Turtle Center is one of very few places in the state where the public can see sea turtle rehabilitation and recovery up close.",
+        "best_time_of_year":  "Sunrise, any time of year, for Driftwood Beach\u0027s best light and lowest crowds (the bleached boneyard itself has no season); early May-mid August for sea turtle nesting and mid-July-early October for hatchling emergences, both followed closely at the Georgia Sea Turtle Center.",
+        "driving_distance_from_albany_ga":  "~182.5 mi / ~4h 6m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Driftwood Beach and most of the island are free/public; the Georgia Sea Turtle Center charges separate admission.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "A surreal beach littered with huge, sun-bleached dead tree trunks and root systems against the open Atlantic horizon -- one of the most distinctive and otherworldly beach landscapes on the entire Georgia coast.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/7/7b/Driftwood_Beach%2C_Jekyll_Island_%28Digitized_Photo%29.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/jekyll-island-driftwood-beach-sea-turtle-center-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1555,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.jekyllisland.com/activities/georgia-sea-turtle-center/",
+        "adventurer_review_link":  "https://www.theoutbound.com/georgia/photography/explore-driftwood-beach-on-jekyll-island",
+        "notable_taxa":  "Loggerhead Sea Turtle, Kemp\u0027s Ridley Sea Turtle, Green Sea Turtle, Wilson\u0027s Plover, American Oystercatcher",
+        "hike_rare_different_note":  "A genuinely strange landscape - a bleached \u0027boneyard\u0027 of dead, storm-toppled live oaks and cedars on the beach, best at low tide - paired with a real working sea turtle rehab hospital (separate paid admission) where injured/sick turtles recover in view of visitors.",
+        "overnight_town":  "Jekyll Island itself (campground or hotels) - no need to stay off-island since lodging and the beach are co-located.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Jekyll Island Campground",
+                        "notes":  "179 sites (full hookup to primitive tent), about 0.5 mi from Driftwood Beach; reserve well ahead for cooler months and holidays."
+                    },
+        "must_see_trails":  "Driftwood Beach boardwalk/beach access off North Beachview Drive, short (roughly 0.3-2 mi out-and-back to the main driftwood field depending on how far you walk); best visited at low tide. $8/day island parking/entry fee; Georgia Sea Turtle Center open 9am-5pm daily (separate admission).",
+        "nearby_linkages":  [
+                                "cumberland-island-national-seashore"
+                            ],
+        "card_summary":  "\u0027Boneyard Beach\u0027s\u0027 bleached dead-tree skeletons, plus a working sea turtle rehab hospital open to visitors.",
+        "paddling":  {
+                         "available":  false,
+                         "note":  ""
+                     },
+        "drive_distance_mi":  182.5,
+        "drive_time_min":  246
+    },
+    {
+        "id":  "sapelo-island-reynolds-reserve",
+        "name":  "Sapelo Island \u0026 Reynolds National Estuarine Research Reserve",
+        "region":  "Coastal Georgia \u0026 Barrier Islands",
+        "location":  "Sapelo Island, McIntosh County, Georgia",
+        "lat":  31.4581,
+        "lon":  -81.2820,
+        "flora_fauna":  "A barrier island reserve combining maritime live-oak forest, extensive tidal salt marsh (smooth cordgrass covering roughly two-thirds of the reserve), and beach/dune habitat; supports bald eagles, wood storks, Wilson\u0027s plovers, nesting loggerhead sea turtles, and offshore right whale calving grounds visible from the coast in winter; site of some of the earliest and most influential U.S. salt-marsh ecology research (Eugene Odum).",
+        "special_note":  "Home to Hog Hammock, one of the last intact Gullah-Geechee communities in the US, alongside one of the best-studied salt marsh ecosystems in the country; access is tightly limited to protect both the community and the reserve\u0027s research value.",
+        "best_time_of_year":  "Mid-Nov through mid-April for North Atlantic Right Whale calving season offshore (sightings peak Jan-Feb) and for the most comfortable hiking temperatures; spring and fall for the best songbird/shorebird migration.",
+        "driving_distance_from_albany_ga":  "~192.1 mi / ~4h 24m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Access is by state-run ferry only, with limited daily departures and advance reservations required (through the Sapelo Island Visitors Center or a guided DNR tour); private boats cannot dock at most sites without arrangement.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Unbroken views across thousands of acres of golden tidal salt marsh from the island\u0027s bluffs, framed by ancient live oaks at the old Reynolds Mansion grounds -- one of the most intact and scenic salt-marsh panoramas on the Georgia coast.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sapelo_Island_beach.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 2.0",
+                           "local_path":  "photos/sapelo-island-reynolds-reserve-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1540,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://sapelonerr.org/visit-sapelo-island/",
+        "adventurer_review_link":  "https://goingplacesfarandnear.com/?p=86",
+        "notable_taxa":  "Wood Stork, Clapper Rail, Diamondback Terrapin, Bottlenose Dolphin, American Oystercatcher",
+        "hike_rare_different_note":  "One of the few ways to experience a living Gullah-Geechee community (Hog Hammock) on a barrier island accessible only by a state-run passenger ferry; also the site of Eugene Odum\u0027s foundational salt-marsh ecology research - a rare combination of cultural and scientific significance in one place.",
+        "overnight_town":  "Darien, GA - mainland town nearest the Meridian ferry dock and Visitors Center; limited on-island lodging exists only via Hog Hammock rentals/Reynolds Mansion.",
+        "camping":  {
+                        "available":  true,
+                        "name":  "Cabretta Campground (beachfront group site) / Cabretta Island Pioneer Campground (primitive)",
+                        "notes":  "Reservation required through the Reserve/DNR; no vehicle access, no electricity/water hookups at the pioneer site. Note: Cabretta access has reportedly been affected by bridge damage at times - verify current status with GA DNR before planning."
+                    },
+        "must_see_trails":  "Visit is guided-tour based, not self-guided hiking: a public tour (schedule varies, historically Wed/Sat) covers Hog Hammock, Reynolds Mansion, Nanny Goat Beach, and the 1820 lighthouse. Ferry from Meridian, GA, ~20-30 min crossing, reservations required through the Visitors Center (912-437-3224).",
+        "nearby_linkages":  [
+                                "harris-neck-nwr",
+                                "altamaha-wma-champney-river"
+                            ],
+        "card_summary":  "A Gullah-Geechee island community beside one of the best-studied salt marshes in the country; access is limited.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  192.1,
+        "drive_time_min":  264
+    },
+    {
+        "id":  "harris-neck-nwr",
+        "name":  "Harris Neck National Wildlife Refuge",
+        "region":  "Coastal Georgia \u0026 Barrier Islands",
+        "location":  "Townsend, McIntosh County, Georgia",
+        "lat":  31.6280,
+        "lon":  -81.2850,
+        "flora_fauna":  "Woody Pond hosts Georgia\u0027s largest Wood Stork nesting colony (historically 300-480+ nests in a season), alongside Great Egrets, herons, and ibis sharing the same rookery trees; the refuge\u0027s mix of salt marsh, mixed pine-hardwood, and former agricultural fields also supports alligators, painted buntings, and a notable concentration of wintering waterfowl.",
+        "special_note":  "The site of a former WWII airbase, later the subject of a decades-long land-rights dispute with the Gullah-Geechee community displaced to build it; today it hosts Georgia\u0027s largest and most significant wood stork rookery, a dramatic comeback for a species once endangered.",
+        "best_time_of_year":  "March through summer for the Wood Stork and wading-bird rookery at Woody Pond (the refuge closes the pond\u0027s perimeter trail each year starting March 1 until nesting ends, typically by late summer); winter (Dec-Feb) for concentrations of wintering waterfowl.",
+        "driving_distance_from_albany_ga":  "~208.3 mi / ~4h 44m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Free, year-round access via a wildlife drive and walking trails; the Woody Pond observation point is a short walk from the refuge road.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Dozens to hundreds of wood storks, egrets, and herons crowded into nest trees over Woody Pond -- one of the most concentrated wading-bird spectacles in the state during spring nesting season, visible from an easy roadside walk.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mycteria_americana_-Harris_Neck_National_Wildlife_Refuge%2C_Georgia%2C_USA_-nests-8.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY 2.0",
+                           "local_path":  "photos/harris-neck-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1560,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/harris-neck",
+        "adventurer_review_link":  "https://www.islands.com/1953654/harris-neck-national-wildlife-refuge-georgia-coastal-birdlife-hour-savannah-hikes",
+        "notable_taxa":  "Wood Stork, Painted Bunting, American Alligator, Roseate Spoonbill, Wilson\u0027s Plover",
+        "hike_rare_different_note":  "Free, easy wildlife drive to Woody Pond, Georgia\u0027s largest Wood Stork nesting colony - genuinely rare large-wader rookery viewing without a boat or fee, layered onto a poignant WWII-airbase and Gullah-Geechee land-rights history site.",
+        "overnight_town":  "Darien, GA - closest town with lodging, ~20-25 min away.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "No camping on the refuge (day-use only, sunrise to sunset). Nearest options are Fort McAllister State Park Campground or private campgrounds near I-95."
+                    },
+        "must_see_trails":  "4-mile one-way self-guided Wildlife Drive (car or bike) with a Woody Pond observation stop for the Wood Stork colony; shorter walking trails off the drive include West Woody Pond Trail (0.6 mi), Bluebill Pond Loop (1.1 mi), and Goose Pond Loop (1.4 mi). Trail map: https://www.fws.gov/sites/default/files/documents/2026-07/harrisnecktrailmap2024.pdf",
+        "nearby_linkages":  [
+                                "sapelo-island-reynolds-reserve",
+                                "altamaha-wma-champney-river"
+                            ],
+        "card_summary":  "Georgia\u0027s largest wood stork rookery -- hundreds of nesting storks and egrets visible from the road.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  208.3,
+        "drive_time_min":  284
+    },
+    {
+        "id":  "wassaw-island-nwr",
+        "name":  "Wassaw National Wildlife Refuge",
+        "region":  "Coastal Georgia \u0026 Barrier Islands",
+        "location":  "Wassaw Island, Chatham County, Georgia",
+        "lat":  31.8955,
+        "lon":  -80.9970,
+        "flora_fauna":  "A boat-access-only barrier island kept almost entirely free of development, with mature maritime forest, extensive dune fields, and seven miles of undeveloped Atlantic beach; one of the most important loggerhead sea turtle nesting beaches in the state, monitored continuously since 1973 by the Caretta Research Project -- one of the longest-running sea turtle research programs in the world.",
+        "special_note":  "Never developed, and purchased for preservation by The Nature Conservancy before transfer to the refuge system -- as a result it remains one of the very few completely undeveloped large barrier islands left on the US Atlantic coast, with no causeway or bridge of any kind.",
+        "best_time_of_year":  "Early May-mid August for loggerhead nesting and mid-July-early October for hatching; the Caretta Research Project runs nightly volunteer patrols through the core of the season (roughly June-August); year-round for birding on this undeveloped island.",
+        "driving_distance_from_albany_ga":  "~239.4 mi / ~5h 4m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Boat access only (no ferry service); day-use visitors can land at the public dock, but most of the island\u0027s interior and the turtle program require advance arrangement.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Seven uninterrupted miles of untouched Atlantic beach backed by rolling dunes and maritime forest, with essentially no sign of development in any direction -- among the most pristine barrier-island beachscapes remaining on the Eastern Seaboard.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Wassaw_Island_Natural_Landmark_1975.JPG",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 3.0",
+                           "local_path":  "photos/wassaw-island-nwr-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1565,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://www.fws.gov/refuge/wassaw",
+        "adventurer_review_link":  "https://gosouthsavannah.com/things-to-do/nature-and-outdoors/wassaw-island-tours.html",
+        "notable_taxa":  "Loggerhead Sea Turtle, American Alligator, Wilson\u0027s Plover, Painted Bunting, Diamondback Terrapin",
+        "hike_rare_different_note":  "One of the only Georgia barrier islands whose maritime forest was never cleared for timber, cotton, or cattle - genuinely untouched old-growth habitat, plus the Caretta Research Project\u0027s loggerhead turtle monitoring program (running continuously since 1973, one of the longest-running sea turtle programs in the US). Boat/kayak access only, no public ferry.",
+        "overnight_town":  "Savannah / Isle of Hope, GA - departure point for charters; no lodging on the island itself.",
+        "camping":  {
+                        "available":  false,
+                        "name":  null,
+                        "notes":  "Camping is prohibited on Wassaw NWR (day-use only, sunrise to sunset)."
+                    },
+        "must_see_trails":  "No ferry service - reach by private boat or charter from Isle of Hope/Savannah. Once ashore: roughly 20 miles of sandy roads plus 7 miles of beach open to hiking/biking through maritime forest (FWS trail map: https://www.fws.gov/carp/sites/default/files/documents/Trail-Map-Wassaw-NWR.pdf). Only the ocean-side of the island is open to the public; interior salt marsh is closed.",
+        "nearby_linkages":  [
+
+                            ],
+        "card_summary":  "A completely undeveloped barrier island with 7 pristine miles of beach, boat access only.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Likely paddle-able based on the water feature described; verify put-in/rental access locally."
+                     },
+        "drive_distance_mi":  239.4,
+        "drive_time_min":  304
+    },
+    {
+        "id":  "altamaha-wma-champney-river",
+        "name":  "Altamaha Wildlife Management Area \u0026 River Delta",
+        "region":  "Coastal Georgia \u0026 Barrier Islands",
+        "location":  "Altamaha WMA, near Darien, McIntosh/Glynn County, Georgia",
+        "lat":  31.3357,
+        "lon":  -81.4310,
+        "flora_fauna":  "Freshwater tidal marsh and historic rice-field impoundments at the mouth of the Altamaha River -- sometimes called \u0027the Amazon of the South\u0027 and ranked by The Nature Conservancy among its \u002775 Last Great Places on Earth\u0027 -- one of the most biologically significant river systems in the eastern US, supporting multiple freshwater mussel and fish species found nowhere else on Earth (including the endangered Altamaha spinymussel and Altamaha arcmussel), plus alligators, otters, and enormous numbers of wintering waterfowl and wading birds in the old rice impoundments.",
+        "special_note":  "The Altamaha\u0027s undammed, largely undeveloped lower river and delta are a globally recognized biodiversity hotspot, home to freshwater mussel and fish species entirely endemic to this single river drainage.",
+        "best_time_of_year":  "Winter for waterfowl concentrations in the rice impoundments; spring/summer for river mussel/fish diversity (best appreciated by kayak).",
+        "driving_distance_from_albany_ga":  "~179.7 mi / ~4h 5m (calculated, real road route)",
+        "public_access":  true,
+        "access_note":  "Managed as a WMA -- a hunting/fishing license or GA Lands Pass required for entry; old rice-field dikes provide walking access to the impoundments.",
+        "source_section":  "Web research (Georgia, no book source)",
+        "scenic_highlights":  "Vast flat expanses of freshwater marsh and historic rice-field impoundments stretching to the horizon along the Altamaha delta, with the river itself -- one of the largest and least-altered on the Atlantic coast -- visible from the dikes and boat landings.",
+        "photos":  [
+                       {
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/69/Altamaha_River_towards_Atlantic_Ocean%2C_Georgia%2C_USA.jpg",
+                           "source":  "Wikimedia Commons",
+                           "license":  "CC BY-SA 4.0",
+                           "local_path":  "photos/altamaha-wma-champney-river-1.jpg"
+                       }
+                   ],
+        "elo_seed":  1555,
+        "elo_source":  "estimated",
+        "seed_times_seen":  0,
+        "official_link":  "https://georgiawildlife.com/altamaha-wma",
+        "adventurer_review_link":  "https://sherpaguides.com/georgia/wildlife_viewing/colonial_coast/61.html",
+        "notable_taxa":  "Altamaha Spinymussel, Wood Stork, American Bittern, Swallow-tailed Kite, American Alligator",
+        "hike_rare_different_note":  "Habitat for the critically rare, federally endangered Altamaha spinymussel - a freshwater mussel found nowhere else on Earth outside this river system - set within historic 19th-century rice-field impoundments now managed as one of the Southeast\u0027s premier waterfowl/wading-bird areas; a genuinely different ecosystem (tidal freshwater marsh) from the salt marshes dominating the rest of the coastal region.",
+        "overnight_town":  "Darien, GA - the closest town, at the mouth of the Altamaha, with river-tour outfitters and several small inns.",
+        "camping":  {
+                        "available":  true,
+                        "name":  null,
+                        "notes":  "Primitive WMA camping is listed as a permitted activity (Georgia Lands Pass/license required); no developed campground on-site. Fort McAllister State Park or Darien lodging are the practical nearby alternatives."
+                    },
+        "must_see_trails":  "Not a conventional hiking destination: Champney Island Nature Trail (short walk-in) leads to an elevated observation tower over the impoundments, reached via a dirt access road off US-17 across from the Champney River Boat Landing; Butler Island\u0027s causeway/dikes along US-17 offer additional roadside wading-bird viewing, or a guided kayak tour through the old rice canals via Altamaha Coastal Tours in Darien.",
+        "nearby_linkages":  [
+                                "harris-neck-nwr",
+                                "sapelo-island-reynolds-reserve"
+                            ],
+        "card_summary":  "A vast, undammed river delta called \u0027the Amazon of the South,\u0027 with fish and mussels found nowhere else.",
+        "paddling":  {
+                         "available":  true,
+                         "note":  "Not a conventional hiking destination: Champney Island Nature Trail (short walk-in) leads to an elevated observation tower over the impoundments, reached via a dirt access road off US-17 across from the Champney River Boat Landing; Butler Island\u0027s causeway/dikes along US-17 offer additional roadside wading-bird viewing, or a guided kayak tour through the old rice canals via Altamaha Coastal Tours in Darien."
+                     },
+        "drive_distance_mi":  179.7,
+        "drive_time_min":  245
+    }
+]
