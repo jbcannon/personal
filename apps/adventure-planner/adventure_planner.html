@@ -293,6 +293,14 @@
   .hbar-seg:first-child{ border-radius:999px 0 0 999px; }
   .hbar-seg:last-child{ border-radius:0 999px 999px 0; }
   .hbar-seg:only-child{ border-radius:999px; }
+  .season-rank-grid{ display:grid; grid-template-columns:repeat(auto-fit, minmax(210px, 1fr)); gap:16px; }
+  .season-rank-state{ margin:0 0 6px; font-size:.8rem; font-weight:700; letter-spacing:.04em; color:var(--text-muted); text-transform:uppercase; }
+  .season-rank-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:3px; }
+  .season-rank-row{ display:flex; align-items:baseline; gap:8px; padding:4px 0; border-bottom:1px solid var(--border); font-size:.82rem; }
+  .season-rank-num{ color:var(--text-muted); font-weight:700; width:1.2em; flex:none; }
+  .season-rank-name{ flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .season-rank-drive{ color:var(--text-muted); font-size:.74rem; white-space:nowrap; font-variant-numeric:tabular-nums; }
+  .season-rank-empty{ color:var(--text-muted); font-size:.78rem; font-style:italic; border-bottom:none; }
 </style>
 </head>
 <body>
@@ -396,18 +404,9 @@
     </div>
   </div>
 
-  <div class="stats-grid">
-    <div class="stats-panel">
-      <h3>By region</h3>
-      <table class="stats-table" id="regionTable"><thead><tr>
-        <th>Region</th><th class="num">Places</th><th class="num">Avg Elo</th>
-      </tr></thead><tbody></tbody></table>
-    </div>
-    <div class="stats-panel">
-      <h3>Paddling</h3>
-      <div id="paddlingSummary" class="stats-sub" style="margin-bottom:8px"></div>
-      <div class="stats-chart-wrap" id="paddlingBarsWrap"></div>
-    </div>
+  <div class="stats-panel">
+    <h3>Top places to go <span class="stats-count" id="seasonRankTitle"></span></h3>
+    <div class="season-rank-grid" id="seasonRankWrap"></div>
   </div>
 
   <div class="stats-panel">
@@ -1484,44 +1483,6 @@ function renderStateTable(){
   }).join('');
 }
 
-function regionShortLabel(region){ return (region || '').replace(/^[A-Z]{2}:\s*/, ''); }
-function renderRegionTable(){
-  const tbody = document.querySelector('#regionTable tbody');
-  const regions = Array.from(new Set(ALL_IDS.map(id => byId[id].region).filter(Boolean)));
-  const rows = regions.map(region => {
-    const ids = ALL_IDS.filter(id => byId[id].region === region);
-    const avgElo = ids.reduce((s,id) => s + ratings[id], 0) / ids.length;
-    return { region, count: ids.length, avgElo };
-  }).sort((a,b) => b.avgElo - a.avgElo);
-  tbody.innerHTML = rows.map(r => `<tr><td>${escapeHtml(regionShortLabel(r.region))}</td><td class="num">${r.count}</td><td class="num">${Math.round(r.avgElo)}</td></tr>`).join('');
-}
-
-// Small div-based horizontal bar list, shared by the paddling and
-// best-time-of-year panels -- no need for a full SVG chart for a simple tally.
-function renderHBar(wrapId, rows){
-  const wrap = document.getElementById(wrapId);
-  const maxCount = Math.max(1, ...rows.map(r => r.count));
-  wrap.innerHTML = rows.map(r => `
-    <div class="hbar-row">
-      <div class="hbar-label">${escapeHtml(r.label)}</div>
-      <div class="hbar-track"><div class="hbar-fill" style="width:${(r.count / maxCount * 100).toFixed(1)}%; background:${r.color}"></div></div>
-      <div class="hbar-value">${r.count}</div>
-    </div>`).join('');
-}
-
-function renderPaddlingStats(){
-  const paddlingIds = ALL_IDS.filter(id => byId[id].paddling && byId[id].paddling.available);
-  const nonIds = ALL_IDS.filter(id => !(byId[id].paddling && byId[id].paddling.available));
-  const pct = Math.round(100 * paddlingIds.length / ALL_IDS.length);
-  document.getElementById('paddlingSummary').textContent =
-    `${paddlingIds.length} of ${ALL_IDS.length} places (${pct}%) are paddling-relevant.`;
-  const avgElo = ids => ids.length ? Math.round(ids.reduce((s,id) => s + ratings[id], 0) / ids.length) : 0;
-  renderHBar('paddlingBarsWrap', [
-    { label: 'Paddling', count: avgElo(paddlingIds), color: 'var(--accent)' },
-    { label: 'Non-paddling', count: avgElo(nonIds), color: 'var(--text-muted)' }
-  ]);
-}
-
 // Free-text best_time_of_year descriptions mention multiple months/seasons
 // together (e.g. spring migration AND fall hatching in one entry), so this
 // tallies season-word mentions rather than forcing each place into one
@@ -1566,13 +1527,52 @@ function renderSeasonStats(){
   renderHBarStacked('seasonBarsWrap', rows);
 }
 
+function currentSeasonLabel(){
+  const m = new Date().getMonth(); // 0=Jan .. 11=Dec
+  if(m === 11 || m <= 1) return 'Winter';
+  if(m <= 4) return 'Spring';
+  if(m <= 7) return 'Summer';
+  return 'Fall';
+}
+// A concrete, actionable shortlist (not just a tally): top-ranked places that
+// are actually in season right now, per state, with how far each one is.
+function renderSeasonRank(){
+  const season = currentSeasonLabel();
+  const seasonRe = SEASON_PATTERNS[season];
+  const anytimeRe = SEASON_PATTERNS['Anytime / year-round'];
+  document.getElementById('seasonRankTitle').textContent = `(${season} right now)`;
+
+  const states = ['AL','GA','FL'];
+  const wrap = document.getElementById('seasonRankWrap');
+  wrap.innerHTML = states.map(st => {
+    const ids = ALL_IDS.filter(id => {
+      const p = byId[id];
+      if(p.state !== st) return false;
+      const text = p.best_time_of_year || '';
+      return seasonRe.test(text) || anytimeRe.test(text);
+    }).sort((a,b) => ratings[b] - ratings[a]).slice(0, 8);
+
+    const rows = ids.map((id, i) => {
+      const p = byId[id];
+      const drive = (typeof p.drive_time_min === 'number')
+        ? `${Math.round(p.drive_time_min)} min / ${Math.round(p.drive_distance_mi || 0)} mi`
+        : '—';
+      return `<li class="season-rank-row"><span class="season-rank-num">${i+1}</span><span class="season-rank-name">${escapeHtml(p.name)}</span><span class="season-rank-drive">${drive}</span></li>`;
+    }).join('');
+
+    return `<div class="season-rank-col">
+      <h4 class="season-rank-state">${st}</h4>
+      <ol class="season-rank-list">${rows || '<li class="season-rank-empty">Nothing tagged for this season yet</li>'}</ol>
+    </div>`;
+  }).join('');
+}
+
 function renderStats(){
   renderConsistency();
   renderDotplot();
   renderScatter();
   renderStateTable();
-  renderRegionTable();
-  renderPaddlingStats();
+  renderSeasonRank();
   renderSeasonStats();
 }
 
