@@ -1536,11 +1536,24 @@ function currentSeasonLabel(){
 }
 // A concrete, actionable shortlist (not just a tally): top-ranked places that
 // are actually in season right now, per state, with how far each one is.
+function formatDriveTime(min){
+  if(typeof min !== 'number') return '—';
+  const h = Math.floor(min / 60), m = Math.round(min % 60);
+  return h > 0 ? `${h}h ${m}min` : `${m}min`;
+}
+// Value Score = Elo minus drive minutes: a place has to be exciting enough
+// to justify the trip, not just the single most-hyped thing in the state.
+// A 400-Elo-point favorite still wins even if it's far; among similarly
+// exciting places, the closer one wins.
+function valueScore(p){
+  const penalty = (typeof p.drive_time_min === 'number') ? p.drive_time_min : 0;
+  return ratings[p.id] - penalty;
+}
 function renderSeasonRank(){
   const season = currentSeasonLabel();
   const seasonRe = SEASON_PATTERNS[season];
   const anytimeRe = SEASON_PATTERNS['Anytime / year-round'];
-  document.getElementById('seasonRankTitle').textContent = `(${season} right now)`;
+  document.getElementById('seasonRankTitle').textContent = `(${season} right now, ranked by Value Score — Elo minus drive minutes)`;
 
   const states = ['AL','GA','FL'];
   const wrap = document.getElementById('seasonRankWrap');
@@ -1550,14 +1563,16 @@ function renderSeasonRank(){
       if(p.state !== st) return false;
       const text = p.best_time_of_year || '';
       return seasonRe.test(text) || anytimeRe.test(text);
-    }).sort((a,b) => ratings[b] - ratings[a]).slice(0, 8);
+    }).sort((a,b) => valueScore(byId[b]) - valueScore(byId[a])).slice(0, 8);
 
     const rows = ids.map((id, i) => {
       const p = byId[id];
-      const drive = (typeof p.drive_time_min === 'number')
-        ? `${Math.round(p.drive_time_min)} min / ${Math.round(p.drive_distance_mi || 0)} mi`
-        : '—';
-      return `<li class="season-rank-row"><span class="season-rank-num">${i+1}</span><span class="season-rank-name">${escapeHtml(p.name)}</span><span class="season-rank-drive">${drive}</span></li>`;
+      const drive = formatDriveTime(p.drive_time_min);
+      const frac = ids.length > 1 ? 1 - (i / (ids.length - 1)) : 1; // 1 at #1, 0 at last
+      const alphaPct = (8 + frac * 28).toFixed(1);
+      const bg = `color-mix(in srgb, ${STATE_DOT_COLOR[st]} ${alphaPct}%, transparent)`;
+      const title = `Value Score ${Math.round(valueScore(p))} (Elo ${Math.round(ratings[id])}, ${drive} drive)`;
+      return `<li class="season-rank-row" style="background:${bg}" title="${escapeHtml(title)}"><span class="season-rank-num">${i+1}</span><span class="season-rank-name">${escapeHtml(p.name)}</span><span class="season-rank-drive">${drive}</span></li>`;
     }).join('');
 
     return `<div class="season-rank-col">
