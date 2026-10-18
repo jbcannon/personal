@@ -305,6 +305,7 @@
   .season-rank-headers span{ text-align:right; }
   .season-rank-num{ color:var(--text-muted); font-weight:700; }
   .season-rank-name{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .season-rank-clock{ font-size:.72em; margin-right:3px; }
   .season-rank-stat{ color:var(--text-muted); text-align:right; white-space:nowrap; font-variant-numeric:tabular-nums; font-size:.74rem; }
   .season-rank-value{ color:var(--text); font-weight:700; }
   .season-rank-empty{ color:var(--text-muted); font-size:.78rem; font-style:italic; }
@@ -1571,9 +1572,15 @@ function renderSeasonRank(){
       const frac = (vs - minS) / span;
       const alphaPct = (8 + frac * 32).toFixed(1);
       const bg = `color-mix(in srgb, ${STATE_DOT_COLOR[st]} ${alphaPct}%, transparent)`;
+      // Time-sensitive = the text actually calls out this specific season,
+      // not just "Anytime" -- i.e. there's a real best-time-to-go window.
+      const timeSensitive = seasonRe.test(p.best_time_of_year || '');
+      const clock = timeSensitive
+        ? `<span class="season-rank-clock" title="Best time to go: right now (${escapeHtml(season)})">🕐</span>`
+        : '';
       return `<li class="season-rank-row" style="background:${bg}">
         <span class="season-rank-num">${i+1}</span>
-        <span class="season-rank-name">${escapeHtml(p.name)}</span>
+        <span class="season-rank-name">${clock}${escapeHtml(p.name)}</span>
         <span class="season-rank-stat">${Math.round(ratings[id])}</span>
         <span class="season-rank-stat">${drive}</span>
         <span class="season-rank-stat season-rank-value">${Math.round(vs)}</span>
