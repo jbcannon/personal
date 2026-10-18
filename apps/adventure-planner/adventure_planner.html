@@ -269,8 +269,6 @@
   .stats-chart-wrap svg{ display:block; }
   .stats-dot{ cursor:pointer; transition:r 100ms ease, opacity 100ms ease; opacity:.88; }
   .stats-dot:hover, .stats-dot.hovered{ opacity:1; stroke:var(--text); stroke-width:1.2px; }
-  .stats-grid{ display:grid; grid-template-columns:1fr; gap:14px; }
-  @media (min-width:700px){ .stats-grid{ grid-template-columns:1.3fr 1fr; } }
   .stats-table{ width:100%; border-collapse:collapse; font-size:.8rem; }
   .stats-table th, .stats-table td{ text-align:left; padding:5px 8px; border-bottom:1px solid var(--border); }
   .stats-table th{ color:var(--text-muted); font-weight:600; font-size:.72rem; text-transform:uppercase; letter-spacing:.03em; }
@@ -293,14 +291,23 @@
   .hbar-seg:first-child{ border-radius:999px 0 0 999px; }
   .hbar-seg:last-child{ border-radius:0 999px 999px 0; }
   .hbar-seg:only-child{ border-radius:999px; }
-  .season-rank-grid{ display:grid; grid-template-columns:repeat(auto-fit, minmax(210px, 1fr)); gap:16px; }
-  .season-rank-state{ margin:0 0 6px; font-size:.8rem; font-weight:700; letter-spacing:.04em; color:var(--text-muted); text-transform:uppercase; }
-  .season-rank-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:3px; }
-  .season-rank-row{ display:flex; align-items:baseline; gap:8px; padding:4px 0; border-bottom:1px solid var(--border); font-size:.82rem; }
-  .season-rank-num{ color:var(--text-muted); font-weight:700; width:1.2em; flex:none; }
-  .season-rank-name{ flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-  .season-rank-drive{ color:var(--text-muted); font-size:.74rem; white-space:nowrap; font-variant-numeric:tabular-nums; }
-  .season-rank-empty{ color:var(--text-muted); font-size:.78rem; font-style:italic; border-bottom:none; }
+  .season-rank-grid{ display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px; }
+  .season-rank-state{ margin:0 0 4px; font-size:.82rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase; }
+  .season-rank-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:2px; }
+  .season-rank-row{
+    display:grid; grid-template-columns:1.3em 1fr 2.8em 4.4em 2.8em; gap:6px; align-items:baseline;
+    padding:4px 2px; border-radius:4px; font-size:.8rem;
+  }
+  .season-rank-headers{
+    color:var(--text-muted); font-size:.64rem; text-transform:uppercase; letter-spacing:.03em;
+    padding:0 2px 3px; margin-bottom:2px; border-bottom:1px solid var(--border);
+  }
+  .season-rank-headers span{ text-align:right; }
+  .season-rank-num{ color:var(--text-muted); font-weight:700; }
+  .season-rank-name{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .season-rank-stat{ color:var(--text-muted); text-align:right; white-space:nowrap; font-variant-numeric:tabular-nums; font-size:.74rem; }
+  .season-rank-value{ color:var(--text); font-weight:700; }
+  .season-rank-empty{ color:var(--text-muted); font-size:.78rem; font-style:italic; }
 </style>
 </head>
 <body>
@@ -376,6 +383,11 @@
   </div>
 
   <div class="stats-panel">
+    <h3>Top places to go <span class="stats-count" id="seasonRankTitle"></span></h3>
+    <div class="season-rank-grid" id="seasonRankWrap"></div>
+  </div>
+
+  <div class="stats-panel">
     <h3>Consistency</h3>
     <div id="consistencySummary" class="stats-sub" style="margin-bottom:6px"></div>
     <div id="consistencyFlips"></div>
@@ -391,22 +403,9 @@
     <div class="stats-chart-wrap" id="dotplotWrap"></div>
   </div>
 
-  <div class="stats-grid">
-    <div class="stats-panel">
-      <h3>Elo vs. drive time from home</h3>
-      <div class="stats-chart-wrap" id="scatterWrap"></div>
-    </div>
-    <div class="stats-panel">
-      <h3>By state</h3>
-      <table class="stats-table" id="stateTable"><thead><tr>
-        <th>State</th><th class="num">Places</th><th class="num">Avg Elo</th><th class="num">Avg drive</th>
-      </tr></thead><tbody></tbody></table>
-    </div>
-  </div>
-
   <div class="stats-panel">
-    <h3>Top places to go <span class="stats-count" id="seasonRankTitle"></span></h3>
-    <div class="season-rank-grid" id="seasonRankWrap"></div>
+    <h3>Elo vs. drive time from home</h3>
+    <div class="stats-chart-wrap" id="scatterWrap"></div>
   </div>
 
   <div class="stats-panel">
@@ -1470,19 +1469,6 @@ function renderConsistency(){
   }).join('');
 }
 
-function renderStateTable(){
-  const tbody = document.querySelector('#stateTable tbody');
-  const states = ['AL','GA','FL'];
-  tbody.innerHTML = states.map(st => {
-    const ids = ALL_IDS.filter(id => byId[id].state === st);
-    if(ids.length === 0) return '';
-    const avgElo = ids.reduce((s,id) => s + ratings[id], 0) / ids.length;
-    const withDrive = ids.map(id => byId[id]).filter(p => typeof p.drive_time_min === 'number');
-    const avgDrive = withDrive.length ? withDrive.reduce((s,p) => s + p.drive_time_min, 0) / withDrive.length : null;
-    return `<tr><td>${st}</td><td class="num">${ids.length}</td><td class="num">${Math.round(avgElo)}</td><td class="num">${avgDrive !== null ? Math.round(avgDrive) + ' min' : '—'}</td></tr>`;
-  }).join('');
-}
-
 // Free-text best_time_of_year descriptions mention multiple months/seasons
 // together (e.g. spring migration AND fall hatching in one entry), so this
 // tallies season-word mentions rather than forcing each place into one
@@ -1556,27 +1542,49 @@ function renderSeasonRank(){
   document.getElementById('seasonRankTitle').textContent = `(${season} right now, ranked by Value Score — Elo minus drive minutes)`;
 
   const states = ['AL','GA','FL'];
-  const wrap = document.getElementById('seasonRankWrap');
-  wrap.innerHTML = states.map(st => {
-    const ids = ALL_IDS.filter(id => {
+  const byState = {};
+  states.forEach(st => {
+    byState[st] = ALL_IDS.filter(id => {
       const p = byId[id];
       if(p.state !== st) return false;
       const text = p.best_time_of_year || '';
       return seasonRe.test(text) || anytimeRe.test(text);
     }).sort((a,b) => valueScore(byId[b]) - valueScore(byId[a])).slice(0, 8);
+  });
 
+  // One shared color scale across all three states (not per-list relative
+  // position), so the same Value Score always tints the same regardless of
+  // which state's column it happens to land in.
+  const allShown = states.flatMap(st => byState[st]);
+  const allScores = allShown.map(id => valueScore(byId[id]));
+  const minS = allScores.length ? Math.min(...allScores) : 0;
+  const maxS = allScores.length ? Math.max(...allScores) : 1;
+  const span = (maxS - minS) || 1;
+
+  const wrap = document.getElementById('seasonRankWrap');
+  wrap.innerHTML = states.map(st => {
+    const ids = byState[st];
     const rows = ids.map((id, i) => {
       const p = byId[id];
+      const vs = valueScore(p);
       const drive = formatDriveTime(p.drive_time_min);
-      const frac = ids.length > 1 ? 1 - (i / (ids.length - 1)) : 1; // 1 at #1, 0 at last
-      const alphaPct = (8 + frac * 28).toFixed(1);
+      const frac = (vs - minS) / span;
+      const alphaPct = (8 + frac * 32).toFixed(1);
       const bg = `color-mix(in srgb, ${STATE_DOT_COLOR[st]} ${alphaPct}%, transparent)`;
-      const title = `Value Score ${Math.round(valueScore(p))} (Elo ${Math.round(ratings[id])}, ${drive} drive)`;
-      return `<li class="season-rank-row" style="background:${bg}" title="${escapeHtml(title)}"><span class="season-rank-num">${i+1}</span><span class="season-rank-name">${escapeHtml(p.name)}</span><span class="season-rank-drive">${drive}</span></li>`;
+      return `<li class="season-rank-row" style="background:${bg}">
+        <span class="season-rank-num">${i+1}</span>
+        <span class="season-rank-name">${escapeHtml(p.name)}</span>
+        <span class="season-rank-stat">${Math.round(ratings[id])}</span>
+        <span class="season-rank-stat">${drive}</span>
+        <span class="season-rank-stat season-rank-value">${Math.round(vs)}</span>
+      </li>`;
     }).join('');
 
     return `<div class="season-rank-col">
-      <h4 class="season-rank-state">${st}</h4>
+      <h4 class="season-rank-state" style="color:${STATE_DOT_COLOR[st]}">${st}</h4>
+      <div class="season-rank-row season-rank-headers">
+        <span></span><span></span><span>Elo</span><span>Drive</span><span>Value</span>
+      </div>
       <ol class="season-rank-list">${rows || '<li class="season-rank-empty">Nothing tagged for this season yet</li>'}</ol>
     </div>`;
   }).join('');
@@ -1586,7 +1594,6 @@ function renderStats(){
   renderConsistency();
   renderDotplot();
   renderScatter();
-  renderStateTable();
   renderSeasonRank();
   renderSeasonStats();
 }
